@@ -1,0 +1,15 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6-pattern\\d7503ee7235642abb70af10eb348e18d\\Tsapfa_PRECISION_M6_M12.SLDPRT",
+  "SourceSha256": "BEC09682C1ECDAF1109F9000734AA0AD4FBC5244B4E74C23632CB84FD7698F5A",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-alignment-repair\\ed1b799c691649daa121b595ba2d7e6d\\ALIGNMENT_TRIAL.SLDPRT",
+  "ModelSha256": "02ED62B779B538188EA67F4F24E9FCBF703D8571184A5E035B27A393560AA8B8",
+  "Mode": "--repair-precision-m6-overlap",
+  "Status": "Recovery manifest recorded after successful save but failed fresh-open check. Not an automated completed repair report.",
+  "EvidenceLog": "tmp/m6-overlap-edit-20261005.log",
+  "ErrorLog": "tmp/m6-overlap-edit-20261005.err",
+  "Changes": {"Holes": [1, 2], "OldToolOverlapMm": 0.01, "NewToolOverlapMm": 0.1},
+  "BeforeSaveKernelFaults": 0,
+  "FreshOpenWarning": 128,
+  "FreshSavedFileOpened": false,
+  "Accepted": false
+}

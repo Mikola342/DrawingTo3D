@@ -1,0 +1,22 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\L_EXPERIMENT_WORK.SLDPRT.
+[TEST OK] Experimental L selected chain:181+51=232=237-(56-51); groove230.1..232; land=3,8; exit235.8..237. NOT source acceptance.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..235,800000000, samples=66.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[EXPERIMENT L OK] X235,8..237; angle30 to axis; samples=66; NOT drawing acceptance.
+[OK] EXPERIMENT_L_GROOVE_RIGHT_WALL_51: X=230,1..232, R=34..35,5.
+[TEST OK] Experimental L selected chain:181+51=232=237-(56-51); groove230.1..232; land=3,8; exit235.8..237. NOT source acceptance.
+[TIFF BORE OK] D68: X=181,000000000..230,100000000, samples=99.
+[TIFF BORE OK] D68: X=232,000000000..235,800000000, samples=66.
+[TIFF BORE OK] D71: X=230,100000000..232,000000000, samples=66.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[EXPERIMENT L OK] X235,8..237; angle30 to axis; samples=66; NOT drawing acceptance.
+[TIFF HEALTH OK] active=354, suppressed=25, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\Tsapfa_EXPERIMENT_L_PROFILE.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\Tsapfa_EXPERIMENT_L_PROFILE.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-l-profile\aee57bafd63f4ca69cb86fb062bd0f59\Tsapfa_EXPERIMENT_L_PROFILE.SLDPRT

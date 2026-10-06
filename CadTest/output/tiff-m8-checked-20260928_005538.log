@@ -1,0 +1,21 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\TIFF_M8_WORK_5119a1083c334ab4b593d01f8ab3ff43.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\TIFF_M8_WORK_5119a1083c334ab4b593d01f8ab3ff43.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\TIFF_M8_WORK_5119a1083c334ab4b593d01f8ab3ff43.SLDPRT.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TRIAL] TIFF_II_M8_PILOT_PENDING_LENGTH: D=6,646835306586815, finite length=6,092560.
+[DIAGNOSTIC] M8 isolated removal: V=37,095227328, bodies=2, samples=2145, R=3,323417653..3,999999997, S=-0,000000000..6,092559671; whole-part delta=37,099138634.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=0,089851756..3,958223752.
+[AUDIT] M8 face plane=True, R=2,538618776..3,999999997.
+[AUDIT] M8 60: 1122 samples; S=-0,000000000..6,092559671, R=0,089851756..3,999999997.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\Tsapfa_TIFF_II_M8_NOMINAL_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\Tsapfa_TIFF_II_M8_NOMINAL_WIP.SLDPRT
+[TIFF M8 WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\Tsapfa_TIFF_II_M8_NOMINAL_WIP.SLDPRT

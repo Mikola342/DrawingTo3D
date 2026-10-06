@@ -1,0 +1,33 @@
+{
+  "Status": "Conditional flat-bottom/toroidal blend hypothesis; NOT recovered drawing geometry or a CAD cut",
+  "Assumptions": [
+    "Opening plane assumed X273",
+    "Depth assumed 13.5",
+    "Local centre main-axis offset assumed 74",
+    "Flat disk plus meridional R16 blend assumed"
+  ],
+  "Nominal": {
+    "Depth": 13.5,
+    "FlatRadius": 0.6965193707208925,
+    "BottomX": 259.5,
+    "BlendCentreX": 275.5,
+    "OpeningPlaneX": 273,
+    "FloorIntersectionRadius": 4.665146337317779
+  },
+  "OpeningRadialSpan": [
+    57.5,
+    90.5
+  ],
+  "RearVoidRadialSpan": [
+    48.5,
+    95
+  ],
+  "OpeningEntirelyInsideExistingVoid": true,
+  "ApparentOpeningAtRearFloorDiameter": 9.330292674635558,
+  "HoleLocalRadialSpan": [
+    4,
+    16
+  ],
+  "Conclusion": "Matching R16 and D33 in an isolated mathematical bowl does not produce a D33 rim in this base model: the assumed rim is in empty space. Recheck projection/datum/centre and rear cavity interpretation before any cut.",
+  "Scope": "Incompatibility of combined assumptions, NOT proof that drawing is wrong or that base cavity must be changed. No additional user approval inferred."
+}

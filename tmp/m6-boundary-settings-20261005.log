@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\fdb3097258e3402a8af342688228e41e\AFTER_fdb3097258e3402a8af342688228e41e.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\fdb3097258e3402a8af342688228e41e\AFTER_fdb3097258e3402a8af342688228e41e.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\fdb3097258e3402a8af342688228e41e\AFTER_fdb3097258e3402a8af342688228e41e.SLDPRT.
+[PRECISION SETTINGS] 1: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 1: X248,9942264973081..264,5412660824127,R2,4487341226347255..3,0000003853670365;passed=False.
+[PRECISION SETTINGS] 2: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 2: X248,9942264973081..264,54126608241427,R2,4487341226347255..3,000000385369522;passed=False.
+[PRECISION SETTINGS] 3: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 3: X248,99999999999997..264,54126607122066,R2,4587341226346715..3,000000385367118;passed=True.
+[PRECISION SETTINGS] 4: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 4: X249..264,5412660712203,R2,458734122634676..3,000000385369945;passed=True.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\fdb3097258e3402a8af342688228e41e

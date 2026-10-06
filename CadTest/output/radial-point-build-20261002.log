@@ -1,0 +1,8 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-radial-point\db811a365e31471fa36cae8a0ab2a831\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-radial-point\db811a365e31471fa36cae8a0ab2a831\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-radial-point\db811a365e31471fa36cae8a0ab2a831\L_EXPERIMENT_WORK.SLDPRT.
+[TRIAL] EXPERIMENT_AA_RADIAL_CYLINDER: D=6, finite length=11,568215.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-radial-point\db811a365e31471fa36cae8a0ab2a831\UNVERIFIED_FAILED_BUILD.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-radial-point\db811a365e31471fa36cae8a0ab2a831\UNVERIFIED_FAILED_BUILD.SLDPRT

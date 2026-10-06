@@ -1,0 +1,21 @@
+{
+  "RemovedOutside": {
+    "Components": 0,
+    "Error": 0,
+    "Passed": true
+  },
+  "AddedOutside": {
+    "Components": 0,
+    "Error": 0,
+    "Passed": true
+  },
+  "MaskHoles": [
+    1,
+    2
+  ],
+  "MaskRadiusMm": 3.001,
+  "MaskStartXmm": 248.9,
+  "MaskEndXmm": 265.001,
+  "KernelFaults": 0,
+  "Scope": "Exact bidirectional differences outside two explicit local cylinders; not an assertion about inside-mask geometry"
+}

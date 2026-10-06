@@ -1,0 +1,351 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-helical-trial\\b10371e2c39e481ab431675ebd8aeb40\\UNVERIFIED_KG_HELICAL.SLDPRT",
+  "SourceSha256": "0A8FE538FF34FFD515E7C0C4EF615237E9AE96BF7EB7D87BFF712664EE74D140",
+  "BuildReportSha256": "4B498AB88774A535F05D8260D683910184C99EA763C5663E191CE4DEBC6291B3",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "CombinedM8MouthsAndKgTrial": true,
+  "Mouths": {
+    "Operations": [
+      {
+        "Branch": "II",
+        "RadiusDefinitionMm": 0.5,
+        "SurvivingFaces": 1,
+        "ThreadEdgeSamples": 1365,
+        "MinimumInwardSignedSmm": -6.09255967131437,
+        "MaximumOutwardSmm": 0.1869186231706323,
+        "MaximumRadiusMm": 3.9999999970434517,
+        "MaximumGlobalXmm": 265.0000000000005
+      },
+      {
+        "Branch": "AA",
+        "RadiusDefinitionMm": 0.5,
+        "SurvivingFaces": 1,
+        "ThreadEdgeSamples": 1170,
+        "MinimumInwardSignedSmm": -6.014651388487088,
+        "MaximumOutwardSmm": 0.21987919527804278,
+        "MaximumRadiusMm": 3.999999997043427,
+        "MaximumGlobalXmm": 265.0000000000002
+      }
+    ],
+    "Threads": {
+      "Definitions": [
+        {
+          "Feature": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.00609255967131447,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        },
+        {
+          "Feature": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.0060146513884870335,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        }
+      ],
+      "NominalLibraryContractChecked": true,
+      "FullProfileLengthVerified": false,
+      "RunoutVerified": false,
+      "Tolerance6HVerified": false,
+      "GeometryChanged": false
+    },
+    "FullBlendSurfaceVerified": false,
+    "Accepted": false
+  },
+  "BlendSurfaces": {
+    "Operations": [
+      {
+        "Branch": "II",
+        "QuerySamples": 160,
+        "IdealPointsOnSurvivingFace": 101,
+        "MaximumIdealProjectionDistanceMm": 0.7020090952799523,
+        "ProjectionFailures": 0,
+        "CurvatureFailures": 0,
+        "MaximumRollingCenterResidualMm": 9.094947017729282E-13,
+        "MaximumPrincipalRadiusResidualMm": 4.3853809472693683E-14,
+        "SamplingBudgetMm": 0.0001,
+        "SampledRollingGeometryPass": true
+      },
+      {
+        "Branch": "AA",
+        "QuerySamples": 160,
+        "IdealPointsOnSurvivingFace": 67,
+        "MaximumIdealProjectionDistanceMm": 0.8192378981705446,
+        "ProjectionFailures": 0,
+        "CurvatureFailures": 1,
+        "MaximumRollingCenterResidualMm": 1.5347723092418164E-12,
+        "MaximumPrincipalRadiusResidualMm": 4.9960036108132044E-14,
+        "SamplingBudgetMm": 0.0001,
+        "SampledRollingGeometryPass": false
+      }
+    ],
+    "FullBlendSurfaceVerified": false,
+    "ThreadTrimCoverageAccepted": false,
+    "Accepted": false
+  },
+  "Dk": {
+    "Samples": 195,
+    "MaxProfileResidualMm": 3.090860900556436E-13,
+    "MinX": 246.5,
+    "MaxX": 260,
+    "D12SharedEdges": 1
+  },
+  "Spline": {
+    "RootFaces": 38,
+    "RootFilletFaces": 76,
+    "RunoutFaces": 38,
+    "RunoutStationXmm": 70,
+    "FullInvoluteProfileVerified": false,
+    "AngularPhaseVerified": false,
+    "DrawingInterpretationAccepted": false,
+    "Scope": "Inherited experimental surface counts and runout cutter placement; not full spline profile or TIFF conformity."
+  },
+  "Geometry": {
+    "Operations": [
+      {
+        "BranchDegrees": 60,
+        "Faces": 4,
+        "EdgeSamples": 3598,
+        "MinimumTmm": 1.7618103512474126,
+        "MaximumTmm": 6.246938798005841,
+        "MinimumRadiusMm": 4.204783162562262,
+        "MaximumRadiusMm": 4.7575,
+        "HelicalEdgeFits": [
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.0000132426719635,
+            "SignedPitchMm": 0.9407403513797071,
+            "MaximumAxialFitResidualMm": 6.113340379566312E-06,
+            "RadiusAtT2Mm": 4.757489713272207,
+            "RadiusChangePerAxialMm": -0.03125011815549566,
+            "MaximumRadialFitResidualMm": 2.7094401151631087E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.8936103352593676E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.9999963000184238,
+            "SignedPitchMm": 0.940742880035097,
+            "MaximumAxialFitResidualMm": 1.4162778635330942E-05,
+            "RadiusAtT2Mm": 4.337499999999992,
+            "RadiusChangePerAxialMm": -0.03124999999999398,
+            "MaximumRadialFitResidualMm": 2.769520723866492E-13,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": 2.139294356329202E-06
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.0000132426719635,
+            "SignedPitchMm": 0.9407403513797071,
+            "MaximumAxialFitResidualMm": 6.113340379566312E-06,
+            "RadiusAtT2Mm": 4.757489713272207,
+            "RadiusChangePerAxialMm": -0.03125011815549566,
+            "MaximumRadialFitResidualMm": 2.7094401151631087E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.8936103352593676E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999997262721198,
+            "SignedPitchMm": 0.9407387991851345,
+            "MaximumAxialFitResidualMm": 1.374779930013414E-05,
+            "RadiusAtT2Mm": 4.33750000000001,
+            "RadiusChangePerAxialMm": -0.031250000000005995,
+            "MaximumRadialFitResidualMm": 2.7880475705899244E-13,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -1.941555606177481E-06
+          }
+        ]
+      },
+      {
+        "BranchDegrees": 120,
+        "Faces": 4,
+        "EdgeSamples": 3598,
+        "MinimumTmm": 1.7618103512474137,
+        "MaximumTmm": 6.246938798006508,
+        "MinimumRadiusMm": 4.204783162562228,
+        "MaximumRadiusMm": 4.757499999999994,
+        "HelicalEdgeFits": [
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.000013242670635,
+            "SignedPitchMm": 0.9407403513797223,
+            "MaximumAxialFitResidualMm": 6.113337906382774E-06,
+            "RadiusAtT2Mm": 4.757489713272386,
+            "RadiusChangePerAxialMm": -0.03125011815566948,
+            "MaximumRadialFitResidualMm": 2.7094397165028372E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.893610183158813E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999996300019074,
+            "SignedPitchMm": 0.9407428800352491,
+            "MaximumAxialFitResidualMm": 1.4162773363413905E-05,
+            "RadiusAtT2Mm": 4.337499999999997,
+            "RadiusChangePerAxialMm": -0.031249999999993974,
+            "MaximumRadialFitResidualMm": 2.128297538206425E-13,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": 2.1392945084297565E-06
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.000013242670635,
+            "SignedPitchMm": 0.9407403513797223,
+            "MaximumAxialFitResidualMm": 6.113337906382774E-06,
+            "RadiusAtT2Mm": 4.757489713272386,
+            "RadiusChangePerAxialMm": -0.03125011815566948,
+            "MaximumRadialFitResidualMm": 2.7094397165028372E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.893610183158813E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999997262721992,
+            "SignedPitchMm": 0.9407387991854188,
+            "MaximumAxialFitResidualMm": 1.3747797990807943E-05,
+            "RadiusAtT2Mm": 4.337499999999999,
+            "RadiusChangePerAxialMm": -0.031249999999998286,
+            "MaximumRadialFitResidualMm": 3.0348640267519045E-13,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -1.941555321849364E-06
+          }
+        ]
+      }
+    ],
+    "FullProfileVerified": false,
+    "PitchAndHandednessVerified": false,
+    "Accepted": false
+  },
+  "Entries": {
+    "Entries": [
+      {
+        "BranchDegrees": 60,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.5999999999999104,
+        "MaximumResidualMm": 9.618454477333671E-09
+      },
+      {
+        "BranchDegrees": 120,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.5999999999999481,
+        "MaximumResidualMm": 1.1033694757855983E-07
+      }
+    ],
+    "Pilot": [
+      {
+        "AngleDegrees": 60,
+        "ConeFaces": 1,
+        "Samples": 198,
+        "MaxResidualMm": 1.9539925233402755E-13,
+        "MaxT": 6.9999999999999165,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999942,
+        "MaxTransition": 9.000000000000112
+      },
+      {
+        "AngleDegrees": 120,
+        "ConeFaces": 1,
+        "Samples": 198,
+        "MaxResidualMm": 2.540190280342358E-13,
+        "MaxT": 7.000000000000009,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999888,
+        "MaxTransition": 9.000000000000071
+      }
+    ],
+    "EntryDatumAccepted": false,
+    "KgThreadBuilt": false
+  },
+  "Preparation": [
+    {
+      "AngleDegrees": 60,
+      "ConeFaces": 1,
+      "Samples": 198,
+      "MaxResidualMm": 1.9539925233402755E-13,
+      "MaxT": 6.9999999999999165,
+      "DirectConeD8Edges": 0,
+      "TransitionSamples": 34,
+      "MinTransition": 6.999999999999942,
+      "MaxTransition": 9.000000000000112
+    },
+    {
+      "AngleDegrees": 120,
+      "ConeFaces": 1,
+      "Samples": 198,
+      "MaxResidualMm": 2.540190280342358E-13,
+      "MaxT": 7.000000000000009,
+      "DirectConeD8Edges": 0,
+      "TransitionSamples": 34,
+      "MinTransition": 6.999999999999888,
+      "MaxTransition": 9.000000000000071
+    }
+  ],
+  "II": {
+    "Cylinders": 1,
+    "SharedEdgesWithD62Bore": 1,
+    "SharedEdgesWithD68Feed": 2,
+    "AxisChecked": true,
+    "EntryX": 265,
+    "ToolLengthVerifiedFromSavedParameters": false
+  },
+  "AA": {
+    "MainCylinders": 1,
+    "RadialCylinders": 1,
+    "FeedCylinders": 1,
+    "RadialX": 132,
+    "InclinationDegrees": 4,
+    "EntryX": 265,
+    "AxesAndConnectionsChecked": true,
+    "DrillBottomGeometryAccepted": false
+  },
+  "Flange19": {
+    "Count": 12,
+    "DiameterMm": 19,
+    "PitchCircleMm": 226,
+    "PhaseDegrees": 15,
+    "EdgeSamples": 72,
+    "StartX": 247,
+    "EndX": 265
+  },
+  "Slot": {
+    "WidthMm": 16.00000000000078,
+    "MinimumZMm": -8.00000000000039,
+    "MaximumZMm": 8.000000000000393,
+    "FloorFaces": 1,
+    "NegativeSideFaces": 1,
+    "PositiveSideFaces": 1,
+    "RunoutR35Faces": 1,
+    "EdgeSamples": 5742,
+    "FullLeftEndAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 441,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998522.3941064628
+  },
+  "VolumeMm3": 1998522.3941064628,
+  "Accepted": false,
+  "FullInheritedRegressionRepeated": false
+}

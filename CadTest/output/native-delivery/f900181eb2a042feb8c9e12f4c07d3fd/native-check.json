@@ -1,0 +1,41 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "SourceSha256": "F23826717061925D94F2E85A8DBB4F97A269B50CB697FA3126FCD089BC0D077E",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\native-delivery\\f900181eb2a042feb8c9e12f4c07d3fd\\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT",
+  "ModelSha256": "8FC8AF8C31B77A13C6E9E30C0AD5E741F247B7EB4A504A36DF9CAB2F036308E2",
+  "OriginalBytesUnchanged": true,
+  "Result": {
+    "BeforeHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998512.3259902995
+    },
+    "AfterHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998512.3259902995
+    },
+    "BeforeSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "AfterSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "BeforeVolumeMm3": 1998512.3259902995,
+    "AfterVolumeMm3": 1998512.3259902995,
+    "FreshSavedFileOpened": true,
+    "FullDrawingConformanceAccepted": false,
+    "UnresolvedValidationRetained": true
+  },
+  "Accepted": false
+}

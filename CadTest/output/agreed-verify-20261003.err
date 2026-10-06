@@ -1,0 +1,3 @@
+System.InvalidOperationException: Custom profile vertex differs from agreed dimensions.
+   at CadTest.Cad.SolidWorksService.InspectKgHelicalTrial(Boolean truncated) in F:\Project\DrawingTo3D\CadTest\Cad\KgHelicalTrial.cs:line 41
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 73

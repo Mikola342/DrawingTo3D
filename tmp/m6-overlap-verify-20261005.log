@@ -1,0 +1,26 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\9e7a3eb88b8f4c62ae7d34253267c7d9\AFTER_9e7a3eb88b8f4c62ae7d34253267c7d9.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\9e7a3eb88b8f4c62ae7d34253267c7d9\AFTER_9e7a3eb88b8f4c62ae7d34253267c7d9.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\9e7a3eb88b8f4c62ae7d34253267c7d9\AFTER_9e7a3eb88b8f4c62ae7d34253267c7d9.SLDPRT.
+[PRECISION SETTINGS] 1: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 1: X249..264,5412660824127,R2,4587341226346804..3,00000038536708;passed=True.
+[PRECISION SETTINGS] 2: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 2: X249,00000000000003..264,54126608241404,R2,4587341226347013..3,000000385369395;passed=True.
+[PRECISION SETTINGS] 3: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 3: X248,99999999999997..264,54126607122066,R2,4587341226346715..3,000000385367118;passed=True.
+[PRECISION SETTINGS] 4: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 4: X249..264,5412660712203,R2,458734122634676..3,000000385369945;passed=True.
+[PRECISION VOID] 1: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 1: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 2: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 2: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 3: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 3: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 4: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 4: R2,8,components=1,error=0,control=True,passed=True.
+[THREAD PROFILE POINTS] M6_1: samples=912,slot=0,maxDistance=2,1366867782310465E-05,failed=0.
+[THREAD PROFILE POINTS] M6_2: samples=912,slot=0,maxDistance=2,136686698984824E-05,failed=0.
+[THREAD PROFILE POINTS] M6_3: samples=912,slot=0,maxDistance=2,1366870559764713E-05,failed=0.
+[THREAD PROFILE POINTS] M6_4: samples=912,slot=0,maxDistance=2,136686729012229E-05,failed=0.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\9e7a3eb88b8f4c62ae7d34253267c7d9

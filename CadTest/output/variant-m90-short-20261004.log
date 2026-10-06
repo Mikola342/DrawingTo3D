@@ -1,0 +1,7 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\fa36b852b53546f6bee255be71f1c0ad\M6_fa36b852b53546f6bee255be71f1c0ad.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\fa36b852b53546f6bee255be71f1c0ad\M6_fa36b852b53546f6bee255be71f1c0ad.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\fa36b852b53546f6bee255be71f1c0ad\M6_fa36b852b53546f6bee255be71f1c0ad.SLDPRT.
+[AXIAL THREAD EDGES] TRIAL_M90x2_X5_to_X38:faces=56,longEdges=216,pitchMatches=96.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 MASS AUDIT REPORT] F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\fa36b852b53546f6bee255be71f1c0ad

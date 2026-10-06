@@ -1,0 +1,199 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-l-profile\\aee57bafd63f4ca69cb86fb062bd0f59\\Tsapfa_EXPERIMENT_L_PROFILE.SLDPRT",
+  "SourceSha256": "0855E597CB8B26370D6E811103ED26EAE5A9939E8AFAA51F80182629AD6359A1",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m6-points\\2cd286c668334cb0b76d8ee3d7c92f1c\\Tsapfa_EXPERIMENT_M6_POINTS.SLDPRT",
+  "Result": {
+    "BeforeMm3": 1996543.828819108,
+    "FinalMm3": 1996615.7229217356,
+    "AddedMm3": 71.89410262764432,
+    "ExpectedAddedMm3": 71.8940059049224,
+    "Points": {
+      "Points": [
+        {
+          "Hole": 1,
+          "TipX": 243,
+          "BaseX": 244.41955080756887,
+          "EdgeSamples": 33
+        },
+        {
+          "Hole": 2,
+          "TipX": 243,
+          "BaseX": 244.41955080756887,
+          "EdgeSamples": 33
+        },
+        {
+          "Hole": 3,
+          "TipX": 243,
+          "BaseX": 244.41955080756887,
+          "EdgeSamples": 33
+        },
+        {
+          "Hole": 4,
+          "TipX": 243,
+          "BaseX": 244.41955080756887,
+          "EdgeSamples": 33
+        }
+      ],
+      "IncludedAngleDegrees": 120,
+      "TotalDepthMm": 22,
+      "CylinderDepthMm": 20.580449192431132,
+      "ExperimentalPointsBuilt": true,
+      "DrawingPointAngleAccepted": false,
+      "FullProfileRunoutAccepted": false
+    },
+    "Geometry": {
+      "Count": 4,
+      "BoltCircleDiameterMm": 95,
+      "PhaseDegrees": 45,
+      "PitchMm": 1,
+      "ThreadParameters": [
+        {
+          "Feature": "TIFF_M6_1_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_2_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_3_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_4_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        }
+      ],
+      "NominalThreadOperationDepthMm": 15,
+      "PilotNominalDepthMm": 22,
+      "PilotRadiusMm": 2.458734122634726,
+      "IsolatedRemovedMm3": 219.37186904571962,
+      "WholePartDeltaMm3": 219.49521477916278,
+      "SamplesPerThread": [
+        429,
+        429,
+        429,
+        429
+      ],
+      "VolumeComparisonToleranceMm3": 0.10968593452285981,
+      "VolumeRelativeBudget": 0.0005,
+      "VolumeComparisonPassed": false,
+      "BooleanReconstruction": {
+        "RemovedBodyCount": 4,
+        "ForwardDifferenceEmpty": true,
+        "ReverseDifferenceEmpty": true,
+        "ForwardCode": 0,
+        "ReverseCode": 0
+      },
+      "MinimumRadiusMm": 2.4587341226346955,
+      "MaximumRadiusMm": 2.9999999976355083,
+      "MinimumX": 249.99999999999997,
+      "MaximumX": 264.54127680848205,
+      "PilotGeometry": {
+        "MinimumXs": [
+          244.41955080756887,
+          244.41955080756887,
+          244.41955080756887,
+          244.41955080756887
+        ],
+        "MaximumXs": [
+          264.00000000000466,
+          264.00000000000006,
+          264.0000000000015,
+          264.00000000000523
+        ],
+        "EdgeSamples": [
+          165,
+          165,
+          165,
+          165
+        ],
+        "MouthCirclesChecked": 4,
+        "MouthRadiusMm": 3.458734122634726
+      },
+      "DrillPointAccepted": false,
+      "FullProfileRunoutAccepted": false
+    },
+    "Health": {
+      "ActiveFeatures": 382,
+      "SuppressedFeatures": 29,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996615.722921736
+    },
+    "ExperimentalM6PointsBuilt": true,
+    "ExperimentalLProfileCompleted": true,
+    "ExperimentalLExitBuilt": true,
+    "PpChamferBuilt": true,
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "DrawingInterpretationAccepted": false,
+    "Scope": "Experimental120deg M6 tips within22 total depth;thread runout remains open."
+  },
+  "GeometryChanged": true,
+  "IsExperimental": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

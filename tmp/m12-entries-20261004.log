@@ -1,0 +1,18 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\WORK_4440832824704371944dcfe039a63506.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\WORK_4440832824704371944dcfe039a63506.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\WORK_4440832824704371944dcfe039a63506.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M12 ENTRY] 1/2: start helix X245.25, front face remains X247.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M12 ENTRY] 2/2: start helix X245.25, front face remains X247.
+[M12 ENTRY BOOLEAN RECONSTRUCTION OK] 2 removed bodies rejoined; both differences empty (0/0).
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\Tsapfa_M6_M12_ENDINGS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\Tsapfa_M6_M12_ENDINGS.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\Tsapfa_M6_M12_ENDINGS.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\Tsapfa_M6_M12_ENDINGS.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\4440832824704371944dcfe039a63506\Tsapfa_M6_M12_ENDINGS.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.

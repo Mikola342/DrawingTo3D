@@ -1,0 +1,133 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_RearFeeds_20260925_091752_552.SLDPRT",
+  "SourceSha256": "E71064FF1E94FDC1A353AA8BB36E8D8AD9924B56EEE7F26C74E6FFC082D853DF",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\13ac622be61541dba9a2f8bdb25ce221\\SavedFeedTrial_VERIFY_ONLY.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "OpenWarnings": 0,
+  "SavedBytesUnchanged": true,
+  "IsManufacturingReady": false,
+  "CheckedAtUtc": "2026-09-25T06:45:14.3027605Z",
+  "Report": {
+    "Cones": [
+      {
+        "AngleDegrees": 60,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.045466333698683026,
+              -0.026249999999999996,
+              -0,
+              -0.8660254037844387,
+              0.49999999999999983,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              -0.49999999999999983,
+              -0.8660254037844387
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 2.6523336860151403E-08,
+            "MinDepthFromTangentPlaneMm": 2.7749725951764503E-05,
+            "MaxDepthFromTangentPlaneMm": 1.0000000000000142
+          }
+        ]
+      },
+      {
+        "AngleDegrees": 120,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.04546633369868305,
+              0.02625,
+              -0,
+              -0.8660254037844386,
+              -0.5000000000000004,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              0.5000000000000003,
+              -0.8660254037844384
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 6.984994804781763E-10,
+            "MinDepthFromTangentPlaneMm": 6.8100752130817455E-06,
+            "MaxDepthFromTangentPlaneMm": 0.9999999999999929
+          }
+        ]
+      }
+    ],
+    "Channels": [
+      {
+        "AngleDegrees": 60,
+        "MainFaces": 2,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      },
+      {
+        "AngleDegrees": 120,
+        "MainFaces": 2,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      }
+    ],
+    "M12": {
+      "Threads": [
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.9472192533935,
+          "MinRadius": 5.052784714610734,
+          "MaxRadius": 6.000001981934647,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        },
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.94721925339496,
+          "MinRadius": 5.052784714610729,
+          "MaxRadius": 6.000001981933177,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        }
+      ],
+      "ActualVolumeMm3": 2069337.3032334882,
+      "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+    },
+    "VolumeMm3": 2069337.3032334882,
+    "BaseGeometryChecked": true,
+    "SplineSurfacesChecked": true,
+    "ExactTotalVolumeChecked": false
+  },
+  "RearFeeds": [
+    {
+      "AngleDegrees": 60,
+      "Cylinders": 1,
+      "SharedEdgesWithD63": 2,
+      "ConnectedMainAxisChecked": true
+    },
+    {
+      "AngleDegrees": 120,
+      "Cylinders": 1,
+      "SharedEdgesWithD63": 2,
+      "ConnectedMainAxisChecked": true
+    }
+  ],
+  "Scope": "Reload of byte-identical saved copy. Checks selected trial geometry, not completeness against drawing, tolerances, mass, strength or sealing."
+}

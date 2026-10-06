@@ -1,0 +1,57 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_ExtendedChannels_20260925_000906_371.SLDPRT",
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_M12_Splines_20260924_233650_730.SLDPRT",
+  "IsManufacturingReady": false,
+  "UserApprovedExtendedLengthTrial": true,
+  "DrawingLengthMm": 110,
+  "TrialLengthMm": 160.64131416750783,
+  "AnchorX": 265,
+  "AnchorRadius": 51,
+  "RadialX": 108,
+  "BranchAngles": [
+    60,
+    120
+  ],
+  "MinimumCalculatedBoreWallMm": 2.0731130896656964,
+  "IntegralCoarse": {
+    "MainPairMm3": 9721.836521366486,
+    "ConnectedPairMm3": 10271.486654368662
+  },
+  "IntegralFine": {
+    "MainPairMm3": 9721.835213920784,
+    "ConnectedPairMm3": 10271.464143917832
+  },
+  "Result": {
+    "InitialVolumeMm3": 2085124.757033329,
+    "ActualVolumeMm3": 2074853.3466123631,
+    "ExpectedRemovedMm3": 10271.464143917832,
+    "ActualRemovedMm3": 10271.410420965869,
+    "Operations": [
+      {
+        "AngleDegrees": 60,
+        "MainRemovedMm3": 4860.879016951425,
+        "RadialRemovedMm3": 274.8082153836731
+      },
+      {
+        "AngleDegrees": 120,
+        "MainRemovedMm3": 4860.914988216478,
+        "RadialRemovedMm3": 274.8082004142925
+      }
+    ]
+  },
+  "Connections": [
+    {
+      "AngleDegrees": 60,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1
+    },
+    {
+      "AngleDegrees": 120,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1
+    }
+  ],
+  "Limitations": "Experimental placement and flat-bottom finite cutters; only length extension explicitly approved. No KG1/8, D6.8 feeds, M8, radial mouth chamfers, M90 or DK. Rear recess clips channel mouths. Inherited spline/M12 trial limitations. Not manufacturing ready."
+}

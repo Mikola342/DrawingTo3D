@@ -1,0 +1,51 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-pp-chamfer\\3222b4e8b52d43b484f16f61c904f3c3\\Tsapfa_TIFF_PP_CHAMFER_WIP.SLDPRT",
+  "SourceSha256": "3DDF18B41FA38C74FD149ACE71DF30B92363EF643C289498B1F1680FB37F6CC4",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-l-exit\\f37846d6394041c7a02be50c041cb4c1\\Tsapfa_EXPERIMENT_L_EXIT.SLDPRT",
+  "Result": {
+    "BeforeMm3": 1996633.2356879273,
+    "FinalMm3": 1996543.828885265,
+    "RemovedMm3": 89.40680266241543,
+    "ExpectedRemovedMm3": 89.40680266239653,
+    "Geometry": {
+      "StartX": 235.8,
+      "EndX": 237,
+      "AxialLengthMm": 1.2,
+      "AngleToAxisDegrees": 30,
+      "EndRadiusMm": 34.692820323027554,
+      "EdgeSamples": 66,
+      "DrawingInterpretationAccepted": false,
+      "GrooveDatum51Accepted": false,
+      "FullDetailLAccepted": false,
+      "Assumption": "1.2 taken axially before X237;30deg to axis; groove X232..233.9 unchanged"
+    },
+    "Health": {
+      "ActiveFeatures": 353,
+      "SuppressedFeatures": 24,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996543.828885265
+    },
+    "ExperimentalLExitBuilt": true,
+    "UserAuthorizedExperimentalBranch": true,
+    "DrawingInterpretationAccepted": false,
+    "PpChamferBuilt": true,
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "Experimental L exit only; datum51 and all other inherited limitations remain open."
+  },
+  "GeometryChanged": true,
+  "IsExperimental": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\BEFORE_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\BEFORE_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\BEFORE_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\AFTER_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\AFTER_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87\AFTER_04d17f6e3c164ff897e3d4ab27b2ad87.SLDPRT.
+[M6 OUTSIDE MASK] components=0,error=0,passed=True
+[M6 OUTSIDE MASK] components=0,error=0,passed=True
+[THREAD PROFILE POINTS] M6_1: samples=400,slot=0,maxDistance=2,168645745540997E-05,failed=0.
+[THREAD PROFILE POINTS] M6_2: samples=400,slot=0,maxDistance=2,1686462918979593E-05,failed=0.
+[THREAD PROFILE POINTS] M6_3: samples=400,slot=0,maxDistance=2,1686456024572527E-05,failed=0.
+[THREAD PROFILE POINTS] M6_4: samples=400,slot=0,maxDistance=2,1686462556069868E-05,failed=0.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[M6 FINAL REPAIR REPORT] F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\04d17f6e3c164ff897e3d4ab27b2ad87

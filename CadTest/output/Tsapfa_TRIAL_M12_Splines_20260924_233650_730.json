@@ -1,0 +1,41 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_M12_Splines_20260924_233650_730.SLDPRT",
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_Splines_RootApprox_R50Disk_20260924_191224_005.SLDPRT",
+  "BaseRevision": "stage16",
+  "IsManufacturingReady": false,
+  "NominalM12Trial": {
+    "InitialVolumeMm3": 2088599.017936752,
+    "BasicMinorDiameterMm": 10.105569429221541,
+    "ExpectedBoresRemovalMm3": 2887.4466087700057,
+    "ExpectedChamfersRemovalMm3": 143.74549153588154,
+    "ActualVolumeMm3": 2085124.757033329,
+    "Threads": [
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+        "CentreY": 56.5,
+        "CentreZ": -97.86087062764157,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "Pitch": 0.00175,
+        "BlindDepth": 0.018,
+        "ReverseDirection": false,
+        "RemovedVolumeMm3": 221.65465581347235,
+        "ConservativeEnvelopeMm3": 730.0074844868471
+      },
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+        "CentreY": -56.5,
+        "CentreZ": 97.86087062764157,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "Pitch": 0.00175,
+        "BlindDepth": 0.018,
+        "ReverseDirection": false,
+        "RemovedVolumeMm3": 221.41414730413817,
+        "ConservativeEnvelopeMm3": 730.0074844868471
+      }
+    ],
+    "Scope": "Nominal library thread TRIAL, not verified 7H production profile. Bore/chamfer volumes independent; thread volumes only conservative envelope checks."
+  },
+  "Limitations": "Inherited spline TRIAL; M12-7H callout retained but tolerance profile not verified. Channels, M90, DK and other unresolved details absent."
+}

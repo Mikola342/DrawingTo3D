@@ -1,0 +1,606 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "SourceSha256": "F23826717061925D94F2E85A8DBB4F97A269B50CB697FA3126FCD089BC0D077E",
+  "SavedBytesUnchanged": true,
+  "Result": {
+    "Threads": [
+      {
+        "Name": "TIFF_M6_1_THREAD",
+        "Samples": 39,
+        "PositiveFlankSamples": 12,
+        "NegativeFlankSamples": 12,
+        "OtherSurfaceSamples": 15,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 3.414261442458155E-07,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 15,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999971771494,
+            "MaxAngleDegrees": 30.000000341426144
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999998182762,
+            "MaxAngleDegrees": 30.000000000001364
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TIFF_M6_2_THREAD",
+        "Samples": 39,
+        "PositiveFlankSamples": 12,
+        "NegativeFlankSamples": 12,
+        "OtherSurfaceSamples": 15,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 3.414273344048979E-07,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 15,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999971771263,
+            "MaxAngleDegrees": 30.000000341427334
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999998184123,
+            "MaxAngleDegrees": 30.000000000001513
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TIFF_M6_3_THREAD",
+        "Samples": 39,
+        "PositiveFlankSamples": 12,
+        "NegativeFlankSamples": 12,
+        "OtherSurfaceSamples": 15,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 3.4142616911481127E-07,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 15,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999997177225,
+            "MaxAngleDegrees": 30.00000034142617
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999998183704,
+            "MaxAngleDegrees": 30.000000000001442
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TIFF_M6_4_THREAD",
+        "Samples": 39,
+        "PositiveFlankSamples": 12,
+        "NegativeFlankSamples": 12,
+        "OtherSurfaceSamples": 15,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 3.4142540172865665E-07,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 15,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999997176831,
+            "MaxAngleDegrees": 30.0000003414254
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999998182886,
+            "MaxAngleDegrees": 30.000000000001396
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_1",
+        "Samples": 30,
+        "PositiveFlankSamples": 9,
+        "NegativeFlankSamples": 9,
+        "OtherSurfaceSamples": 12,
+        "Unavailable": 6,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 1.6271428648906294E-12,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 9,
+            "MinAngleDegrees": 29.99999999999936,
+            "MaxAngleDegrees": 30.000000000001613
+          },
+          {
+            "Face": 2,
+            "Samples": 9,
+            "MinAngleDegrees": 29.999999999999737,
+            "MaxAngleDegrees": 30.000000000001627
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_2",
+        "Samples": 30,
+        "PositiveFlankSamples": 9,
+        "NegativeFlankSamples": 9,
+        "OtherSurfaceSamples": 12,
+        "Unavailable": 6,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 1.659117287999834E-12,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 1,
+            "Samples": 9,
+            "MinAngleDegrees": 29.999999999999318,
+            "MaxAngleDegrees": 30.00000000000166
+          },
+          {
+            "Face": 2,
+            "Samples": 9,
+            "MinAngleDegrees": 29.99999999999979,
+            "MaxAngleDegrees": 30.000000000001627
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TRIAL_M90x2_X5_to_X38",
+        "Samples": 648,
+        "PositiveFlankSamples": 216,
+        "NegativeFlankSamples": 216,
+        "OtherSurfaceSamples": 216,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 2.3803181647963356E-13,
+        "Faces": [
+          {
+            "Face": 1,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999762,
+            "MaxAngleDegrees": 29.99999999999983
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 3,
+            "Samples": 12,
+            "MinAngleDegrees": 30.000000000000036,
+            "MaxAngleDegrees": 30.000000000000203
+          },
+          {
+            "Face": 5,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999989,
+            "MaxAngleDegrees": 29.99999999999997
+          },
+          {
+            "Face": 6,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 7,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999922,
+            "MaxAngleDegrees": 29.999999999999996
+          },
+          {
+            "Face": 8,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999897,
+            "MaxAngleDegrees": 29.999999999999993
+          },
+          {
+            "Face": 9,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 10,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999954,
+            "MaxAngleDegrees": 30.000000000000043
+          },
+          {
+            "Face": 11,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999897,
+            "MaxAngleDegrees": 29.99999999999997
+          },
+          {
+            "Face": 12,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 13,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999954,
+            "MaxAngleDegrees": 30.000000000000004
+          },
+          {
+            "Face": 14,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999904,
+            "MaxAngleDegrees": 29.999999999999996
+          },
+          {
+            "Face": 15,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 16,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999915,
+            "MaxAngleDegrees": 30.00000000000003
+          },
+          {
+            "Face": 17,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999897,
+            "MaxAngleDegrees": 30.00000000000001
+          },
+          {
+            "Face": 18,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 19,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999915,
+            "MaxAngleDegrees": 30.00000000000003
+          },
+          {
+            "Face": 20,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999886,
+            "MaxAngleDegrees": 30.00000000000001
+          },
+          {
+            "Face": 21,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 22,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999915,
+            "MaxAngleDegrees": 30.00000000000006
+          },
+          {
+            "Face": 23,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999922,
+            "MaxAngleDegrees": 29.999999999999996
+          },
+          {
+            "Face": 24,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 25,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999876,
+            "MaxAngleDegrees": 30.000000000000092
+          },
+          {
+            "Face": 26,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999844,
+            "MaxAngleDegrees": 30.00000000000007
+          },
+          {
+            "Face": 27,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 28,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999936,
+            "MaxAngleDegrees": 29.99999999999998
+          },
+          {
+            "Face": 29,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999854,
+            "MaxAngleDegrees": 30.000000000000025
+          },
+          {
+            "Face": 30,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 31,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999904,
+            "MaxAngleDegrees": 30.000000000000014
+          },
+          {
+            "Face": 32,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999854,
+            "MaxAngleDegrees": 29.99999999999997
+          },
+          {
+            "Face": 33,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 34,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999984,
+            "MaxAngleDegrees": 30.000000000000025
+          },
+          {
+            "Face": 35,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999983,
+            "MaxAngleDegrees": 29.999999999999922
+          },
+          {
+            "Face": 36,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 37,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999904,
+            "MaxAngleDegrees": 30.000000000000004
+          },
+          {
+            "Face": 38,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999844,
+            "MaxAngleDegrees": 29.99999999999993
+          },
+          {
+            "Face": 39,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 40,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999922,
+            "MaxAngleDegrees": 30.000000000000153
+          },
+          {
+            "Face": 41,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999854,
+            "MaxAngleDegrees": 29.999999999999996
+          },
+          {
+            "Face": 42,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 43,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999936,
+            "MaxAngleDegrees": 30.000000000000075
+          },
+          {
+            "Face": 44,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999915,
+            "MaxAngleDegrees": 30.000000000000153
+          },
+          {
+            "Face": 45,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 46,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999983,
+            "MaxAngleDegrees": 30.00000000000007
+          },
+          {
+            "Face": 47,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999897,
+            "MaxAngleDegrees": 30.000000000000014
+          },
+          {
+            "Face": 48,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 49,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999915,
+            "MaxAngleDegrees": 30.00000000000007
+          },
+          {
+            "Face": 50,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999897,
+            "MaxAngleDegrees": 30.000000000000025
+          },
+          {
+            "Face": 51,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 52,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999993,
+            "MaxAngleDegrees": 30.00000000000014
+          },
+          {
+            "Face": 53,
+            "Samples": 12,
+            "MinAngleDegrees": 29.99999999999993,
+            "MaxAngleDegrees": 30.000000000000203
+          },
+          {
+            "Face": 54,
+            "Samples": 12,
+            "MinAngleDegrees": 90,
+            "MaxAngleDegrees": 90
+          },
+          {
+            "Face": 55,
+            "Samples": 12,
+            "MinAngleDegrees": 29.999999999999826,
+            "MaxAngleDegrees": 29.999999999999993
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+        "Samples": 51,
+        "PositiveFlankSamples": 24,
+        "NegativeFlankSamples": 15,
+        "OtherSurfaceSamples": 12,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 1.056470466664905E-10,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 24,
+            "MinAngleDegrees": 29.999999999894353,
+            "MaxAngleDegrees": 30.00000000005911
+          },
+          {
+            "Face": 1,
+            "Samples": 15,
+            "MinAngleDegrees": 29.99999999999607,
+            "MaxAngleDegrees": 30.000000000001847
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 89.99999999999878,
+            "MaxAngleDegrees": 89.99999999999994
+          }
+        ],
+        "ContinuousProfileVerified": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+        "Samples": 42,
+        "PositiveFlankSamples": 15,
+        "NegativeFlankSamples": 15,
+        "OtherSurfaceSamples": 12,
+        "Unavailable": 0,
+        "Both60DegreeFlanksObserved": true,
+        "Max30DegreeResidual": 4.0536463075113716E-12,
+        "Faces": [
+          {
+            "Face": 0,
+            "Samples": 15,
+            "MinAngleDegrees": 29.999999999995946,
+            "MaxAngleDegrees": 30.00000000000156
+          },
+          {
+            "Face": 1,
+            "Samples": 15,
+            "MinAngleDegrees": 29.9999999999961,
+            "MaxAngleDegrees": 30.000000000000284
+          },
+          {
+            "Face": 2,
+            "Samples": 12,
+            "MinAngleDegrees": 89.999999999996,
+            "MaxAngleDegrees": 89.99999999999902
+          }
+        ],
+        "ContinuousProfileVerified": false
+      }
+    ],
+    "AngleClassificationBudgetDegrees": 0.01,
+    "Scope": "Sampled surface normals at trimmed boundaries; axial profile angle, not thread tolerance/continuous interior coverage",
+    "GeometryChanged": false
+  },
+  "Health": {
+    "ActiveFeatures": 441,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998512.325990297
+  },
+  "Accepted": false
+}

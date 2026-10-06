@@ -1,0 +1,5 @@
+System.InvalidOperationException: M8 isolated removed material outside the pilot/thread envelope.
+   at CadTest.Cad.SolidWorksService.InspectTiffM8Removal(Body2 beforeThreadBody, Double afterPilot, Double degrees, Double inclination, Double entryX) in F:\Project\DrawingTo3D\CadTest\Cad\TiffM8Rebuild.cs:line 146
+   at CadTest.Cad.SolidWorksService.InspectTiffM8(Boolean aa, Boolean rearDatum) in F:\Project\DrawingTo3D\CadTest\Cad\TiffM8Rebuild.cs:line 36
+   at CadTest.Cad.SolidWorksService.DiagnoseKnownRearM8(String path, String checkpoint) in F:\Project\DrawingTo3D\CadTest\Cad\TiffRearDatum.cs:line 22
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 13

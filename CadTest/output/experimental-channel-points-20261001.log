@@ -1,0 +1,20 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\L_EXPERIMENT_WORK.SLDPRT.
+[TRIAL] EXPERIMENT_II_POINT_CYLINDER: D=6,3, finite length=110,212200.
+[TRIAL] EXPERIMENT_II_POINT120: D=6,3, finite length=3,637307.
+[CHANNEL POINT BUILT]II added=25,47999472054653,expected=25,48009481403774
+[TRIAL] EXPERIMENT_AA_POINT_CYLINDER: D=6,3, finite length=136,768939.
+[TRIAL] EXPERIMENT_AA_POINT120: D=6,3, finite length=3,637307.
+[CHANNEL POINT BUILT]AA added=31,47583340201527,expected=31,475696232009454
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_POINT_CYLINDER: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[EXPERIMENT CHANNEL POINTS OK]120deg; old tip stations retained; both connections retained.
+[TIFF HEALTH OK] active=396, suppressed=31, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\Tsapfa_EXPERIMENT_CHANNEL_POINTS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\Tsapfa_EXPERIMENT_CHANNEL_POINTS.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-channel-points\32e1ad021d5246ce9bb9d33a69ead36d\Tsapfa_EXPERIMENT_CHANNEL_POINTS.SLDPRT

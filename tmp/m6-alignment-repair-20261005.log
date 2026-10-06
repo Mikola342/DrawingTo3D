@@ -1,0 +1,27 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\WORK_eeb8d49fdead4c20b43180d9f5f056fb.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\WORK_eeb8d49fdead4c20b43180d9f5f056fb.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\WORK_eeb8d49fdead4c20b43180d9f5f056fb.SLDPRT.
+[ALIGN BEFORE ACCESS] 1: 0/0
+[ALIGN AFTER ACCESS] 1: 0/0
+[ALIGN BEFORE COMMIT] 1: 0/0
+[ALIGN AFTER COMMIT] 1: 0/0
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\ALIGNMENT_TRIAL.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\ALIGNMENT_TRIAL.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\ALIGNMENT_TRIAL.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\ALIGNMENT_TRIAL.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb\ALIGNMENT_TRIAL.SLDPRT.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[PRECISION SETTINGS] 1: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 1: X248,9942264973081..264,5412660824127,R2,4487341226347255..3,0000003853670365;passed=False.
+[PRECISION SETTINGS] 2: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 2: X248,9942264973081..264,54126608241427,R2,4487341226347255..3,000000385369522;passed=False.
+[PRECISION SETTINGS] 3: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 3: X248,99999999999997..264,54126607122066,R2,4587341226346715..3,000000385367118;passed=True.
+[PRECISION SETTINGS] 4: alignment=0,twist=0,thin=False,expectedAlignment=2,expectedTwist=0;passed=False.
+[PRECISION BOUNDARY] 4: X249..264,5412660712203,R2,458734122634676..3,000000385369945;passed=True.
+[ALIGNMENT REPAIR REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\eeb8d49fdead4c20b43180d9f5f056fb

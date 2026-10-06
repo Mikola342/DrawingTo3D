@@ -1,0 +1,25 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT",
+  "SourceSha256": "FB50A31A5478799B17B7E1F7757E7D3C87301BB3FCBC36620E23AB0CC442DD07",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\08637a3d68f545f0ac9842d200f07a0b\\D19_FOCUSED_VERIFY_ONLY.SLDPRT",
+  "BuildReport": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.json",
+  "BuildReportSha256": "7C505FC72B46D457E1969E5E8DDE87CEE972E97755F8A0988C644D0D3C405CA5",
+  "FreshDiskCopyLoaded": true,
+  "OpenWarnings": 0,
+  "SavedBytesUnchanged": true,
+  "Flange19": {
+    "Count": 12,
+    "DiameterMm": 19,
+    "PitchCircleMm": 226,
+    "PhaseDegrees": 15,
+    "EdgeSamples": 72,
+    "StartX": 247,
+    "EndX": 265
+  },
+  "VolumeMm3": 2034759.9075602056,
+  "ExpectedVolumeMm3": 2034759.907560206,
+  "FullInheritedGeometryRecheckedAfterReload": false,
+  "IsManufacturingReady": false,
+  "CheckedAtUtc": "2026-09-27T09:25:33.6297591Z",
+  "Scope": "Focused fresh-disk check of D19 cylinders and total volume. Earlier full pre-save checks are in build report, NOT rerun here. Not full drawing acceptance."
+}

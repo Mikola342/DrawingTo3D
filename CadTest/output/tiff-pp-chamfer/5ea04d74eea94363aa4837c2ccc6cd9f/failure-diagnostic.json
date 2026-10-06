@@ -1,0 +1,7 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-m6-checked\\bab52b0f247a49a4a63156c4272cc473\\Tsapfa_TIFF_M6_WIP.SLDPRT",
+  "SourceSha256": "52D4C236BCC35E5ED97A93AF9B4448408B71628BBA8CFCE0B6000A637BC4C8FE",
+  "Checkpoint": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-pp-chamfer\\5ea04d74eea94363aa4837c2ccc6cd9f\\UNVERIFIED_FAILED_BUILD.SLDPRT",
+  "Accepted": false,
+  "Error": "System.InvalidOperationException: P-P removed volume mismatch.\r\n   at CadTest.Cad.SolidWorksService.BuildTiffPpChamfer() in F:\\Project\\DrawingTo3D\\CadTest\\Cad\\TiffSeparateHoleChamfer.cs:line 87\r\n   at Program.\u003CMain\u003E$(String[] args) in F:\\Project\\DrawingTo3D\\CadTest\\Program.cs:line 86"
+}

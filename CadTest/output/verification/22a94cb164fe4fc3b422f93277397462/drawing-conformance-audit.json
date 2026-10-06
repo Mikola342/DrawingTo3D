@@ -1,0 +1,402 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT",
+  "SourceSha256": "FB50A31A5478799B17B7E1F7757E7D3C87301BB3FCBC36620E23AB0CC442DD07",
+  "VerificationFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\22a94cb164fe4fc3b422f93277397462\\verification.json",
+  "VerificationReportSha256": "7B07DC7444FD34C59276406E90AADF2A80DD9008CA103618395C5B8FCAF5FF20",
+  "BuildReport": null,
+  "BuildReportSha256": null,
+  "EvidenceScope": "Full recorded fresh-disk geometry check within its stated limits.",
+  "FullInheritedGeometryRecheckedAfterReload": true,
+  "CheckedAtUtc": "2026-09-27T16:42:22.2392164Z",
+  "DrawingConformancePercent": null,
+  "Target85PercentDemonstrated": false,
+  "IsManufacturingReady": false,
+  "AuditTarget": "HISTORICAL_PDF_BASELINE_NOT_CURRENT_TIFF_ACCEPTANCE",
+  "CurrentPrimarySource": "5309-2304083.tif",
+  "TiffConformanceAssessed": false,
+  "Scope": "Read-only audit of verified model evidence against selected drawing constraints, NOT exhaustive drawing acceptance. No row-count percentage.",
+  "Mass": {
+    "VolumeMm3": 2034759.9075602042,
+    "ReferenceDensityKgM3": 7850,
+    "CalculatedKg": 15.972865274347603,
+    "DrawingKg": 11.3,
+    "DifferenceKg": 4.672865274347602,
+    "DifferencePercentOfDrawing": 41.35279003847436,
+    "VolumeAtDrawingMassMm3": 1439490.4458598727,
+    "ImpliedDensityKgM3": 5553.480761054193
+  },
+  "DensitySource": "https://www.nntu.ru/frontend/web/ngtu/files/nauka/izdaniya/trudy/2022/04/2022-04.pdf",
+  "FlangePattern": {
+    "DrawingNominalDiameterMm": 19,
+    "VerifiedNominalDiameterMm": 19,
+    "NominalDiameterMatches": true,
+    "Evidence": "Source glyph19 remains visible; later white mask changes tolerance only. See FLANGE_D19_CORRECTION_2026-09-27.md.",
+    "Scope": "Legacy report implies D15 stage16 inspection; D19 acceptance requires explicit Flange19 evidence. Not tolerance certification."
+  },
+  "DensityScope": "Reference calculation, not material assignment, measurement or certification. Drawing title block: steel 30HGSA, 11.3 kg.",
+  "DensitySensitivity": [
+    {
+      "VolumeMm3": 2034759.9075602042,
+      "ReferenceDensityKgM3": 7700,
+      "CalculatedKg": 15.667651288213573,
+      "DrawingKg": 11.3,
+      "DifferenceKg": 4.3676512882135725,
+      "DifferencePercentOfDrawing": 38.651781311624525,
+      "VolumeAtDrawingMassMm3": 1467532.4675324678,
+      "ImpliedDensityKgM3": 5553.480761054193
+    },
+    {
+      "VolumeMm3": 2034759.9075602042,
+      "ReferenceDensityKgM3": 7900,
+      "CalculatedKg": 16.074603269725614,
+      "DrawingKg": 11.3,
+      "DifferenceKg": 4.774603269725613,
+      "DifferencePercentOfDrawing": 42.253126280757634,
+      "VolumeAtDrawingMassMm3": 1430379.7468354432,
+      "ImpliedDensityKgM3": 5553.480761054193
+    }
+  ],
+  "Localization": {
+    "Bands": [
+      {
+        "StartX": 0,
+        "EndX": 95,
+        "AxisymmetricEnvelopeMm3": 393056.10737877584,
+        "ReferenceMassKg": 3.08549044292339,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 95,
+        "EndX": 183,
+        "AxisymmetricEnvelopeMm3": 498137.012820178,
+        "ReferenceMassKg": 3.910375550638397,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 183,
+        "EndX": 239,
+        "AxisymmetricEnvelopeMm3": 407442.5753767138,
+        "ReferenceMassKg": 3.1984242167072034,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 239,
+        "EndX": 247,
+        "AxisymmetricEnvelopeMm3": 125626.32906105636,
+        "ReferenceMassKg": 0.9861666831292923,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 247,
+        "EndX": 265,
+        "AxisymmetricEnvelopeMm3": 710756.9615602947,
+        "ReferenceMassKg": 5.579442148248313,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 265,
+        "EndX": 273,
+        "AxisymmetricEnvelopeMm3": 23704.464299783307,
+        "ReferenceMassKg": 0.18608004475329895,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      }
+    ],
+    "RefinementDifferenceMm3": 0.0018998789018951356,
+    "EnvelopeVolumeMm3": 2158723.450496802,
+    "BaseLocalRemovalMm3": 54279.22268638348,
+    "AnalyticalBaseVolumeMm3": 2104444.229236402,
+    "FinalVerifiedVolumeMm3": 2034759.9075602042,
+    "SubsequentNetRemovalMm3": 69684.32167619793,
+    "Scope": "Numerical decomposition of construction parameters reconciled to analytical base; not an independent confirmation of drawing dimensions or actual CAD band masses.",
+    "TemporaryRightZone": {
+      "StartX": 239,
+      "EndX": 247,
+      "EnclosingRadiusMm": 127.5,
+      "AbsoluteRemovalUpperBoundMm3": 408564.1245993526,
+      "RequiredRemovalToTitleMassMm3": 595269.4617003314,
+      "MassLowerBoundEvenIfEnclosingCylinderRemovedKg": 12.765636896242684,
+      "ZoneAloneCannotResolveMass": true,
+      "Scope": "Assumes fixed verified geometry outside X239..247 and reference density7850. Removing the entire enclosing cylinder is an impossible/overgenerous bound, NOT a CAD proposal."
+    }
+  },
+  "SelectedDimensionalLimits": {
+    "Checks": [
+      {
+        "Feature": "Outer D105, surface F after coating/final processing",
+        "BasicSizeMm": 105,
+        "LowerDeviationMm": -0.126,
+        "UpperDeviationMm": -0.072,
+        "LowerLimitMm": 104.874,
+        "UpperLimitMm": 104.928,
+        "ModelParameterMm": 105,
+        "ParameterInsideLimits": false,
+        "DistanceOutsideMm": 0.07200000000000273,
+        "Scope": "Compares construction parameter to printed limits; actual CAD diameter was checked against this parameter before save. Basic-size CAD can be intentional; NOT a measurement of a manufactured part or instruction to shift to limit/midpoint."
+      },
+      {
+        "Feature": "Outer D110",
+        "BasicSizeMm": 110,
+        "LowerDeviationMm": -0.071,
+        "UpperDeviationMm": -0.036,
+        "LowerLimitMm": 109.929,
+        "UpperLimitMm": 109.964,
+        "ModelParameterMm": 110,
+        "ParameterInsideLimits": false,
+        "DistanceOutsideMm": 0.036000000000001364,
+        "Scope": "Compares construction parameter to printed limits; actual CAD diameter was checked against this parameter before save. Basic-size CAD can be intentional; NOT a measurement of a manufactured part or instruction to shift to limit/midpoint."
+      },
+      {
+        "Feature": "Bore D68",
+        "BasicSizeMm": 68,
+        "LowerDeviationMm": -0.029,
+        "UpperDeviationMm": -0.01,
+        "LowerLimitMm": 67.971,
+        "UpperLimitMm": 67.99,
+        "ModelParameterMm": 68,
+        "ParameterInsideLimits": false,
+        "DistanceOutsideMm": 0.010000000000005116,
+        "Scope": "Compares construction parameter to printed limits; actual CAD diameter was checked against this parameter before save. Basic-size CAD can be intentional; NOT a measurement of a manufactured part or instruction to shift to limit/midpoint."
+      },
+      {
+        "Feature": "Flange 12-hole nominal diameter",
+        "BasicSizeMm": 19,
+        "LowerDeviationMm": 0,
+        "UpperDeviationMm": 0.21,
+        "LowerLimitMm": 19,
+        "UpperLimitMm": 19.21,
+        "ModelParameterMm": 19,
+        "ParameterInsideLimits": true,
+        "DistanceOutsideMm": 0,
+        "Scope": "Nominal size only; position/form/tolerance under material condition not evaluated."
+      },
+      {
+        "Feature": "Separate P-P D22",
+        "BasicSizeMm": 22,
+        "LowerDeviationMm": 0,
+        "UpperDeviationMm": 0.033,
+        "LowerLimitMm": 22,
+        "UpperLimitMm": 22.033,
+        "ModelParameterMm": 22,
+        "ParameterInsideLimits": true,
+        "DistanceOutsideMm": 0,
+        "Scope": "Compares construction parameter to printed limits; actual CAD diameter was checked against this parameter before save. Basic-size CAD can be intentional; NOT a measurement of a manufactured part or instruction to shift to limit/midpoint."
+      }
+    ],
+    "DrawingConformancePercent": null,
+    "IsManufacturedPartAcceptance": false,
+    "NotChecked": [
+      "Actual whole-surface size/form",
+      "Datum-related position",
+      "Measurement uncertainty",
+      "Thread and spline limits",
+      "Coating allowance and final-process strategy",
+      "General tolerances"
+    ],
+    "Scope": "Selected printed limits, not a complete drawing requirements inventory. Do not count passing rows as readiness percentage. No CAD geometry or material changed."
+  },
+  "KgPreparationReference": {
+    "Source": "https://www.mashin.ru/files/gz307_s_pril.pdf",
+    "Pages": "30-31",
+    "Table": 6,
+    "Figure": "1b",
+    "ThreadSizeInch": "1/8",
+    "TaperDiameterRatio": "1:16",
+    "ConeEntryDiameterMm": {
+      "BrittleMaterial": 8.707,
+      "DuctileMaterial": 8.825,
+      "UpperDeviation": 0.09
+    },
+    "ExitPilotDiameterMm": {
+      "Basic": 8.36,
+      "UpperDeviation": 0.2
+    },
+    "ChamferMaximumDiameterMm": 10.4,
+    "MinimumPreparationLengthMm": 10,
+    "CurrentTrial": {
+      "EntryDiameterAtT0Mm": 8.8,
+      "ConeEndT": 7,
+      "TransitionEndT": 9,
+      "TransitionDiameterMm": 8
+    },
+    "ComparisonAccepted": false,
+    "FullOstProfileAvailable": false,
+    "CadChangeAuthorizedByThisReference": false,
+    "Scope": "Preparation guidance, not thread geometry. Trial t0 on curved flange is NOT established as reference figure entry plane; material category/process and drawing depth unresolved. Table7 describes rods for rolling and must not be used for internal thread holes."
+  },
+  "ChannelDatumChain": {
+    "Source": "chertezh_corrected_final.pdf, A-A: visible 50, corrected 107, right zone 26, channel 110, D6.3 and D6.",
+    "Nominal": {
+      "ShoulderToRearMm": 50,
+      "HoleToShoulderMm": 107,
+      "MaximumEntrySetbackMm": 26,
+      "ChannelLengthMm": 110,
+      "MainRadiusMm": 3.15,
+      "RadialRadiusMm": 3,
+      "MinimumCentreSeparationMm": 131,
+      "AngleIndependentGapLowerBoundMm": 14.850000000000001,
+      "AxialOverlapExcluded": true
+    },
+    "DeliberatelyRelaxedSensitivity": {
+      "ShoulderToRearMm": 49,
+      "HoleToShoulderMm": 106,
+      "MaximumEntrySetbackMm": 27,
+      "ChannelLengthMm": 111,
+      "MainRadiusMm": 4,
+      "RadialRadiusMm": 3.5,
+      "MinimumCentreSeparationMm": 128,
+      "AngleIndependentGapLowerBoundMm": 9.5,
+      "AxialOverlapExcluded": true
+    },
+    "CommonRearDatumCancels": true,
+    "Assumptions": [
+      "50 and 107 share the shoulder datum shown in A-A.",
+      "Channel entry lies somewhere in the rightmost 26 mm zone (a deliberately broad hypothesis).",
+      "110 is the full finite D6.3 channel length, not a partial segment or separate operation.",
+      "The D6.3 channel must directly intersect radial D6 as drawn; no unmodelled connecting cut."
+    ],
+    "Scope": "Positive gap excludes connection for these assumptions at any channel angle. Does not prove the source drawing is erroneous; at least one datum/length/topology interpretation must change. Relaxed numbers are sensitivity inputs, not accepted tolerances.",
+    "CadChangeAuthorized": false
+  },
+  "ChannelSourceReconciliation": {
+    "Status": "TIFF_PRIMARY_BY_EXPLICIT_USER_APPROVAL_REBUILD_PENDING",
+    "PrimarySource": "5309-2304083.tif (explicit user approval)",
+    "SupplementalSource": "chertezh_corrected_final.pdf (historical comparison only)",
+    "ObservedTiffSha256": "3ED767B3858A6E22BFE8B585949F95EB3505430C20C1D751CB95ACD6B804839E",
+    "ObservedPdfSha256": "0150AD1C642FFF0B73D54B7F2E2EE7C7E9B1815EF77E4B4C0890AA548AE04982",
+    "TiffSections": [
+      {
+        "Section": "A-A",
+        "AngleDegrees": 4,
+        "LengthMinMm": null,
+        "LengthMaxMm": null,
+        "Observation": "D6.3 linked to radial D6; 107 shown. The 110 callout is in I-I, not this section."
+      },
+      {
+        "Section": "I-I",
+        "AngleDegrees": 10,
+        "LengthMinMm": 110,
+        "LengthMaxMm": 111.4,
+        "Observation": "D6.3, 110 \u002B1.4, M8x1.25-6H; geometry suggests a different route toward the bore."
+      }
+    ],
+    "PdfObservation": "Visible PDF places 110 and 4 degrees together in A-A; its I-I depiction is reduced. TIFF is not an identical revision and cannot silently override PDF.",
+    "CurrentCadObservation": "Both branch angles 60/120 use the same 4-degree/160.641314 construction. This does not establish the two-section TIFF topology.",
+    "SectionBranchMapping": [
+      {
+        "Section": "A-A",
+        "EndViewLocation": "upper-left",
+        "AzimuthDegrees": 120,
+        "UnitY": 0.8660254037844387,
+        "UnitZ": 0.4999999999999998,
+        "TiffInclinationDegrees": 4
+      },
+      {
+        "Section": "I-I",
+        "EndViewLocation": "upper-right",
+        "AzimuthDegrees": 60,
+        "UnitY": 0.8660254037844386,
+        "UnitZ": -0.5000000000000001,
+        "TiffInclinationDegrees": 10
+      }
+    ],
+    "MappingScope": "Mapping in existing project end-view convention horizontal=-Z, vertical=Y, azimuth counterclockwise from image right. Not an independent SolidWorks camera/handedness inspection. TIFF distinguishes depicted5309-2304083 from mirrored5309-2304082; do not mirror implicitly.",
+    "ConditionalBoreProbes": [
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 152.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 157.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      }
+    ],
+    "ProbeScope": "Assume entry radius51 at X260 or X265 and central bore R31 over X3..181, with a flat-ended D6.3 cylinder. An interior-point witness demonstrates possible bore opening for this hypothesis only; entry datum, section angular mapping and actual TIFF/PDF topology remain unaccepted. No flow/seal/manufacturing acceptance.",
+    "LengthCorrectionProposalOnHold": true,
+    "SourcesInterchangeable": false,
+    "TransferToCadAuthorized": true,
+    "DrawingConformanceAccepted": false,
+    "AuthorityScope": "TIFF is primary for the part, not only channels. Existing PDF-based CAD and acceptance reports remain historical until rebuilt and checked against TIFF. Unknown datums are not authorized guesses."
+  },
+  "Channels": {
+    "DrawingLengthMm": 110,
+    "TrialLengthMm": 160.64131416750783,
+    "RadialHoleX": 108,
+    "TrialAnchorX": 265,
+    "Cases": [
+      {
+        "AnchorX": 254,
+        "AxialGapMm": 33.04822157912534
+      },
+      {
+        "AnchorX": 260,
+        "AxialGapMm": 39.04822157912534
+      },
+      {
+        "AnchorX": 265,
+        "AxialGapMm": 44.04822157912534
+      }
+    ],
+    "NominalRadialChain": {
+      "RearX": 265,
+      "ShoulderOffset": 50,
+      "HoleOffset": 107,
+      "ResultX": 108
+    },
+    "MaximumAnchorXForPossibleAxialOverlap": 220.95177842087466,
+    "Scope": "Positive gaps prove no connection under current axis/datum interpretation. Does NOT establish that the drawing itself is wrong; shortening the current cut alone is unsafe."
+  },
+  "OpenItems": [
+    "Mass differs from 11.3 kg; root cause not localized. Do not change material density to force mass agreement.",
+    "Reconcile PDF A-A 110/4deg with supplemental TIFF I-I 110\u002B1.4/10deg and A-A 4deg. Prior length-correction proposal on hold; do not merge source revisions.",
+    "DK floorX260 is an authorized approximation, not a confirmed drawing datum.",
+    "KG1/8 helical profile absent; tapered pilot is not OST acceptance.",
+    "Right station X245 remains assumed; detail L and thread endings unresolved.",
+    "Thread/spline tolerances, surface finish, material, hardness, coating and sealing not accepted."
+  ]
+}

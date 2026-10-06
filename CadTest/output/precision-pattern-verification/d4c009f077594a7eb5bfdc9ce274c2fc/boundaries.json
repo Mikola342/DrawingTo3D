@@ -1,0 +1,359 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6-pattern\\d7503ee7235642abb70af10eb348e18d\\Tsapfa_PRECISION_M6_M12.SLDPRT",
+  "SourceSha256": "BEC09682C1ECDAF1109F9000734AA0AD4FBC5244B4E74C23632CB84FD7698F5A",
+  "Mode": "--inspect-precision-m6-witnesses",
+  "Boundaries": {
+    "Witnesses": [
+      {
+        "Hole": 1,
+        "Parameter": 0.0006365470053837912,
+        "EvaluatedXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.4375,
+          36.58757210636101,
+          -33.58757210636101
+        ],
+        "EndVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          -33.58757210636101
+        ]
+      },
+      {
+        "Hole": 1,
+        "Parameter": 0,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          -33.58757210636101
+        ],
+        "EndVertex": [
+          249.3125,
+          36.58757210636101,
+          -33.58757210636101
+        ]
+      },
+      {
+        "Hole": 1,
+        "Parameter": 1,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          -33.58757210636101
+        ],
+        "RadiusMm": 2.4587341226347235,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          -33.58757210636101
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          -33.58757210636101
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          -33.58757210636101
+        ],
+        "EndVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          -33.58757210636101
+        ]
+      },
+      {
+        "Hole": 1,
+        "Parameter": 0.0006365470053837912,
+        "EvaluatedXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.4375,
+          36.58757210636101,
+          -33.58757210636101
+        ],
+        "EndVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          -33.58757210636101
+        ]
+      },
+      {
+        "Hole": 1,
+        "Parameter": 0,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          -33.58757210636101
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          -33.58757210636101
+        ],
+        "EndVertex": [
+          249.3125,
+          36.58757210636101,
+          -33.58757210636101
+        ]
+      },
+      {
+        "Hole": 2,
+        "Parameter": 0.0006365470053837912,
+        "EvaluatedXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.4375,
+          36.58757210636101,
+          33.587572106361
+        ],
+        "EndVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          33.587572106361
+        ]
+      },
+      {
+        "Hole": 2,
+        "Parameter": 0,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          33.587572106361
+        ],
+        "EndVertex": [
+          249.3125,
+          36.58757210636101,
+          33.587572106361
+        ]
+      },
+      {
+        "Hole": 2,
+        "Parameter": 1,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          33.587572106361
+        ],
+        "RadiusMm": 2.4587341226347235,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          33.587572106361
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.04630622899573,
+          33.587572106361
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          33.587572106361
+        ],
+        "EndVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          33.587572106361
+        ]
+      },
+      {
+        "Hole": 2,
+        "Parameter": 0.0006365470053837912,
+        "EvaluatedXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          249.7557735026919,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          249.4375,
+          36.58757210636101,
+          33.587572106361
+        ],
+        "EndVertex": [
+          249.75433012701893,
+          36.04130622899574,
+          33.587572106361
+        ]
+      },
+      {
+        "Hole": 2,
+        "Parameter": 0,
+        "EvaluatedXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "RadiusMm": 2.4487341226347255,
+        "OwnerBodyIdentity": 1,
+        "ListedInFinalBody": true,
+        "EdgeClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "EdgeDistanceMm": 0,
+        "FaceClosestXYZ": [
+          248.9942264973081,
+          36.036306228995734,
+          33.587572106361
+        ],
+        "FaceDistanceMm": 0,
+        "StartVertex": [
+          248.9942264973081,
+          36.04130622899574,
+          33.587572106361
+        ],
+        "EndVertex": [
+          249.3125,
+          36.58757210636101,
+          33.587572106361
+        ]
+      }
+    ],
+    "Scope": "Cross-check out-of-envelope edge evaluations against trimmed edge/face closest points and vertices; not acceptance"
+  },
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2440068265
+  },
+  "SavedBytesUnchanged": true
+}

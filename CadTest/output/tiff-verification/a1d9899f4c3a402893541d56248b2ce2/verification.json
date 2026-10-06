@@ -1,0 +1,88 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-l-core\\c98a6609121d4cb288fab9cd5a346817\\Tsapfa_TIFF_L_CORE_WIP.SLDPRT",
+  "SourceSha256": "A88BC2C67A11AC5E407F41622932970046B7852269CBDACD9AEE0561801B1147",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-verification\\a1d9899f4c3a402893541d56248b2ce2\\TIFF_II_VERIFY_a1d9899f4c3a402893541d56248b2ce2.SLDPRT",
+  "BuildReport": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-l-core\\c98a6609121d4cb288fab9cd5a346817\\Tsapfa_TIFF_L_CORE_WIP.json",
+  "BuildReportSha256": "8E9A7D581F5D62AA853260BDC0E1A64CF670285E39DD877EB41840945068A521",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "OpenWarnings": 0,
+  "VolumeMm3": 2029118.5300234074,
+  "Geometry": {
+    "Cylinders": 1,
+    "SharedEdgesWithD62Bore": 1,
+    "SharedEdgesWithD68Feed": 2,
+    "AxisChecked": true,
+    "ToolLengthVerifiedFromSavedParameters": false
+  },
+  "M8": {
+    "Geometry": {
+      "Samples": 1122,
+      "MinAlongAxisMm": -1.0264011862659572E-13,
+      "MaxAlongAxisMm": 6.0925596713146435,
+      "MinRadiusMm": 0.0898517555945033,
+      "MaxRadiusMm": 3.9999999970434255,
+      "MinNonPlanarRadiusMm": 3.32341765329337,
+      "PlanarInteriorValidatedByBodyDifference": true,
+      "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+      "Size": "M8x1.25",
+      "Pitch": 0.00125,
+      "BlindDepth": 0.00609255967131447,
+      "ReverseDirection": false
+    },
+    "IsolatedRemoval": {
+      "RemovedMm3": 37.095227328388205,
+      "WholePartDeltaMm3": 37.09913863404654,
+      "RemovedBodies": 2,
+      "EdgeSamples": 2145,
+      "MinimumRadiusMm": 3.32341765329337,
+      "MaximumRadiusMm": 3.9999999970434303,
+      "MinimumAxialMm": -1.0264011862659572E-13,
+      "MaximumAxialMm": 6.0925596713146435,
+      "Scope": "Sampled edges of isolated removed solid bodies; not exact surface-extrema or tolerance certification."
+    }
+  },
+  "RightM8Rebuilt": true,
+  "Bore68": {
+    "Groove": {
+      "DiameterMm": 71,
+      "MinimumX": 232,
+      "MaximumX": 233.9,
+      "Cylinders": 1,
+      "EdgeSamples": 66,
+      "RearEndStillHistorical": true,
+      "EntryR1MaxAccepted": false,
+      "DiameterToleranceAccepted": false
+    },
+    "Bore": {
+      "DiameterMm": 68,
+      "MinimumX": 181,
+      "MaximumX": 237,
+      "Cylinders": 2,
+      "EdgeSamples": 165,
+      "RearEndStillHistorical": true,
+      "EntryR1MaxAccepted": false,
+      "DiameterToleranceAccepted": false
+    },
+    "Rear": {
+      "DiameterMm": 80,
+      "MinimumX": 237,
+      "MaximumX": 265,
+      "Cylinders": 1,
+      "EdgeSamples": 66,
+      "RearEndStillHistorical": true,
+      "EntryR1MaxAccepted": false,
+      "DiameterToleranceAccepted": false
+    },
+    "NominalCoreOnly": true,
+    "Transitions30And10DegreesAccepted": false,
+    "FullDetailLAccepted": false
+  },
+  "Bore68StartRebuilt": true,
+  "Bore80PartialRebuilt": true,
+  "Bore80Restored": true,
+  "DetailLCoreBuilt": true,
+  "IsManufacturingReady": false,
+  "FullTiffConformanceChecked": false,
+  "Scope": "Focused saved-file check of II channel, bore/feed adjacency and volume; nominal M8 checked only when explicitly built. M8 length/6H unaccepted; inherited body not yet TIFF-rebuilt."
+}

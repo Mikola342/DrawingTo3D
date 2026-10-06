@@ -1,0 +1,13 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\1d0aae87471e4a358c37bda8e6e8808b\M6_1d0aae87471e4a358c37bda8e6e8808b.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\1d0aae87471e4a358c37bda8e6e8808b\M6_1d0aae87471e4a358c37bda8e6e8808b.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\1d0aae87471e4a358c37bda8e6e8808b\M6_1d0aae87471e4a358c37bda8e6e8808b.SLDPRT.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 MASS AUDIT] temporary delta=0,together=1998508,6264953676,separate=7994034,50598147,document delta=219,49528248654678.
+[M6 BOOLEAN RECONSTRUCTION OK] 4 removed bodies rejoined; both differences empty (0/0).
+[TIFF M6 OK] four threads, samples=429,429,429,429, V=219,371869046, R=2,458734123..2,999999998.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 MASS AUDIT REPORT] F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\1d0aae87471e4a358c37bda8e6e8808b

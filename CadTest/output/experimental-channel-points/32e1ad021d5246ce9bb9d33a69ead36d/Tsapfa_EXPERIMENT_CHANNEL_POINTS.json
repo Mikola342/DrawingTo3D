@@ -1,0 +1,111 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m6-points\\2cd286c668334cb0b76d8ee3d7c92f1c\\Tsapfa_EXPERIMENT_M6_POINTS.SLDPRT",
+  "SourceSha256": "E729D2C6269FB345C6B7E1384469FD5695C8B9DE4E2639CDD030F08253EA1386",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-channel-points\\32e1ad021d5246ce9bb9d33a69ead36d\\Tsapfa_EXPERIMENT_CHANNEL_POINTS.SLDPRT",
+  "Result": {
+    "BeforeMm3": 1996615.722921736,
+    "FinalMm3": 1996672.6787498586,
+    "Steps": [
+      {
+        "Channel": "II",
+        "AddedMm3": 25.47999472054653,
+        "IndependentIntegralMm3": 25.48009481403774,
+        "CoarseIntegralMm3": 25.481029863205393,
+        "VolumeBudgetMm3": 0.05
+      },
+      {
+        "Channel": "AA",
+        "AddedMm3": 31.47583340201527,
+        "IndependentIntegralMm3": 31.475696232009454,
+        "CoarseIntegralMm3": 31.476415998302805,
+        "VolumeBudgetMm3": 0.05
+      }
+    ],
+    "Points": {
+      "Points": [
+        {
+          "Channel": "II",
+          "Tip": [
+            156.67114716865711,
+            27.625084943158488,
+            -15.949350228318835
+          ],
+          "Base": [
+            158.46217108575723,
+            27.898580822983902,
+            -16.107253148158293
+          ],
+          "HeightMm": 1.8186533479473217,
+          "EdgeSamples": 130,
+          "ApexChecked": true
+        },
+        {
+          "Channel": "AA",
+          "Tip": [
+            128.75,
+            35.916214199490945,
+            20.736235936348344
+          ],
+          "Base": [
+            130.5642231997969,
+            36.02608064563794,
+            20.79966735860622
+          ],
+          "HeightMm": 1.8186533479473217,
+          "EdgeSamples": 390,
+          "ApexChecked": true
+        }
+      ],
+      "II": {
+        "Cylinders": 1,
+        "SharedEdgesWithD62Bore": 1,
+        "SharedEdgesWithD68Feed": 2,
+        "AxisChecked": true,
+        "EntryX": 265,
+        "ToolLengthVerifiedFromSavedParameters": false
+      },
+      "AA": {
+        "MainCylinders": 1,
+        "RadialCylinders": 1,
+        "FeedCylinders": 1,
+        "RadialX": 132,
+        "InclinationDegrees": 4,
+        "EntryX": 265,
+        "AxesAndConnectionsChecked": true,
+        "DrillBottomGeometryAccepted": false
+      },
+      "ExperimentalChannelPointsBuilt": true,
+      "DrawingEndStationsAccepted": false,
+      "IncludedAngleDegrees": 120
+    },
+    "Health": {
+      "ActiveFeatures": 396,
+      "SuppressedFeatures": 31,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996672.6787498586
+    },
+    "ExperimentalChannelPointsBuilt": true,
+    "ExperimentalM6PointsBuilt": true,
+    "ExperimentalLProfileCompleted": true,
+    "ExperimentalLExitBuilt": true,
+    "PpChamferBuilt": true,
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "DrawingInterpretationAccepted": false
+  },
+  "GeometryChanged": true,
+  "IsExperimental": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

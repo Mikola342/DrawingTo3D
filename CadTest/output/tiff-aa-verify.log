@@ -1,0 +1,34 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\24bc46973cdc4813833911de5bcc3ca5\TIFF_II_VERIFY_24bc46973cdc4813833911de5bcc3ca5.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\24bc46973cdc4813833911de5bcc3ca5\TIFF_II_VERIFY_24bc46973cdc4813833911de5bcc3ca5.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\24bc46973cdc4813833911de5bcc3ca5\TIFF_II_VERIFY_24bc46973cdc4813833911de5bcc3ca5.SLDPRT.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[DIAGNOSTIC] M8 isolated removal: V=37,095227328, bodies=2, samples=2145, R=3,323417653..3,999999997, S=-0,000000000..6,092559671; whole-part delta=37,099138608.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=2,538618776..3,999999997.
+[AUDIT] M8 face plane=True, R=0,089851756..3,958223752.
+[AUDIT] M8 60: 1122 samples; S=-0,000000000..6,092559671, R=0,089851756..3,999999997.
+[TIFF AA OK] TIFF_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[DIAGNOSTIC] M8 isolated removal: V=36,877707209, bodies=2, samples=1755, R=3,323417653..3,999999997, S=0,000000000..6,014651388; whole-part delta=36,880378684.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,537197249.
+[AUDIT] M8 face plane=True, R=2,506126897..3,537197249.
+[AUDIT] M8 face plane=True, R=0,001465457..3,999999997.
+[AUDIT] M8 120: 957 samples; S=0,000000000..6,014651388, R=0,001465457..3,999999997.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF HEALTH OK] active=284, suppressed=12, one solid body.
+[TIFF FOCUSED CHECK] F:\Project\DrawingTo3D\CadTest\output\tiff-verification\24bc46973cdc4813833911de5bcc3ca5\verification.json

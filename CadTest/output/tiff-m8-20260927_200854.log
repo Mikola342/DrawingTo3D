@@ -1,0 +1,15 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\a3d202a125974c5b87fa215935e7b18a\TIFF_M8_WORK_a3d202a125974c5b87fa215935e7b18a.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\a3d202a125974c5b87fa215935e7b18a\TIFF_M8_WORK_a3d202a125974c5b87fa215935e7b18a.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\a3d202a125974c5b87fa215935e7b18a\TIFF_M8_WORK_a3d202a125974c5b87fa215935e7b18a.SLDPRT.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TRIAL] TIFF_II_M8_PILOT_PENDING_LENGTH: D=6,646835306586815, finite length=6,092560.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=0,089851756..3,958223752.
+[AUDIT] M8 face plane=True, R=2,538618776..3,999999997.
+[AUDIT] M8 60: 1122 samples; S=-0,000000000..6,092559671, R=0,089851756..3,999999997.

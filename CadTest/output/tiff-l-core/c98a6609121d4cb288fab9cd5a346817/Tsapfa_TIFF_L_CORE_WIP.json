@@ -1,0 +1,63 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-bore-restored\\8c96621b6fcd4f9ca4d0781e9b5cdf27\\Tsapfa_TIFF_BORE80_RESTORED_WIP.SLDPRT",
+  "SourceSha256": "78D0CD5EC34CCC1A72C8B7FC5B047926BFBE28A84741CB34F7A4016C314D003D",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-l-core\\c98a6609121d4cb288fab9cd5a346817\\Tsapfa_TIFF_L_CORE_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2029740.8009878104,
+    "FinalMm3": 2029118.5300234074,
+    "RemovedMm3": 622.2709644029383,
+    "ExpectedRemovedMm3": 622.2709648598001,
+    "Geometry": {
+      "Groove": {
+        "DiameterMm": 71,
+        "MinimumX": 232,
+        "MaximumX": 233.9,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Bore": {
+        "DiameterMm": 68,
+        "MinimumX": 181,
+        "MaximumX": 237,
+        "Cylinders": 2,
+        "EdgeSamples": 165,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Rear": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "NominalCoreOnly": true,
+      "Transitions30And10DegreesAccepted": false,
+      "FullDetailLAccepted": false
+    },
+    "Channel": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "DetailLCoreBuilt": true,
+    "Bore80Restored": true,
+    "Bore80PartialRebuilt": true,
+    "Bore68StartRebuilt": true,
+    "RightM8Rebuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "TIFF L nominal cylindrical core D71/1.9 atX232 only. 30/10-degree transitions,1.2, tolerances and full detail remain unaccepted."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

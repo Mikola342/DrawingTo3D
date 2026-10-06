@@ -1,0 +1,39 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m8-transitions\\e604b197e4904c94ab46937646d655af\\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT",
+  "SourceSha256": "30BFB8F43B63D575850F3DA3F446B4E085EEC2ACBC1DE2609F58A10DC150F277",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\other-geometry-verification\\d0c510ef918c426d84fcd4b23f41e6c4\\M8_VERIFY.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "GeometryChanged": false,
+  "Result": {
+    "Dk": {
+      "Samples": 195,
+      "MaxProfileResidualMm": 3.090860900556436E-13,
+      "MinX": 246.5,
+      "MaxX": 260,
+      "D12SharedEdges": 1
+    },
+    "Spline": {
+      "RootFaces": 38,
+      "RootFilletFaces": 76,
+      "RunoutFaces": 38,
+      "RunoutStationXmm": 70,
+      "FullInvoluteProfileVerified": false,
+      "AngularPhaseVerified": false,
+      "DrawingInterpretationAccepted": false,
+      "Scope": "Inherited experimental surface counts and runout cutter placement; not full spline profile or TIFF conformity."
+    },
+    "Health": {
+      "ActiveFeatures": 425,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996679.0803251318
+    },
+    "DrawingInterpretationAccepted": false,
+    "FullSplineProfileVerified": false,
+    "DkDatumAccepted": false,
+    "Scope": "Current saved model: inherited approximate DK and spline surface checks only."
+  }
+}

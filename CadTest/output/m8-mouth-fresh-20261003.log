@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-verification\f9bb8d37adfb4a789f0b791c0c94a719\VERIFY_f9bb8d37adfb4a789f0b791c0c94a719.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-verification\f9bb8d37adfb4a789f0b791c0c94a719\VERIFY_f9bb8d37adfb4a789f0b791c0c94a719.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-verification\f9bb8d37adfb4a789f0b791c0c94a719\VERIFY_f9bb8d37adfb4a789f0b791c0c94a719.SLDPRT.
+[OK] APPROX KG pilot 60: 66 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 66 samples, residual=0,000000000, end=7,000000.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_POINT_CYLINDER: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_RADIAL_CYLINDER: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] EXPERIMENT_AA_FEED_CYLINDER: cylinders=1, radial edges=0, feed edges=0.
+[OK] Drawing D19: 12 cylinders, 72 samples, X247..265; PCD226/phase15.
+[LEFT SLOT CHECK] floor39.5,R35 center25/74.5,width16,00000000000078;samples5742.
+[TIFF HEALTH OK] active=435, suppressed=34, one solid body.
+[M8 MOUTH FRESH DIAGNOSTIC; NOT ACCEPTED] F:\Project\DrawingTo3D\CadTest\output\m8-mouth-verification\f9bb8d37adfb4a789f0b791c0c94a719\verification.json

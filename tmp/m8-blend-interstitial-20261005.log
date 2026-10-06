@@ -1,0 +1,8 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\fec57f647530452a9e78a94640bf798d\M8_ENDS_fec57f647530452a9e78a94640bf798d.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\fec57f647530452a9e78a94640bf798d\M8_ENDS_fec57f647530452a9e78a94640bf798d.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\fec57f647530452a9e78a94640bf798d\M8_ENDS_fec57f647530452a9e78a94640bf798d.SLDPRT.
+[M8 BLEND] II:present=321/512,projectionFailures=0,curvatureFailures=0,centerResidual=5,684341886080802E-14,radiusResidual=5,3512749786932545E-14,trimDistance=0,6723243402906323.
+[M8 BLEND] AA:present=206/512,projectionFailures=0,curvatureFailures=0,centerResidual=5,684341886080802E-14,radiusResidual=5,10702591327572E-14,trimDistance=0,822004253256202.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[M8 INNER END REPORT] F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\fec57f647530452a9e78a94640bf798d

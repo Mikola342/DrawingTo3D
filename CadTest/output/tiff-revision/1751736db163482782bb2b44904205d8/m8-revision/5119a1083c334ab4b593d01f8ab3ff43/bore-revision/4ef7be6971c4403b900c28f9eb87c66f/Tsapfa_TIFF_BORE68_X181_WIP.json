@@ -1,0 +1,37 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\m8-revision\\5119a1083c334ab4b593d01f8ab3ff43\\Tsapfa_TIFF_II_M8_NOMINAL_WIP.SLDPRT",
+  "SourceSha256": "3718440ACD31E6CC221C1E8C3ADC0DEBD713BA4E73860E01039F2234B1EE26E4",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\m8-revision\\5119a1083c334ab4b593d01f8ab3ff43\\bore-revision\\4ef7be6971c4403b900c28f9eb87c66f\\Tsapfa_TIFF_BORE68_X181_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2036496.7555022186,
+    "FinalMm3": 2022713.0582214538,
+    "RemovedMm3": 13783.697280764813,
+    "ExpectedRemovedMm3": 13783.695304477855,
+    "Geometry": {
+      "DiameterMm": 68,
+      "MinimumX": 181,
+      "MaximumX": 240,
+      "Cylinders": 1,
+      "EdgeSamples": 99,
+      "RearEndStillHistorical": true,
+      "EntryR1MaxAccepted": false,
+      "DiameterToleranceAccepted": false
+    },
+    "Channel": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "Bore68StartRebuilt": true,
+    "RightM8Rebuilt": true,
+    "TiffThreadLengthAccepted": false,
+    "Tolerance6HAccepted": false,
+    "IsManufacturingReady": false,
+    "Scope": "Only D68 front datum moved from X203.5 to TIFF nominal X181. Rear bore, detail L, entry fillet, other body diameters and AA channel remain pending."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

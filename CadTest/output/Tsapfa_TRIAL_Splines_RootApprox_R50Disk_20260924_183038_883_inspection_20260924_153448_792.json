@@ -1,0 +1,12 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_Splines_RootApprox_R50Disk_20260924_183038_883.SLDPRT",
+  "VerifiedAtUtc": "2026-09-24T15:34:48.8075268Z",
+  "Mode": "inspect-trial-without-SLDPRT-save",
+  "IsManufacturingReady": false,
+  "BaseFeaturesChecked": true,
+  "TrialSplineSurfacesChecked": true,
+  "ActualVolumeMm3": 2095441.4067362696,
+  "ExpectedVolumeMm3": 2095441.372517606,
+  "DifferenceMm3": 0.0342186635825783,
+  "Scope": "In-memory model; may already be open. Root circle user-approved as approximation; disk-tool construction and angular phase provisional."
+}

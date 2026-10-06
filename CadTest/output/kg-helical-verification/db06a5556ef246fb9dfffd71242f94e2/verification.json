@@ -1,0 +1,111 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-helical-trial\\a0c26049446442c8b1191f1099c21275\\UNVERIFIED_KG_HELICAL.SLDPRT",
+  "SourceSha256": "CA2D9130A870DE9C66C28B890A9C8F474107C69B7F1DBCC78A7964A414FA1C41",
+  "BuildReportSha256": "985914497EAF1426F9FB255FAC55C339478171805FBAC11C1C623A6ADEBAA12A",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "Geometry": {
+    "Operations": [
+      {
+        "BranchDegrees": 60,
+        "Faces": 4,
+        "EdgeSamples": 3598,
+        "MinimumTmm": 1.7618103512474126,
+        "MaximumTmm": 6.246938798005841,
+        "MinimumRadiusMm": 4.204783162562262,
+        "MaximumRadiusMm": 4.7575,
+        "HelicalEdgeFits": [
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.0000132426719635,
+            "SignedPitchMm": 0.9407403513797071,
+            "MaximumAxialFitResidualMm": 6.113340379566312E-06,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.8936103352593676E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.9999963000184238,
+            "SignedPitchMm": 0.940742880035097,
+            "MaximumAxialFitResidualMm": 1.4162778635330942E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": 2.139294356329202E-06
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.0000132426719635,
+            "SignedPitchMm": 0.9407403513797071,
+            "MaximumAxialFitResidualMm": 6.113340379566312E-06,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.8936103352593676E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999997262721198,
+            "SignedPitchMm": 0.9407387991851345,
+            "MaximumAxialFitResidualMm": 1.374779930013414E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -1.941555606177481E-06
+          }
+        ]
+      },
+      {
+        "BranchDegrees": 120,
+        "Faces": 4,
+        "EdgeSamples": 3598,
+        "MinimumTmm": 1.7618103512474137,
+        "MaximumTmm": 6.246938798006508,
+        "MinimumRadiusMm": 4.204783162562228,
+        "MaximumRadiusMm": 4.757499999999994,
+        "HelicalEdgeFits": [
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.000013242670635,
+            "SignedPitchMm": 0.9407403513797223,
+            "MaximumAxialFitResidualMm": 6.113337906382774E-06,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.893610183158813E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999996300019074,
+            "SignedPitchMm": 0.9407428800352491,
+            "MaximumAxialFitResidualMm": 1.4162773363413905E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": 2.1392945084297565E-06
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 4.000013242670635,
+            "SignedPitchMm": 0.9407403513797223,
+            "MaximumAxialFitResidualMm": 6.113337906382774E-06,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -3.893610183158813E-07
+          },
+          {
+            "Samples": 257,
+            "AxialSpanMm": 3.999997262721992,
+            "SignedPitchMm": 0.9407387991854188,
+            "MaximumAxialFitResidualMm": 1.3747797990807943E-05,
+            "PositivePhaseWithIncreasingInwardT": true,
+            "NominalPitchDifferenceMm": -1.941555321849364E-06
+          }
+        ]
+      }
+    ],
+    "FullProfileVerified": false,
+    "PitchAndHandednessVerified": false,
+    "Accepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 439,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998523.5154132636
+  },
+  "VolumeMm3": 1998523.5154132636,
+  "Accepted": false,
+  "FullInheritedRegressionRepeated": false
+}

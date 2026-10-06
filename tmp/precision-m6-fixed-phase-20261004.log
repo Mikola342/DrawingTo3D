@@ -1,0 +1,7 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\thread-sections\335d0fe15be4465499b42250c8a37e6e\SECTIONS_335d0fe15be4465499b42250c8a37e6e.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\335d0fe15be4465499b42250c8a37e6e\SECTIONS_335d0fe15be4465499b42250c8a37e6e.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\335d0fe15be4465499b42250c8a37e6e\SECTIONS_335d0fe15be4465499b42250c8a37e6e.SLDPRT.
+[THREAD PROFILE POINTS] M6_1: samples=912,slot=0,maxDistance=2,1366867782310465E-05,failed=0.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[THREAD SECTIONS REPORT] F:\Project\DrawingTo3D\CadTest\output\thread-sections\335d0fe15be4465499b42250c8a37e6e

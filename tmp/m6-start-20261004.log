@@ -1,0 +1,34 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\WORK_ea8dbdb5fc6746a09e63c932cabbbcc4.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\WORK_ea8dbdb5fc6746a09e63c932cabbbcc4.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\WORK_ea8dbdb5fc6746a09e63c932cabbbcc4.SLDPRT.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 EXTENDED] 1/4; volume=1998508,3609007732
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 EXTENDED] 2/4; volume=1998504,3957926598
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 EXTENDED] 3/4; volume=1998500,4306772896
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 EXTENDED] 4/4; volume=1998496,4656871918
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\Tsapfa_M6_START_TRIAL.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\Tsapfa_M6_START_TRIAL.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\Tsapfa_M6_START_TRIAL.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\Tsapfa_M6_START_TRIAL.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4\Tsapfa_M6_START_TRIAL.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[AXIAL THREAD EDGES] TIFF_M6_1_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_2_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_3_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_4_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M12x1_75_7H_nominal_1:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M12x1_75_7H_nominal_2:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M90x2_X5_to_X38:faces=56,longEdges=0,pitchMatches=0.
+[EXPERIMENT M6 POINTS OK] four120deg tips;total depth22;angle is assumption.
+[M6 START REPORT] F:\Project\DrawingTo3D\CadTest\output\m6-start-extension\ea8dbdb5fc6746a09e63c932cabbbcc4

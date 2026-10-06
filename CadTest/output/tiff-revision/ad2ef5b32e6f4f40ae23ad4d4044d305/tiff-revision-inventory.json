@@ -1,0 +1,1646 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT",
+  "SourceSha256": "FB50A31A5478799B17B7E1F7757E7D3C87301BB3FCBC36620E23AB0CC442DD07",
+  "WorkFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\ad2ef5b32e6f4f40ae23ad4d4044d305\\Tsapfa_TIFF_WIP_UNMODIFIED_BASELINE.SLDPRT",
+  "SavedBytesUnchanged": true,
+  "SourcePolicy": {
+    "Status": "TIFF_PRIMARY_BY_EXPLICIT_USER_APPROVAL_REBUILD_PENDING",
+    "PrimarySource": "5309-2304083.tif (explicit user approval)",
+    "SupplementalSource": "chertezh_corrected_final.pdf (historical comparison only)",
+    "ObservedTiffSha256": "3ED767B3858A6E22BFE8B585949F95EB3505430C20C1D751CB95ACD6B804839E",
+    "ObservedPdfSha256": "0150AD1C642FFF0B73D54B7F2E2EE7C7E9B1815EF77E4B4C0890AA548AE04982",
+    "TiffSections": [
+      {
+        "Section": "A-A",
+        "AngleDegrees": 4,
+        "LengthMinMm": null,
+        "LengthMaxMm": null,
+        "Observation": "D6.3 linked to radial D6; 107 shown. The 110 callout is in I-I, not this section."
+      },
+      {
+        "Section": "I-I",
+        "AngleDegrees": 10,
+        "LengthMinMm": 110,
+        "LengthMaxMm": 111.4,
+        "Observation": "D6.3, 110 \u002B1.4, M8x1.25-6H; geometry suggests a different route toward the bore."
+      }
+    ],
+    "PdfObservation": "Visible PDF places 110 and 4 degrees together in A-A; its I-I depiction is reduced. TIFF is not an identical revision and cannot silently override PDF.",
+    "CurrentCadObservation": "Both branch angles 60/120 use the same 4-degree/160.641314 construction. This does not establish the two-section TIFF topology.",
+    "SectionBranchMapping": [
+      {
+        "Section": "A-A",
+        "EndViewLocation": "upper-left",
+        "AzimuthDegrees": 120,
+        "UnitY": 0.8660254037844387,
+        "UnitZ": 0.4999999999999998,
+        "TiffInclinationDegrees": 4
+      },
+      {
+        "Section": "I-I",
+        "EndViewLocation": "upper-right",
+        "AzimuthDegrees": 60,
+        "UnitY": 0.8660254037844386,
+        "UnitZ": -0.5000000000000001,
+        "TiffInclinationDegrees": 10
+      }
+    ],
+    "MappingScope": "Mapping in existing project end-view convention horizontal=-Z, vertical=Y, azimuth counterclockwise from image right. Not an independent SolidWorks camera/handedness inspection. TIFF distinguishes depicted5309-2304083 from mirrored5309-2304082; do not mirror implicitly.",
+    "ConditionalBoreProbes": [
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 152.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 157.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      }
+    ],
+    "ProbeScope": "Assume entry radius51 at X260 or X265 and central bore R31 over X3..181, with a flat-ended D6.3 cylinder. An interior-point witness demonstrates possible bore opening for this hypothesis only; entry datum, section angular mapping and actual TIFF/PDF topology remain unaccepted. No flow/seal/manufacturing acceptance.",
+    "LengthCorrectionProposalOnHold": true,
+    "SourcesInterchangeable": false,
+    "TransferToCadAuthorized": true,
+    "DrawingConformanceAccepted": false,
+    "AuthorityScope": "TIFF is primary for the part, not only channels. Existing PDF-based CAD and acceptance reports remain historical until rebuilt and checked against TIFF. Unknown datums are not authorized guesses."
+  },
+  "Inventory": {
+    "Features": [
+      {
+        "Name": "\u0417\u0430\u043C\u0435\u0442\u043A\u0438",
+        "Type": "CommentsFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0427\u0430\u0441\u0442\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0435",
+        "Type": "FavoriteFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+        "Type": "HistoryFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041D\u0430\u0431\u043E\u0440\u044B \u0432\u044B\u0431\u043E\u0440\u0430",
+        "Type": "SelectionSetFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0414\u0430\u0442\u0447\u0438\u043A\u0438",
+        "Type": "SensorFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u0432\u044F\u0437\u044C \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u0432",
+        "Type": "DocsFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u0440\u0438\u043C\u0435\u0447\u0430\u043D\u0438\u044F",
+        "Type": "DetailCabinet",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0435\u043B\u0430 \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438",
+        "Type": "SurfaceBodyFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0432\u0435\u0440\u0434\u044B\u0435 \u0442\u0435\u043B\u0430",
+        "Type": "SolidBodyFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438 \u0441\u0432\u0435\u0442\u0430 \u0438 \u043A\u0430\u043C\u0435\u0440\u044B",
+        "Type": "EnvFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F",
+        "Type": "InkMarkupFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F",
+        "Type": "EqnFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u003C\u043D\u0435 \u0443\u043A\u0430\u0437\u0430\u043D\u003E",
+        "Type": "MaterialFolder",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u043F\u0435\u0440\u0435\u0434\u0438",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u0432\u0435\u0440\u0445\u0443",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u043F\u0440\u0430\u0432\u0430",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0445\u043E\u0434\u043D\u0430\u044F \u0442\u043E\u0447\u043A\u0430",
+        "Type": "OriginProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04371",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u044C1",
+        "Type": "Revolution",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04372",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u044C1",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04373",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Rear_recess_left",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04374",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Collar_groove_nominal",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04375",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Rear_recess_lip",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04376",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C1",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04377",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C2",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04378",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C3",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04379",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C4",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043710",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C5",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043711",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C6",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043712",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C7",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043713",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C8",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043714",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C9",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043715",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C10",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043716",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C11",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043717",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C12",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043718",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C13",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043719",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C14",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043720",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Left_flat_84_5_R35",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043721",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Left_end_bottom_20",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043722",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_38_spaces_to_X70_RootApprox",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C4",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043723",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_01",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043724",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_02",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043725",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_03",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043726",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_04",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043727",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_05",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043728",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_06",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043729",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_07",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043730",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_08",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043731",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_09",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043732",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_10",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043733",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_11",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043734",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_12",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043735",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_13",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043736",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_14",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043737",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_15",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043738",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_16",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043739",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_17",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043740",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_18",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043741",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_19",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043742",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_20",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043743",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_21",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043744",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_22",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043745",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_23",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043746",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_24",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043747",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_25",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043748",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_26",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043749",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_27",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043750",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_28",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043751",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_29",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043752",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_30",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043753",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_31",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043754",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_32",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043755",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_33",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043756",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_34",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043757",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_35",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043758",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_36",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043759",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_37",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043760",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_38",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043761",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C15",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043762",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C16",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "M12_rear_chamfers_2x45",
+        "Type": "Chamfer",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_1",
+        "Type": "SweepThread",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_2",
+        "Type": "SweepThread",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04371",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043763",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04372",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043764",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04373",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043765",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04374",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043766",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04375",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043767",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04376",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043768",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04377",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043769",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04378",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043770",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04379",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043771",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043710",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043772",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_thread_60",
+        "Type": "SweepThread",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_thread_120",
+        "Type": "SweepThread",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M90x2_X5_to_X38",
+        "Type": "SweepThread",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043711",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043773",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043712",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_60_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043774",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_60",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043713",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043775",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043714",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_120_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043776",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_120",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043777",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_DK_floor260",
+        "Type": "RevCut",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043715",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_01_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043778",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_01",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043716",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_02_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043779",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_02",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043717",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_03_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043780",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_03",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043718",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_04_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043781",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_04",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043719",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_05_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043782",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_05",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043720",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_06_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043783",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_06",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043721",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_07_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043784",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_07",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043722",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_08_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043785",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_08",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043723",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_09_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043786",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_09",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043724",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_10_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043787",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_10",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043725",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_11_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043788",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_11",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043726",
+        "Type": "3DProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_12_plane",
+        "Type": "RefPlane",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043789",
+        "Type": "ProfileFeature",
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_12",
+        "Type": "ICE",
+        "Error": 0,
+        "Warning": false
+      }
+    ],
+    "VolumeMm3": 2034759.9075602056,
+    "Scope": "Read-only top-level feature inventory of the inherited PDF-based geometry. Not TIFF acceptance; no operations suppressed, deleted, rebuilt or saved by this inventory."
+  },
+  "GeometryChanged": false,
+  "TiffConformanceAccepted": false,
+  "IsManufacturingReady": false,
+  "Scope": "Separate work branch initialized only. Original preserved; inherited geometry is NOT a completed TIFF model."
+}

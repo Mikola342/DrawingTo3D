@@ -1,0 +1,36 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-entries\\415b978d62db4a83bee4572d4ce80b29\\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT",
+  "SourceSha256": "DFC1E5F8DAFA092AA56BBBFB4FE785A6ABF91F10686C3E2391E9BDEA0AFA6292",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-mouth-trial\\43af27e441474ee5ab74795d8cae0bba\\UNVERIFIED_M8_MOUTHS.SLDPRT",
+  "Accepted": false,
+  "Result": {
+    "BeforeMm3": 1998547.5469835629,
+    "FinalMm3": 1998546.4257616932,
+    "Operations": [
+      {
+        "Branch": "II",
+        "SelectedEdges": 1,
+        "RadiusMm": 0.5,
+        "VolumeMm3": 1998546.8404846103
+      },
+      {
+        "Branch": "AA",
+        "SelectedEdges": 1,
+        "RadiusMm": 0.5,
+        "VolumeMm3": 1998546.4257616932
+      }
+    ],
+    "Health": {
+      "ActiveFeatures": 435,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998546.4257616932
+    },
+    "NoEndTrimExperiment": true,
+    "Accepted": false,
+    "RequiresFreshGeometryAndProfileVerification": true,
+    "DrawingInterpretationAccepted": false
+  }
+}

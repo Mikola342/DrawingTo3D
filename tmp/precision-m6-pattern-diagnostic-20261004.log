@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\BEFORE_7f687ce8159b478aa78d688207fcde02.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\BEFORE_7f687ce8159b478aa78d688207fcde02.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\BEFORE_7f687ce8159b478aa78d688207fcde02.SLDPRT.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\AFTER_7f687ce8159b478aa78d688207fcde02.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\AFTER_7f687ce8159b478aa78d688207fcde02.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\7f687ce8159b478aa78d688207fcde02\AFTER_7f687ce8159b478aa78d688207fcde02.SLDPRT.
+[PRECISION DIFFERENCE] removed,hole=2: X248,9942264973081..264,5412659185961,R2,4487341226347183..3,0000003050105635;passed=False.
+[PRECISION DIFFERENCE] removed,hole=3: X248,99999999999997..264,5412659479258,R2,458704372550328..3,000000305001635;passed=True.
+[PRECISION DIFFERENCE] removed,hole=4: X249..264,54126594792535,R2,458704372546753..3,0000003050119637;passed=True.
+[PRECISION DIFFERENCE] removed,hole=1: X248,9942264973081..264,5412659185945,R2,4487341226347183..3,000000305015336;passed=False.
+[PRECISION DIFFERENCE] added,hole=2: X249..264,5412768298057,R2,4487341226347255..2,999999997634736;passed=False.
+[PRECISION DIFFERENCE] added,hole=3: X249..264,54127682980584,R2,4587341226346466..2,999999997634737;passed=True.
+[PRECISION DIFFERENCE] added,hole=4: X249..264,54127682980555,R2,4587341226346475..2,999999997634738;passed=True.
+[PRECISION DIFFERENCE] added,hole=1: X249..264,54127682980555,R2,4487341226347255..2,999999997634741;passed=False.

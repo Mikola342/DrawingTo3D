@@ -1,0 +1,132 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-rear-resumed\\c8a92c214f5343a7a059c663be9cda5c\\Tsapfa_TIFF_REAR_DATUM_WIP.SLDPRT",
+  "SourceSha256": "C89ED302F3464981034AA7E4B288A2AEE66FE7C6B97E8B9BA21270804E3597E7",
+  "PredecessorVerification": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-verification\\a43f43f122ef419a866ff9d311d76d93\\verification.json",
+  "PredecessorVerificationSha256": "D1FAC5E6CF671F7255C2FFC626FF5E5491B91D7C006E644D8C7D59CE7D960387",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-exterior\\b57a3cbe66c141bcb3abdc9d9f9a29ea\\Tsapfa_TIFF_EXTERIOR_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2045003.9035078625,
+    "FinalMm3": 1998698.856232805,
+    "VolumeDeltaMm3": -46305.04727505753,
+    "ExpectedDeltaMm3": -46305.048696841,
+    "Exterior": {
+      "ArcFaces": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ConeFaces": 3,
+      "Cylinder110": {
+        "DiameterMm": 110,
+        "MinimumX": 183,
+        "MaximumX": 233,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "FeatureOrderChecked": true,
+      "TheoreticalCornerDiametersMm": [
+        135,
+        184
+      ],
+      "LegacyD125Removed": true,
+      "Scope": "Nominal profile surfaces and circular boundary rings checked; not dimensional tolerance acceptance."
+    },
+    "II": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "EntryX": 265,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "AA": {
+      "MainCylinders": 1,
+      "RadialCylinders": 1,
+      "FeedCylinders": 1,
+      "RadialX": 132,
+      "InclinationDegrees": 4,
+      "EntryX": 265,
+      "AxesAndConnectionsChecked": true,
+      "DrillBottomGeometryAccepted": false
+    },
+    "Bore": {
+      "Groove": {
+        "DiameterMm": 71,
+        "MinimumX": 232,
+        "MaximumX": 233.9,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Bore": {
+        "DiameterMm": 68,
+        "MinimumX": 180.99999999999997,
+        "MaximumX": 237,
+        "Cylinders": 2,
+        "EdgeSamples": 165,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Rear": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "NominalCoreOnly": true,
+      "Transitions30And10DegreesAccepted": false,
+      "FullDetailLAccepted": false
+    },
+    "Collar": {
+      "Collar": {
+        "DiameterMm": 115,
+        "MinimumX": 260,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "BoltCircleDiameterMm": 95,
+      "M6PatternNotInspectedHere": true,
+      "MouthNominalX": 265,
+      "SelectedCollarInsetMm": 0,
+      "AllowedInsetMaxMm": 1.6
+    },
+    "Health": {
+      "ActiveFeatures": 308,
+      "SuppressedFeatures": 24,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998698.856232805
+    },
+    "OuterProfileRebuilt": true,
+    "RearCollarRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "M6PatternBuilt": false,
+    "IsManufacturingReady": false,
+    "Scope": "TIFF nominal exterior interpretation: R5 pair at D105/D110, R6 root, D135/2mm step, D184 theoretical45deg corner/R3. Reordered before all cuts. L transitions, M6, KG thread and tool ends still pending."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

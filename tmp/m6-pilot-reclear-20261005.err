@@ -1,0 +1,4 @@
+System.InvalidOperationException: Channel cut failed: PRECISION_M6_1_PILOT_RECLEAR.
+   at CadTest.Cad.SolidWorksService.CutChannelCylinder(String name, Double[] from, Double[] to, Double radius, Double[] tangent, Boolean cone, Double coneAngle, Boolean exactApex) in F:\Project\DrawingTo3D\CadTest\Cad\ChannelTrial.cs:line 218
+   at CadTest.Cad.SolidWorksService.ClearPrecisionM6Pilots() in F:\Project\DrawingTo3D\CadTest\Cad\PrecisionM6Trial.cs:line 15
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 17

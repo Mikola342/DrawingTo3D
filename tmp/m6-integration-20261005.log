@@ -1,0 +1,10 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\BEFORE_a062a44a49dc41588244723986e63e59.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\BEFORE_a062a44a49dc41588244723986e63e59.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\BEFORE_a062a44a49dc41588244723986e63e59.SLDPRT.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\AFTER_a062a44a49dc41588244723986e63e59.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\AFTER_a062a44a49dc41588244723986e63e59.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59\AFTER_a062a44a49dc41588244723986e63e59.SLDPRT.
+[M6 OUTSIDE MASK] components=0,error=0,passed=True
+[M6 OUTSIDE MASK] components=0,error=0,passed=True
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[M6 FINAL REPAIR REPORT] F:\Project\DrawingTo3D\CadTest\output\m6-repair-final\a062a44a49dc41588244723986e63e59

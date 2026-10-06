@@ -1,0 +1,20 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\L_EXPERIMENT_WORK.SLDPRT.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TRIAL] EXPERIMENT_L_EXIT_1p2_30deg_TO_AXIS: D=69,38564064605511, finite length=2,400000.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..235,800000000, samples=66.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[EXPERIMENT L OK] X235,8..237; angle30 to axis; samples=66; NOT drawing acceptance.
+[TIFF HEALTH OK] active=353, suppressed=24, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\Tsapfa_EXPERIMENT_L_EXIT.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\Tsapfa_EXPERIMENT_L_EXIT.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-l-exit\f37846d6394041c7a02be50c041cb4c1\Tsapfa_EXPERIMENT_L_EXIT.SLDPRT

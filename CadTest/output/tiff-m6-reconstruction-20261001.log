@@ -1,0 +1,26 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\M6_CHECK_COPY.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\M6_CHECK_COPY.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\M6_CHECK_COPY.SLDPRT.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 BOOLEAN RECONSTRUCTION OK] 4 removed bodies rejoined; both differences empty (0/0).
+[TIFF M6 OK] four threads, samples=429,429,429,429, V=219,371869046, R=2,458734123..2,999999998.
+[TIFF BORE OK] D110: X=183,000000000..233,000000000, samples=66.
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF HEALTH OK] active=348, suppressed=24, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\Tsapfa_TIFF_M6_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\Tsapfa_TIFF_M6_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-m6-checked\bab52b0f247a49a4a63156c4272cc473\Tsapfa_TIFF_M6_WIP.SLDPRT

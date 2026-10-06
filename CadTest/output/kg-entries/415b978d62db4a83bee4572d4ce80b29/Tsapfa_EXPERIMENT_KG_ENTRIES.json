@@ -1,0 +1,104 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.SLDPRT",
+  "SourceSha256": "3DAE51B34AFF03B950D7F3D671050C2827A5CD9A5E9C0B97514840DA8019AA56",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-entries\\415b978d62db4a83bee4572d4ce80b29\\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT",
+  "ModelSha256": "DFC1E5F8DAFA092AA56BBBFB4FE785A6ABF91F10686C3E2391E9BDEA0AFA6292",
+  "GeometryChanged": true,
+  "Result": {
+    "BeforeMm3": 1998688.6536454218,
+    "FinalMm3": 1998547.5469835629,
+    "Steps": [
+      {
+        "BranchDegrees": 60,
+        "RemovedMm3": 70.55338911153376,
+        "IndependentIntegralMm3": 70.54970934511726,
+        "CoarseIntegralMm3": 70.54987260685873,
+        "VolumeBudgetMm3": 0.05
+      },
+      {
+        "BranchDegrees": 120,
+        "RemovedMm3": 70.55327274743468,
+        "IndependentIntegralMm3": 70.54970934511726,
+        "CoarseIntegralMm3": 70.54987260685873,
+        "VolumeBudgetMm3": 0.05
+      }
+    ],
+    "Geometry": {
+      "Entries": [
+        {
+          "BranchDegrees": 60,
+          "EdgeSamples": 130,
+          "MaximumTmm": 1.5999999999999779,
+          "MaximumResidualMm": 9.618410068412686E-09
+        },
+        {
+          "BranchDegrees": 120,
+          "EdgeSamples": 130,
+          "MaximumTmm": 1.600000000000018,
+          "MaximumResidualMm": 1.1033688718242729E-07
+        }
+      ],
+      "Pilot": [
+        {
+          "AngleDegrees": 60,
+          "ConeFaces": 1,
+          "Samples": 66,
+          "MaxResidualMm": 1.2256862191861728E-13,
+          "MaxT": 6.9999999999999165,
+          "DirectConeD8Edges": 0,
+          "TransitionSamples": 34,
+          "MinTransition": 6.999999999999942,
+          "MaxTransition": 9.000000000000112
+        },
+        {
+          "AngleDegrees": 120,
+          "ConeFaces": 1,
+          "Samples": 66,
+          "MaxResidualMm": 1.1812772982011666E-13,
+          "MaxT": 7.000000000000009,
+          "DirectConeD8Edges": 0,
+          "TransitionSamples": 34,
+          "MinTransition": 6.999999999999888,
+          "MaxTransition": 9.000000000000071
+        }
+      ],
+      "EntryDatumAccepted": false,
+      "KgThreadBuilt": false
+    },
+    "Health": {
+      "ActiveFeatures": 433,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998547.5469835629
+    },
+    "ExperimentalKgEntriesBuilt": true,
+    "KgThreadBuilt": false,
+    "EntryDatumAccepted": false,
+    "DrawingInterpretationAccepted": false,
+    "ExperimentalM8TransitionsBuilt": true,
+    "ExperimentalRadialPointBuilt": true,
+    "ExperimentalFeedPointsBuilt": true,
+    "ExperimentalChannelPointsBuilt": true,
+    "ExperimentalM6PointsBuilt": true,
+    "ExperimentalLProfileCompleted": true,
+    "ExperimentalLExitBuilt": true,
+    "PpChamferBuilt": true,
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "LeftSlotWidthCorrected": true,
+    "InheritedBuildReport": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.json",
+    "InheritedBuildReportSha256": "359D958817E170BAC3C46B78636BE424326056FCB8406240C1F63FC1280D9576"
+  },
+  "FullTiffConformanceChecked": false
+}

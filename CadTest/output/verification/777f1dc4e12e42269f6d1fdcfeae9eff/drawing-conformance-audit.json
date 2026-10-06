@@ -1,0 +1,143 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_DK_KGPrep_20260926_220013_059.SLDPRT",
+  "SourceSha256": "E3051F94EAD50E1A1B1CF433DCFF979F9D00DECE95942217F53BF5B9B03EF113",
+  "VerificationFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\777f1dc4e12e42269f6d1fdcfeae9eff\\verification.json",
+  "CheckedAtUtc": "2026-09-27T08:56:31.1418046Z",
+  "DrawingConformancePercent": null,
+  "Target85PercentDemonstrated": false,
+  "IsManufacturingReady": false,
+  "Scope": "Read-only audit of verified model evidence against selected drawing constraints, NOT exhaustive drawing acceptance. No row-count percentage.",
+  "Mass": {
+    "VolumeMm3": 2057831.7640081905,
+    "ReferenceDensityKgM3": 7850,
+    "CalculatedKg": 16.153979347464293,
+    "DrawingKg": 11.3,
+    "DifferenceKg": 4.853979347464293,
+    "DifferencePercentOfDrawing": 42.95556944658665,
+    "VolumeAtDrawingMassMm3": 1439490.4458598727,
+    "ImpliedDensityKgM3": 5491.216627927912
+  },
+  "DensitySource": "https://www.nntu.ru/frontend/web/ngtu/files/nauka/izdaniya/trudy/2022/04/2022-04.pdf",
+  "DensityScope": "Reference calculation, not material assignment, measurement or certification. Drawing title block: steel 30HGSA, 11.3 kg.",
+  "DensitySensitivity": [
+    {
+      "VolumeMm3": 2057831.7640081905,
+      "ReferenceDensityKgM3": 7700,
+      "CalculatedKg": 15.845304582863067,
+      "DrawingKg": 11.3,
+      "DifferenceKg": 4.545304582863066,
+      "DifferencePercentOfDrawing": 40.22393436162006,
+      "VolumeAtDrawingMassMm3": 1467532.4675324678,
+      "ImpliedDensityKgM3": 5491.216627927912
+    },
+    {
+      "VolumeMm3": 2057831.7640081905,
+      "ReferenceDensityKgM3": 7900,
+      "CalculatedKg": 16.256870935664704,
+      "DrawingKg": 11.3,
+      "DifferenceKg": 4.956870935664703,
+      "DifferencePercentOfDrawing": 43.86611447490887,
+      "VolumeAtDrawingMassMm3": 1430379.7468354432,
+      "ImpliedDensityKgM3": 5491.216627927912
+    }
+  ],
+  "Localization": {
+    "Bands": [
+      {
+        "StartX": 0,
+        "EndX": 95,
+        "AxisymmetricEnvelopeMm3": 393056.10737877584,
+        "ReferenceMassKg": 3.08549044292339,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 95,
+        "EndX": 183,
+        "AxisymmetricEnvelopeMm3": 498137.012820178,
+        "ReferenceMassKg": 3.910375550638397,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 183,
+        "EndX": 239,
+        "AxisymmetricEnvelopeMm3": 407442.5753767138,
+        "ReferenceMassKg": 3.1984242167072034,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 239,
+        "EndX": 247,
+        "AxisymmetricEnvelopeMm3": 125626.32906105636,
+        "ReferenceMassKg": 0.9861666831292923,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 247,
+        "EndX": 265,
+        "AxisymmetricEnvelopeMm3": 710756.9615602947,
+        "ReferenceMassKg": 5.579442148248313,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      },
+      {
+        "StartX": 265,
+        "EndX": 273,
+        "AxisymmetricEnvelopeMm3": 23704.464299783307,
+        "ReferenceMassKg": 0.18608004475329895,
+        "Scope": "Axisymmetric envelope with bore/recess, BEFORE local flats, holes, splines, channels and threads."
+      }
+    ],
+    "RefinementDifferenceMm3": 0.0018998789018951356,
+    "EnvelopeVolumeMm3": 2158723.450496802,
+    "BaseLocalRemovalMm3": 54279.22268638348,
+    "AnalyticalBaseVolumeMm3": 2104444.229236402,
+    "FinalVerifiedVolumeMm3": 2057831.7640081905,
+    "SubsequentNetRemovalMm3": 46612.4652282116,
+    "Scope": "Numerical decomposition of construction parameters reconciled to analytical base; not an independent confirmation of drawing dimensions or actual CAD band masses.",
+    "TemporaryRightZone": {
+      "StartX": 239,
+      "EndX": 247,
+      "EnclosingRadiusMm": 127.5,
+      "AbsoluteRemovalUpperBoundMm3": 408564.1245993526,
+      "RequiredRemovalToTitleMassMm3": 618341.3181483177,
+      "MassLowerBoundEvenIfEnclosingCylinderRemovedKg": 12.946750969359377,
+      "ZoneAloneCannotResolveMass": true,
+      "Scope": "Assumes fixed verified geometry outside X239..247 and reference density7850. Removing the entire enclosing cylinder is an impossible/overgenerous bound, NOT a CAD proposal."
+    }
+  },
+  "Channels": {
+    "DrawingLengthMm": 110,
+    "TrialLengthMm": 160.64131416750783,
+    "RadialHoleX": 108,
+    "TrialAnchorX": 265,
+    "Cases": [
+      {
+        "AnchorX": 254,
+        "AxialGapMm": 33.04822157912534
+      },
+      {
+        "AnchorX": 260,
+        "AxialGapMm": 39.04822157912534
+      },
+      {
+        "AnchorX": 265,
+        "AxialGapMm": 44.04822157912534
+      }
+    ],
+    "NominalRadialChain": {
+      "RearX": 265,
+      "ShoulderOffset": 50,
+      "HoleOffset": 107,
+      "ResultX": 108
+    },
+    "MaximumAnchorXForPossibleAxialOverlap": 220.95177842087466,
+    "Scope": "Positive gaps prove no connection under current axis/datum interpretation. Does NOT establish that the drawing itself is wrong; shortening the current cut alone is unsafe."
+  },
+  "OpenItems": [
+    "Mass differs from 11.3 kg; root cause not localized. Do not change material density to force mass agreement.",
+    "D6.3 length110 incompatible with current radial-hole and rear-entry datums; reinterpret dimension chain before CAD changes.",
+    "DK floorX260 is an authorized approximation, not a confirmed drawing datum.",
+    "KG1/8 helical profile absent; tapered pilot is not OST acceptance.",
+    "Right station X245 remains assumed; detail L and thread endings unresolved.",
+    "Thread/spline tolerances, surface finish, material, hardness, coating and sealing not accepted."
+  ]
+}

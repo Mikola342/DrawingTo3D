@@ -1,0 +1,16 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\ed1b799c691649daa121b595ba2d7e6d\WORK_ed1b799c691649daa121b595ba2d7e6d.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\ed1b799c691649daa121b595ba2d7e6d\WORK_ed1b799c691649daa121b595ba2d7e6d.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\ed1b799c691649daa121b595ba2d7e6d\WORK_ed1b799c691649daa121b595ba2d7e6d.SLDPRT.
+[PROFILE MOVE] 1: accepted=True,actual=0,24894226497308103,0,035946306228995736,-0,033587572106360986,target=0,24894226497308103,0,035946306228995736,-0,033587572106361006
+[PROFILE MOVE] 1: accepted=True,actual=0,249807735026919,0,035946306228995736,-0,033587572106361,target=0,24980773502691897,0,035946306228995736,-0,033587572106361006
+[TOOL OVERLAP] 1: 0.01 -> 0.1 mm, nominal flanks unchanged.
+[PROFILE MOVE] 2: accepted=True,actual=0,24894226497308108,0,035946306228995736,0,03358757210636103,target=0,24894226497308103,0,035946306228995736,0,033587572106361
+[PROFILE MOVE] 2: accepted=True,actual=0,249807735026919,0,035946306228995736,0,033587572106361055,target=0,24980773502691897,0,035946306228995736,0,033587572106361
+[TOOL OVERLAP] 2: 0.01 -> 0.1 mm, nominal flanks unchanged.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\ed1b799c691649daa121b595ba2d7e6d\ALIGNMENT_TRIAL.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\precision-alignment-repair\ed1b799c691649daa121b595ba2d7e6d\ALIGNMENT_TRIAL.SLDPRT

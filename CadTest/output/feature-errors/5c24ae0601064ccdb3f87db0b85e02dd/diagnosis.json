@@ -1,0 +1,3288 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-mouth-trial\\26171dad432d4dbcac61b1713c174a9e\\UNVERIFIED_FAILED_BUILD.SLDPRT",
+  "SourceSha256": "0713A0F19D562D3A5A98DE47611EED9F4C0FCFE3362B127B966D5D398A520691",
+  "Result": {
+    "Features": [
+      {
+        "Name": "\u0417\u0430\u043C\u0435\u0442\u043A\u0438",
+        "Type": "CommentsFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0427\u0430\u0441\u0442\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0435",
+        "Type": "FavoriteFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+        "Type": "HistoryFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041D\u0430\u0431\u043E\u0440\u044B \u0432\u044B\u0431\u043E\u0440\u0430",
+        "Type": "SelectionSetFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0414\u0430\u0442\u0447\u0438\u043A\u0438",
+        "Type": "SensorFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u0432\u044F\u0437\u044C \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u0432",
+        "Type": "DocsFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u0440\u0438\u043C\u0435\u0447\u0430\u043D\u0438\u044F",
+        "Type": "DetailCabinet",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0435\u043B\u0430 \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438",
+        "Type": "SurfaceBodyFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0432\u0435\u0440\u0434\u044B\u0435 \u0442\u0435\u043B\u0430",
+        "Type": "SolidBodyFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438 \u0441\u0432\u0435\u0442\u0430 \u0438 \u043A\u0430\u043C\u0435\u0440\u044B",
+        "Type": "EnvFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F",
+        "Type": "InkMarkupFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0423\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044F",
+        "Type": "EqnFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u003C\u043D\u0435 \u0443\u043A\u0430\u0437\u0430\u043D\u003E",
+        "Type": "MaterialFolder",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u043F\u0435\u0440\u0435\u0434\u0438",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u0432\u0435\u0440\u0445\u0443",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0421\u043F\u0440\u0430\u0432\u0430",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0418\u0441\u0445\u043E\u0434\u043D\u0430\u044F \u0442\u043E\u0447\u043A\u0430",
+        "Type": "OriginProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04371",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u044C1",
+        "Type": "Revolution",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437111",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_OUTER_FILL",
+        "Type": "Revolution",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437112",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_OUTER_TRIM",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04372",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u044C1",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04373",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Rear_recess_left",
+        "Type": "RevCut",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04374",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Collar_groove_nominal",
+        "Type": "RevCut",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04375",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Rear_recess_lip",
+        "Type": "RevCut",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04376",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C1",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04377",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C2",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04378",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C3",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u04379",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C4",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043710",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C5",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043711",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C6",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043712",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C7",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043713",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C8",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043714",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C9",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043715",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C10",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043716",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C11",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043717",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C12",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043718",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C13",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043719",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C14",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043720",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Left_flat_84_5_R35",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043721",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "Left_end_bottom_20",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043722",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_38_spaces_to_X70_RootApprox",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C4",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043723",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_01",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043724",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_02",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043725",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_03",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043726",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_04",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043727",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_05",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043728",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_06",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043729",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_07",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043730",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_08",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043731",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_09",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043732",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_10",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043733",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_11",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043734",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_12",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043735",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_13",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043736",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_14",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043737",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_15",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043738",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_16",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043739",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_17",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043740",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_18",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043741",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_19",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043742",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_20",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043743",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_21",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043744",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_22",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043745",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_23",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043746",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_24",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043747",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_25",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043748",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_26",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043749",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_27",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043750",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_28",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043751",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_29",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043752",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_30",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043753",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_31",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043754",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_32",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043755",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_33",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043756",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_34",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043757",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_35",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043758",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_36",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043759",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_37",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043760",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_R50_disk_space_38",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043761",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C15",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043762",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0412\u044B\u0440\u0435\u0437-\u0412\u044B\u0442\u044F\u043D\u0443\u0442\u044C16",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "M12_rear_chamfers_2x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_1",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_2",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04371",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043763",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_60",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04372",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043764",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_60",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04373",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043765",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D63_extended_120",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04374",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043766",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_radial_120",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04375",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043767",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_60",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04376",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043768",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D6_entry_cone_120",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04377",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043769",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_60",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04378",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043770",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_D68_feed_120",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u04379",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043771",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_60",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043710",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043772",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_pilot_120",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_thread_60",
+        "Type": "SweepThread",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M8_thread_120",
+        "Type": "SweepThread",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TRIAL_M90x2_X5_to_X38",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043711",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043773",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_60",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043712",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043774",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_60",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043713",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043775",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_D8_transition_120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043714",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043776",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_KG_tapered_pilot_120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043777",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "APPROX_DK_floor260",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043715",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_01_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043778",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_01",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043716",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_02_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043779",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_02",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043717",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_03_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043780",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_03",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043718",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_04_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043781",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_04",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043719",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_05_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043782",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_05",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043720",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_06_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043783",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_06",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043721",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_07_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043784",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_07",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043722",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_08_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043785",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_08",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043723",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_09_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043786",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_09",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043724",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_10_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043787",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_10",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043725",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_11_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043788",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_11",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043726",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_12_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043789",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "DRAWING_D19_12",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043727",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_D63_10deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043790",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_D63_10deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043728",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_D68_feed_7deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043791",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_D68_feed_7deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043729",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_M8_PILOT_PENDING_LENGTH_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043792",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_M8_PILOT_PENDING_LENGTH",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_II_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "SweepThread",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043730",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_BORE68_START_X181_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043793",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_BORE68_START_X181",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043731",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_BORE80_X237_254_PARTIAL_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043794",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_BORE80_X237_254_PARTIAL",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043795",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_BORE80_RESTORE_X254_265",
+        "Type": "Revolution",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043796",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_L_CORE_D71_PENDING_TRANSITIONS",
+        "Type": "RevCut",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043732",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D63_4deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043797",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D63_4deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043733",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D6_X132_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043798",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D6_X132",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043734",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D68_7deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u043799",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_D68_7deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043735",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_M8_PILOT_PENDING_LENGTH_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437100",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_M8_PILOT_PENDING_LENGTH",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_AA_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "SweepThread",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437101",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_RECESS_D115",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043736",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_D63_10deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437102",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_D63_10deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043737",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_D68_feed_7deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437103",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_D68_feed_7deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043738",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D63_4deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437104",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D63_4deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043739",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D6_X132_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437105",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D6_X132",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043740",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D68_7deg_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437106",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_D68_7deg",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043741",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_M8_PILOT_PENDING_LENGTH_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437107",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_M8_PILOT_PENDING_LENGTH",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_M8_MOUTH_R05",
+        "Type": "Fillet",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043742",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_M8_PILOT_PENDING_LENGTH_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437110",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_M8_PILOT_PENDING_LENGTH",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043743",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_PILOT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437113",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_PILOT",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_CHAMFER_1x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_THREAD",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043744",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_DEEP_PILOT_PENDING_POINT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437116",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_1_DEEP_PILOT_PENDING_POINT",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043745",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_PILOT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437117",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_PILOT",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_CHAMFER_1x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_THREAD",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043746",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_DEEP_PILOT_PENDING_POINT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437120",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_2_DEEP_PILOT_PENDING_POINT",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043747",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_PILOT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437121",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_PILOT",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_CHAMFER_1x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_THREAD",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043748",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_DEEP_PILOT_PENDING_POINT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437124",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_3_DEEP_PILOT_PENDING_POINT",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043749",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_PILOT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437125",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_PILOT",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_CHAMFER_1x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_THREAD",
+        "Type": "SweepThread",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043750",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_DEEP_PILOT_PENDING_POINT_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437128",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_M6_4_DEEP_PILOT_PENDING_POINT",
+        "Type": "ICE",
+        "Suppressed": true,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "TIFF_PP_D22_REAR_CHAMFER_2x45",
+        "Type": "Chamfer",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043751",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_L_EXIT_1p2_30deg_TO_AXIS_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437129",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_L_EXIT_1p2_30deg_TO_AXIS",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437130",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_L_GROOVE_RIGHT_WALL_51",
+        "Type": "RevCut",
+        "Suppressed": false,
+        "Error": 1,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043752",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_1_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437131",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_1_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043753",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_1_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437132",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_1_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043754",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_2_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437133",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_2_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043755",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_2_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437134",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_2_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043756",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_3_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437135",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_3_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043757",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_3_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437136",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_3_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043758",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_4_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437137",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_4_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043759",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_4_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437138",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_M6_4_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043760",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_POINT_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437139",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_POINT_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043761",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437140",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043762",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_POINT_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437141",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_POINT_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043763",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437142",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043764",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_FEED_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437143",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_FEED_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043765",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_FEED_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437144",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_FEED_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043766",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_FEED_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437145",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_FEED_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043767",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_FEED_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437146",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_FEED_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043768",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_RADIAL_CYLINDER_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437147",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_RADIAL_CYLINDER",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043769",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_RADIAL_POINT120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437148",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_RADIAL_POINT120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043770",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_M8_TO_D63_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437149",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_II_M8_TO_D63_120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043771",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_M8_TO_D63_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437150",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_AA_M8_TO_D63_120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043772",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_KG_ENTRY_16X45_60_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437151",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_KG_ENTRY_16X45_60",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u0422\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u044B\u0439 \u044D\u0441\u043A\u0438\u043773",
+        "Type": "3DProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_KG_ENTRY_16X45_120_plane",
+        "Type": "RefPlane",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "\u042D\u0441\u043A\u0438\u0437152",
+        "Type": "ProfileFeature",
+        "Suppressed": false,
+        "Error": 0,
+        "Warning": false
+      },
+      {
+        "Name": "EXPERIMENT_KG_ENTRY_16X45_120",
+        "Type": "ICE",
+        "Suppressed": false,
+        "Error": 71,
+        "Warning": false
+      }
+    ],
+    "VolumeMm3": null,
+    "VolumeError": "Invalid solid-body volume.",
+    "Accepted": false
+  },
+  "SavedBytesUnchanged": true
+}

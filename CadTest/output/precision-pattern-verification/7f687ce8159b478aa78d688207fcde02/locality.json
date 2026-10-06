@@ -1,0 +1,87 @@
+{
+  "Removed": {
+    "Kind": "removed",
+    "Components": [
+      {
+        "Hole": 2,
+        "MinXmm": 248.9942264973081,
+        "MaxXmm": 264.5412659185961,
+        "MinRadiusMm": 2.4487341226347183,
+        "MaxRadiusMm": 3.0000003050105635,
+        "Samples": 16965,
+        "EnvelopePassed": false
+      },
+      {
+        "Hole": 3,
+        "MinXmm": 248.99999999999997,
+        "MaxXmm": 264.5412659479258,
+        "MinRadiusMm": 2.458704372550328,
+        "MaxRadiusMm": 3.000000305001635,
+        "Samples": 16965,
+        "EnvelopePassed": true
+      },
+      {
+        "Hole": 4,
+        "MinXmm": 249,
+        "MaxXmm": 264.54126594792535,
+        "MinRadiusMm": 2.458704372546753,
+        "MaxRadiusMm": 3.0000003050119637,
+        "Samples": 16965,
+        "EnvelopePassed": true
+      },
+      {
+        "Hole": 1,
+        "MinXmm": 248.9942264973081,
+        "MaxXmm": 264.5412659185945,
+        "MinRadiusMm": 2.4487341226347183,
+        "MaxRadiusMm": 3.000000305015336,
+        "Samples": 16965,
+        "EnvelopePassed": false
+      }
+    ]
+  },
+  "Added": {
+    "Kind": "added",
+    "Components": [
+      {
+        "Hole": 2,
+        "MinXmm": 249,
+        "MaxXmm": 264.5412768298057,
+        "MinRadiusMm": 2.4487341226347255,
+        "MaxRadiusMm": 2.999999997634736,
+        "Samples": 18070,
+        "EnvelopePassed": false
+      },
+      {
+        "Hole": 3,
+        "MinXmm": 249,
+        "MaxXmm": 264.54127682980584,
+        "MinRadiusMm": 2.4587341226346466,
+        "MaxRadiusMm": 2.999999997634737,
+        "Samples": 18070,
+        "EnvelopePassed": true
+      },
+      {
+        "Hole": 4,
+        "MinXmm": 249,
+        "MaxXmm": 264.54127682980555,
+        "MinRadiusMm": 2.4587341226346475,
+        "MaxRadiusMm": 2.999999997634738,
+        "Samples": 18070,
+        "EnvelopePassed": true
+      },
+      {
+        "Hole": 1,
+        "MinXmm": 249,
+        "MaxXmm": 264.54127682980555,
+        "MinRadiusMm": 2.4487341226347255,
+        "MaxRadiusMm": 2.999999997634741,
+        "Samples": 18070,
+        "EnvelopePassed": false
+      }
+    ]
+  },
+  "LocalityPassed": false,
+  "Scope": "Exact body differences and sampled boundaries; locality must pass explicitly, phase changes permitted",
+  "FullProfileAccepted": false
+}

@@ -1,0 +1,77 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-l-core\\c98a6609121d4cb288fab9cd5a346817\\Tsapfa_TIFF_L_CORE_WIP.SLDPRT",
+  "SourceSha256": "A88BC2C67A11AC5E407F41622932970046B7852269CBDACD9AEE0561801B1147",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-aa\\ef557f09684a4b76a190601a7a80029d\\Tsapfa_TIFF_AA_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2029118.5300234074,
+    "RestoredMm3": 2036725.5759093086,
+    "FinalMm3": 2029958.7458350835,
+    "Geometry": {
+      "MainCylinders": 1,
+      "RadialCylinders": 1,
+      "FeedCylinders": 1,
+      "RadialX": 132,
+      "InclinationDegrees": 4,
+      "AxesAndConnectionsChecked": true,
+      "DrillBottomGeometryAccepted": false
+    },
+    "M8": {
+      "BeforeMm3": 2030016.7413071822,
+      "AfterPilotMm3": 2029995.6262138297,
+      "FinalMm3": 2029958.7458350835,
+      "Geometry": {
+        "Samples": 957,
+        "MinAlongAxisMm": 1.1102230246251565E-15,
+        "MaxAlongAxisMm": 6.014651388488231,
+        "MinRadiusMm": 0.0014654573525169714,
+        "MaxRadiusMm": 3.9999999970434326,
+        "MinNonPlanarRadiusMm": 3.323417653293365,
+        "PlanarInteriorValidatedByBodyDifference": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.0060146513884870335,
+        "ReverseDirection": false
+      },
+      "IsolatedRemoval": {
+        "RemovedMm3": 36.87770720898385,
+        "WholePartDeltaMm3": 36.880378746194765,
+        "RemovedBodies": 2,
+        "EdgeSamples": 1755,
+        "MinimumRadiusMm": 3.323417653293365,
+        "MaximumRadiusMm": 3.9999999970434326,
+        "MinimumAxialMm": 1.1102230246251565E-15,
+        "MaximumAxialMm": 6.014651388488231,
+        "Scope": "Sampled edges of isolated removed solid bodies; not exact surface-extrema or tolerance certification."
+      },
+      "Channel": {
+        "MainCylinders": 1,
+        "RadialCylinders": 1,
+        "FeedCylinders": 1,
+        "RadialX": 132,
+        "InclinationDegrees": 4,
+        "AxesAndConnectionsChecked": true,
+        "DrillBottomGeometryAccepted": false
+      },
+      "BranchDegrees": 120,
+      "RightM8Rebuilt": false,
+      "LeftM8Rebuilt": true,
+      "TiffThreadLengthAccepted": false,
+      "Tolerance6HAccepted": false,
+      "IsManufacturingReady": false,
+      "Scope": "Nominal M8 restored on the selected TIFF branch axis. Temporary X254..260 axial span retained from previous experiment, not read from TIFF; full profile length/runout/6H/sealing unaccepted. Inherited TIFF body conversion incomplete."
+    },
+    "AaChannelRebuilt": true,
+    "LeftM8Rebuilt": true,
+    "RightM8Rebuilt": true,
+    "Bore80Restored": true,
+    "Bore80PartialRebuilt": true,
+    "Bore68StartRebuilt": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "AA nominal axes rebuilt at X132/4deg; old X108 network suppressed. Flat drill ends, chosen endpoint X128.75, feed datum, M8 length/6H and radial mouth detail are not manufacturing-accepted."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

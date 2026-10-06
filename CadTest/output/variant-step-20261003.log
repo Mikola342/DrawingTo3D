@@ -1,0 +1,9 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\variant-step\70f94111ee784dd492ecec6298549e45\VARIANT_70f94111ee784dd492ecec6298549e45.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\variant-step\70f94111ee784dd492ecec6298549e45\VARIANT_70f94111ee784dd492ecec6298549e45.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\variant-step\70f94111ee784dd492ecec6298549e45\VARIANT_70f94111ee784dd492ecec6298549e45.SLDPRT.
+[STEP EXPORTED] F:\Project\DrawingTo3D\CadTest\output\variant-step\70f94111ee784dd492ecec6298549e45\DESIGN_VARIANT_NOT_FOR_MANUFACTURE.step
+[STEP IMPORTED] volume=1998508,380708284;source=1998512,325990297.
+[STEP DIFFERENCE] source minus import completed.
+[STEP DIFFERENCE] import minus source completed.
+[STEP ROUNDTRIP REPORT] F:\Project\DrawingTo3D\CadTest\output\variant-step\70f94111ee784dd492ecec6298549e45

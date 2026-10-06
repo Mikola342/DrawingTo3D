@@ -1,0 +1,4 @@
+System.InvalidOperationException: M90 sampled envelope mismatch.
+   at CadTest.Cad.SolidWorksService.InspectM90Trial() in F:\Project\DrawingTo3D\CadTest\Cad\M90Trial.cs:line 115
+   at CadTest.Cad.SolidWorksService.CreateM90Trial() in F:\Project\DrawingTo3D\CadTest\Cad\M90Trial.cs:line 79
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 145

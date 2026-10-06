@@ -1,0 +1,8 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-m6\d2c4f519f36f40b0a083963f61865dc9\TIFF_WORK_d2c4f519f36f40b0a083963f61865dc9.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-m6\d2c4f519f36f40b0a083963f61865dc9\TIFF_WORK_d2c4f519f36f40b0a083963f61865dc9.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-m6\d2c4f519f36f40b0a083963f61865dc9\TIFF_WORK_d2c4f519f36f40b0a083963f61865dc9.SLDPRT.
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D110: X=183,000000000..233,000000000, samples=66.
+[TRIAL] TIFF_M6_1_PILOT: D=4,917468245269452, finite length=15,000000.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M1.2x0.25","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0}

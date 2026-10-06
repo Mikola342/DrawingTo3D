@@ -1,0 +1,212 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_DK_KGPrep_20260926_220013_059.SLDPRT",
+  "SourceSha256": "E3051F94EAD50E1A1B1CF433DCFF979F9D00DECE95942217F53BF5B9B03EF113",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\777f1dc4e12e42269f6d1fdcfeae9eff\\ApproxDK_KGPrep_VERIFY_ONLY.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "OpenWarnings": 0,
+  "SavedBytesUnchanged": true,
+  "IsManufacturingReady": false,
+  "HasKgHelicalThread": false,
+  "CheckedAtUtc": "2026-09-27T08:41:38.05019Z",
+  "Dk": {
+    "Samples": 195,
+    "MaxProfileResidualMm": 3.090860900556436E-13,
+    "MinX": 246.5,
+    "MaxX": 260,
+    "D12SharedEdges": 1
+  },
+  "KgPrep": [
+    {
+      "AngleDegrees": 60,
+      "ConeFaces": 1,
+      "Samples": 66,
+      "MaxResidualMm": 6.838973831690964E-14,
+      "MaxT": 6.9999999999999165,
+      "DirectConeD8Edges": 0,
+      "TransitionSamples": 34,
+      "MinTransition": 6.999999999999886,
+      "MaxTransition": 9.000000000000112
+    },
+    {
+      "AngleDegrees": 120,
+      "ConeFaces": 1,
+      "Samples": 66,
+      "MaxResidualMm": 9.14823772291129E-14,
+      "MaxT": 7.000000000000009,
+      "DirectConeD8Edges": 0,
+      "TransitionSamples": 34,
+      "MinTransition": 6.999999999999977,
+      "MaxTransition": 9.000000000000071
+    }
+  ],
+  "Feeds": [
+    {
+      "AngleDegrees": 60,
+      "Cylinders": 1,
+      "SharedEdgesWithD63": 2,
+      "ConnectedMainAxisChecked": true
+    },
+    {
+      "AngleDegrees": 120,
+      "Cylinders": 1,
+      "SharedEdgesWithD63": 2,
+      "ConnectedMainAxisChecked": true
+    }
+  ],
+  "M90": {
+    "Samples": 7194,
+    "MinX": 4.999999999999998,
+    "MaxX": 39.749999994537625,
+    "MinRadiusMm": 43.91746824999727,
+    "MaxRadiusMm": 45.00000000000007,
+    "LibraryProfile": "M16x2.0",
+    "HelixDiameterMm": 90,
+    "HelixEndXmm": 38,
+    "DrawingMinimumEndStationMm": 38,
+    "SplineLeadInXmm": 42,
+    "Scope": "Nominal external M90x2 using Metric Die M16x2.0 P2 tooth section with D90 helix override. Helix X5..38; actual swept boundary ends X39.75, beyond 38 min and before spline lead-in X42. Complete-profile length, runout, entry chamfer partial thread and 6g tolerance not verified."
+  },
+  "M8": [
+    {
+      "AngleDegrees": 60,
+      "Geometry": {
+        "Samples": 990,
+        "MinAlongAxisMm": 1.9749479829300753E-13,
+        "MaxAlongAxisMm": 6.01465138848975,
+        "MinRadiusMm": 3.1499999999999044,
+        "MaxRadiusMm": 3.9999999970434343,
+        "MinNonPlanarRadiusMm": 3.3234176532933843,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.0060146513884870335,
+        "ReverseDirection": false
+      }
+    },
+    {
+      "AngleDegrees": 120,
+      "Geometry": {
+        "Samples": 1089,
+        "MinAlongAxisMm": 8.795741912592803E-14,
+        "MaxAlongAxisMm": 6.014651388488241,
+        "MinRadiusMm": 3.1499999999999155,
+        "MaxRadiusMm": 3.999999997043426,
+        "MinNonPlanarRadiusMm": 3.3234176532930473,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.0060146513884870335,
+        "ReverseDirection": false
+      }
+    }
+  ],
+  "Inherited": {
+    "Cones": [
+      {
+        "AngleDegrees": 60,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.045466333698683026,
+              -0.026249999999999996,
+              -0,
+              -0.8660254037844387,
+              0.49999999999999983,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              -0.49999999999999983,
+              -0.8660254037844387
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 2.6523336860151403E-08,
+            "MinDepthFromTangentPlaneMm": 2.7749725951764503E-05,
+            "MaxDepthFromTangentPlaneMm": 1.0000000000000142
+          }
+        ]
+      },
+      {
+        "AngleDegrees": 120,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.04546633369868305,
+              0.02625,
+              -0,
+              -0.8660254037844386,
+              -0.5000000000000004,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              0.5000000000000003,
+              -0.8660254037844384
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 6.984994804781763E-10,
+            "MinDepthFromTangentPlaneMm": 6.8100752130817455E-06,
+            "MaxDepthFromTangentPlaneMm": 0.9999999999999929
+          }
+        ]
+      }
+    ],
+    "Channels": [
+      {
+        "AngleDegrees": 60,
+        "MainFaces": 4,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      },
+      {
+        "AngleDegrees": 120,
+        "MainFaces": 4,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      }
+    ],
+    "M12": {
+      "Threads": [
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.9472192533935,
+          "MinRadius": 5.052784714610734,
+          "MaxRadius": 6.000001981934647,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        },
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.94721925339496,
+          "MinRadius": 5.052784714610729,
+          "MaxRadius": 6.000001981933177,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        }
+      ],
+      "ActualVolumeMm3": 2057831.7640081905,
+      "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+    },
+    "VolumeMm3": 2057831.7640081905,
+    "BaseGeometryChecked": true,
+    "SplineSurfacesChecked": true,
+    "ExactTotalVolumeChecked": false
+  },
+  "Scope": "Verification of user-authorized approximation, NOT confirmation of original drawing datums, OST thread or sealing."
+}

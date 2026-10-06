@@ -1,0 +1,168 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-aa/ef557f09684a4b76a190601a7a80029d/Tsapfa_TIFF_AA_WIP.SLDPRT",
+  "SourceSha256": "D79F6497ED817948C3E5AE4D351F4848B804ADA602C4B9050D8FC6BC902630BB",
+  "ResumedUnsavedWork": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-rear/df02fb962a264726a651b52e21a10846/TIFF_WORK_df02fb962a264726a651b52e21a10846.SLDPRT",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-rear-resumed\\c8a92c214f5343a7a059c663be9cda5c\\Tsapfa_TIFF_REAR_DATUM_WIP.SLDPRT",
+  "Result": {
+    "FinalMm3": 2045003.9035078625,
+    "Collar": {
+      "Collar": {
+        "DiameterMm": 115,
+        "MinimumX": 260,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "BoltCircleDiameterMm": 95,
+      "M6PatternNotInspectedHere": true,
+      "MouthNominalX": 265,
+      "SelectedCollarInsetMm": 0,
+      "AllowedInsetMaxMm": 1.6
+    },
+    "II": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "EntryX": 265,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "AA": {
+      "MainCylinders": 1,
+      "RadialCylinders": 1,
+      "FeedCylinders": 1,
+      "RadialX": 132,
+      "InclinationDegrees": 4,
+      "EntryX": 265,
+      "AxesAndConnectionsChecked": true,
+      "DrillBottomGeometryAccepted": false
+    },
+    "RightM8": {
+      "Geometry": {
+        "Samples": 594,
+        "MinAlongAxisMm": 1.000310945187266E-13,
+        "MaxAlongAxisMm": 6.364413083460667,
+        "MinRadiusMm": 3.323417653293394,
+        "MaxRadiusMm": 3.999999997043441,
+        "MinNonPlanarRadiusMm": 3.323417653293394,
+        "PlanarInteriorValidatedByBodyDifference": true,
+        "PlanarMouth": true,
+        "MaximumGlobalX": 265.00000000000176,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.00609255967131447,
+        "ReverseDirection": false
+      },
+      "IsolatedRemoval": {
+        "RemovedMm3": 36.9386004504172,
+        "WholePartDeltaMm3": 36.943162905517966,
+        "DefaultBodyRemovedMm3": 36.9386004504172,
+        "VolumeComparisonToleranceMm3": 0.0184693002252086,
+        "VolumeRelativeBudget": 0.0005,
+        "RemovedBodies": 1,
+        "EdgeSamples": 975,
+        "MinimumRadiusMm": 3.323417653293394,
+        "MaximumRadiusMm": 3.999999997043443,
+        "MinimumAxialMm": 1.000310945187266E-13,
+        "MaximumAxialMm": 6.364413083460667,
+        "MaximumGlobalX": 265.00000000000176,
+        "Scope": "Sampled edges of isolated removed solid bodies; planar rear mouth checked in globalX, oblique end envelope derived from radius. Not exact surface-extrema or tolerance certification."
+      }
+    },
+    "LeftM8": {
+      "Geometry": {
+        "Samples": 528,
+        "MinAlongAxisMm": -5.480338405305929E-14,
+        "MaxAlongAxisMm": 6.2596164369508855,
+        "MinRadiusMm": 3.3234176532933923,
+        "MaxRadiusMm": 3.9999999970434175,
+        "MinNonPlanarRadiusMm": 3.3234176532933923,
+        "PlanarInteriorValidatedByBodyDifference": true,
+        "PlanarMouth": true,
+        "MaximumGlobalX": 265.000000000001,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.0060146513884870335,
+        "ReverseDirection": false
+      },
+      "IsolatedRemoval": {
+        "RemovedMm3": 37.54853549445011,
+        "WholePartDeltaMm3": 37.561689521651715,
+        "DefaultBodyRemovedMm3": 37.54853549445011,
+        "VolumeComparisonToleranceMm3": 0.018774267747225053,
+        "VolumeRelativeBudget": 0.0005,
+        "RemovedBodies": 1,
+        "EdgeSamples": 780,
+        "MinimumRadiusMm": 3.3234176532933906,
+        "MaximumRadiusMm": 3.999999997043421,
+        "MinimumAxialMm": -5.480338405305929E-14,
+        "MaximumAxialMm": 6.259652606198959,
+        "MaximumGlobalX": 265.000000000001,
+        "Scope": "Sampled edges of isolated removed solid bodies; planar rear mouth checked in globalX, oblique end envelope derived from radius. Not exact surface-extrema or tolerance certification."
+      }
+    },
+    "Bore": {
+      "Groove": {
+        "DiameterMm": 71,
+        "MinimumX": 232,
+        "MaximumX": 233.9,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Bore": {
+        "DiameterMm": 68,
+        "MinimumX": 180.99999999999997,
+        "MaximumX": 237,
+        "Cylinders": 2,
+        "EdgeSamples": 165,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Rear": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "NominalCoreOnly": true,
+      "Transitions30And10DegreesAccepted": false,
+      "FullDetailLAccepted": false
+    },
+    "Health": {
+      "ActiveFeatures": 304,
+      "SuppressedFeatures": 24,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 2045003.9035078625
+    },
+    "RearCollarRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "M6PatternBuilt": false,
+    "IsManufacturingReady": false,
+    "ResumedAfterObliqueMouthCheck": true,
+    "Scope": "Known interrupted rear work resumed; both existing M8 rechecked against planarX265 mouth with high-accuracy removed-body volume. M8 length remains provisional."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

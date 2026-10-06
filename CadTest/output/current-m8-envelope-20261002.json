@@ -1,0 +1,38 @@
+{
+  "Basis": "Current experimental model: mouthX265/R51, AA4deg, II10deg; feed7deg throughX257.5/R127, radius3.4; M8 envelope radius4.",
+  "Results": [
+    {
+      "InclinationDegrees": 4,
+      "CrossingX": 248.02260661092674,
+      "CrossingRadius": 49.81282500519128,
+      "CrossingDistanceFromMouthMm": 17.01885045341334,
+      "FullDiskEntrySetbackMm": 0.27970724777404166,
+      "MaximumEnvelopeDepthBeforeFeedMm": 12.777692454014737,
+      "AvailableUninterruptedIntervalMm": 12.497985206240696,
+      "CurrentOperationDepthMm": 6.014651388487033,
+      "CurrentFullDiskIntervalUpperBoundMm": 5.734944140712992,
+      "CurrentFeedClearanceMm": 6.763041065527704,
+      "Candidate11ClearanceMm": 1.777692454014737,
+      "Candidate13ClearanceMm": -0.22230754598526303
+    },
+    {
+      "InclinationDegrees": 10,
+      "CrossingX": 247.79590064795295,
+      "CrossingRadius": 47.966453105445076,
+      "CrossingDistanceFromMouthMm": 17.46950031559488,
+      "FullDiskEntrySetbackMm": 0.7053079228338599,
+      "MaximumEnvelopeDepthBeforeFeedMm": 12.691225617703935,
+      "AvailableUninterruptedIntervalMm": 11.985917694870075,
+      "CurrentOperationDepthMm": 6.09255967131447,
+      "CurrentFullDiskIntervalUpperBoundMm": 5.38725174848061,
+      "CurrentFeedClearanceMm": 6.598665946389465,
+      "Candidate11ClearanceMm": 1.6912256177039353,
+      "Candidate13ClearanceMm": -0.3087743822960647
+    }
+  ],
+  "GeometryChanged": false,
+  "ThreadLengthSelected": false,
+  "FullProfileVerified": false,
+  "DrawingDimensions11And13AcceptedAsThreadLengths": false,
+  "Scope": "Infinite-cylinder exclusion and oblique planar-mouth disk bounds only. 11/13 candidates are axis lengths, not accepted drawing interpretation. No chamfer, runout, helical-profile or tolerance certification. Current full-disk interval is only an upper bound before these deductions."
+}

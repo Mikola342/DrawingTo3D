@@ -1,0 +1,180 @@
+{
+  "IsManufacturingReady": false,
+  "Basis": "Current trial channel axis X265/R51, current rear annulus R48.5..95; not a new drawing interpretation.",
+  "Channel": [
+    {
+      "X": 260,
+      "AxisRadius": 50.65036594028245,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 53.80036594028245,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 5.300365940282447
+    },
+    {
+      "X": 261,
+      "AxisRadius": 50.72029275222596,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 53.87029275222596,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 5.370292752225957
+    },
+    {
+      "X": 262,
+      "AxisRadius": 50.79021956416947,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 53.94021956416947,
+      "ExistingCollarRadius": 48,
+      "MissingRadialSupport": 5.9402195641694675
+    },
+    {
+      "X": 262.5,
+      "AxisRadius": 50.82518297014122,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 53.97518297014122,
+      "ExistingCollarRadius": 47.5,
+      "MissingRadialSupport": 6.475182970141219
+    },
+    {
+      "X": 263,
+      "AxisRadius": 50.86014637611298,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 54.01014637611298,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 5.510146376112978
+    },
+    {
+      "X": 264,
+      "AxisRadius": 50.93007318805649,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 54.08007318805649,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 5.580073188056488
+    },
+    {
+      "X": 264.999,
+      "AxisRadius": 50.99993007318806,
+      "ToolRadius": 3.15,
+      "RequiredOuterMaterialRadius": 54.14993007318806,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 5.6499300731880595
+    }
+  ],
+  "M8MajorEnvelope": [
+    {
+      "X": 260,
+      "AxisRadius": 50.65036594028245,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.65036594028245,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 6.150365940282448
+    },
+    {
+      "X": 261,
+      "AxisRadius": 50.72029275222596,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.72029275222596,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 6.220292752225959
+    },
+    {
+      "X": 262,
+      "AxisRadius": 50.79021956416947,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.79021956416947,
+      "ExistingCollarRadius": 48,
+      "MissingRadialSupport": 6.790219564169469
+    },
+    {
+      "X": 262.5,
+      "AxisRadius": 50.82518297014122,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.82518297014122,
+      "ExistingCollarRadius": 47.5,
+      "MissingRadialSupport": 7.3251829701412206
+    },
+    {
+      "X": 263,
+      "AxisRadius": 50.86014637611298,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.86014637611298,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 6.360146376112979
+    },
+    {
+      "X": 264,
+      "AxisRadius": 50.93007318805649,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.93007318805649,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 6.43007318805649
+    },
+    {
+      "X": 264.999,
+      "AxisRadius": 50.99993007318806,
+      "ToolRadius": 4,
+      "RequiredOuterMaterialRadius": 54.99993007318806,
+      "ExistingCollarRadius": 48.5,
+      "MissingRadialSupport": 6.499930073188061
+    }
+  ],
+  "BeforeFloor": {
+    "IsConditional": true,
+    "IntervalBasis": "X254 bore step to X260 recess floor; NOT a drawing-specified thread length.",
+    "ExistingTrialAxis": [
+      {
+        "X": 254,
+        "AxisRadius": 50.230805068621386,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.2210374762967,
+        "MaximumEnvelopeRadius": 54.24057266094607,
+        "BoreClearance": 1.2210374762967007
+      },
+      {
+        "X": 257,
+        "AxisRadius": 50.44058550445192,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.430817912127225,
+        "MaximumEnvelopeRadius": 54.45035309677661,
+        "BoreClearance": 1.4308179121272246
+      },
+      {
+        "X": 259.999999,
+        "AxisRadius": 50.650365870355635,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.64059827803095,
+        "MaximumEnvelopeRadius": 54.66013346268032,
+        "BoreClearance": 1.64059827803095
+      }
+    ],
+    "AlternativeFloorAnchor": [
+      {
+        "X": 254,
+        "AxisRadius": 50.58043912833894,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.570671536014245,
+        "MaximumEnvelopeRadius": 54.59020672066363,
+        "BoreClearance": 1.5706715360142454
+      },
+      {
+        "X": 257,
+        "AxisRadius": 50.79021956416947,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.78045197184478,
+        "MaximumEnvelopeRadius": 54.799987156494154,
+        "BoreClearance": 1.7804519718447835
+      },
+      {
+        "X": 259.999999,
+        "AxisRadius": 50.99999993007319,
+        "BoreRadius": 45,
+        "MinimumEnvelopeRadius": 46.990232337748495,
+        "MaximumEnvelopeRadius": 55.00976752239788,
+        "BoreClearance": 1.9902323377484947
+      }
+    ],
+    "FullNormalSectionSetbackAlongAxisMm": 0.27970724777404166,
+    "Conclusion": "The M8 major envelope clears the central bore BEFORE the floor for both candidate datums. Missing support AFTER the floor does not exclude a recessed M8 seat. Thread length, datum, cross-port intersections, tolerance and sealing remain unverified. No CAD change."
+  },
+  "Conclusion": "Neither D6.3 nor an M8 major-diameter envelope has full surrounding material in X260..265. A cosmetic or helical M8 operation cannot provide a sealed plug seat there. Rear geometry/axis/entry datum must be resolved first.",
+  "Scope": "Necessary radial support test along outward generatrix, not full thread engagement, strength, seal or tolerance analysis. No CAD edits."
+}

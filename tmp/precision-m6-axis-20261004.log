@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\WORK_c612c63bb33847a18126516ee44ecf97.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\WORK_c612c63bb33847a18126516ee44ecf97.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\WORK_c612c63bb33847a18126516ee44ecf97.SLDPRT.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\UNVERIFIED_PRECISION_M6.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\UNVERIFIED_PRECISION_M6.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\UNVERIFIED_PRECISION_M6.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\UNVERIFIED_PRECISION_M6.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\c612c63bb33847a18126516ee44ecf97\UNVERIFIED_PRECISION_M6.SLDPRT.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.

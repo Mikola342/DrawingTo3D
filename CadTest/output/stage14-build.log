@@ -1,0 +1,216 @@
+[OK] Этап 14: наружный переход O100/105, касательный R3 и конус 30 градусов.
+[ASSUMPTION] X=245 согласован пользователем ВРЕМЕННО; это не подтверждённый размер чертежа.
+[DRAFT] Слева - заготовки под резьбу и шлицы; Д/К ещё отсутствует.
+[DRAFT] R0,5 построены; торец воротника X=265 выбран с нулевым отступом в пределах 1,6 max. Д/К ещё отсутствуют.
+[DRAFT] Малые фаски, канавки, шлицы и боковые каналы ещё не построены.
+[INFO] Автоматическое создание M90 приостановлено: длина 3 мм не подтверждена.
+[TEST OK] Rejected: old blind bore
+[TEST OK] Rejected: outer O105 used as bore
+[TEST OK] Rejected: 26 mm flange
+[TEST OK] Rejected: duplicate hole
+[TEST OK] Rejected: NaN
+[TEST OK] Rejected: unverified M90
+[TEST OK] Rejected: old O131 middle cylinder
+[TEST OK] Rejected: wrong O110 shoulder station
+[TEST OK] Rejected: old O188 middle cylinder
+[TEST OK] Rejected: wrong cone slope
+[TEST OK] Rejected: missing boss extent
+[TEST OK] Rejected: solid boss instead of annular
+[TEST OK] Rejected: missing boss chamfer
+[TEST OK] Rejected: wrong boss chamfer length
+[TEST OK] Rejected: missing external collar recess
+[TEST OK] Rejected: groove 3 mm instead of 3-2
+[TEST OK] Rejected: inverted groove radii
+[TEST OK] Rejected: groove cut through O90 collar
+[TEST OK] Rejected: missing R0.5
+[TEST OK] Rejected: overlapping root fillets
+[TEST OK] Rejected: negative root fillet
+[TEST OK] Rejected: missing O12
+[TEST OK] Rejected: O12 on wrong side
+[TEST OK] Rejected: O12 on flange bolt circle
+[TEST OK] Rejected: blind O12
+[TEST OK] Rejected: wrong shoulder R2
+[TEST OK] Rejected: wrong shoulder arc direction
+[TEST OK] Rejected: wrong shoulder 30 degrees
+[TEST OK] Rejected: cone root below R2 min
+[TEST OK] Rejected: non-tangent cone root
+[TEST OK] Rejected: non-finite arc center
+[TEST OK] Rejected: reversed cone root
+[TEST OK] Rejected: wrong spline shoulder R3
+[TEST OK] Rejected: non-tangent spline shoulder
+[TEST OK] Rejected: reversed spline shoulder arc
+[TEST OK] Rejected: wrong spline shoulder cone
+[TEST OK] Rejected: missing left cuts
+[TEST OK] Rejected: 84.5 treated as diameter
+[TEST OK] Rejected: wrong flat length
+[TEST OK] Rejected: wrong R35 runout
+[TEST OK] Rejected: wrong bottom cut
+[TEST OK] Rejected: bottom cut extends into thread blank
+[TEST OK] Rejected: wrong O82 end
+[TEST OK] Rejected: missing external chamfer
+[TEST OK] Rejected: wrong right root
+[TEST OK] Rejected: wrong O131 start
+[TEST OK] Rejected: wrong 2 mm right step
+[TEST OK] Rejected: wrong right-step R2
+[TEST OK] Rejected: stale O12 intersection length
+[TEST OK] Rejected: missing bore entry chamfer
+[TEST OK] Rejected: wrong bore entry axial length
+[TEST OK] Rejected: entry 30 degrees to face instead of axis
+[TEST OK] Rejected: changed approved temporary station
+[TEST OK] Rejected: wrong O164 theoretical corner
+[TEST OK] Rejected: wrong flange-root R2
+[TEST OK] Rejected: historical O19 flange holes
+[TEST OK] Rejected: historical 90-degree flange phase
+[TEST OK] Valid stage14 draft + 57 regression cases passed without SolidWorks.
+[TEST OK] Analytical volume: 2112169,342987 mm?.
+[TEST OK] Spline: m2.5/z38, D95 pitch, rack shift, thickness, 1001 flank samples and tolerance.
+[TEST OK] Д/К: conditional sphere/cap checks, full depth tolerance interval, invalid inputs.
+[TEST OK] Right transition candidates: continuity, arcs, circle overlap, convergence and station bounds.
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Создание новой детали...
+[OK] Новая деталь создана.
+[INFO] Создание Sketch из RevolveProfile...
+[INFO] Profile: Line, X=0..3, R=41..41
+[INFO] Profile: Line, X=3..3, R=41..43
+[INFO] Profile: Line, X=3..5, R=43..45
+[INFO] Profile: Line, X=5..42, R=45..45
+[INFO] Profile: Line, X=42..42, R=45..50
+[INFO] Profile: Line, X=42..89,86602540378443, R=50..50
+[INFO] Profile: Arc, X=89,86602540378443..91,36602540378443, R=50..50,401923788646684
+[INFO] Profile: Line, X=91,36602540378443..95, R=50,401923788646684..52,5
+[INFO] Profile: Line, X=95..178,13397459621558, R=52,5..52,5
+[INFO] Profile: Arc, X=178,13397459621558..179,13397459621558, R=52,5..52,767949192431125
+[INFO] Profile: Line, X=179,13397459621558..183, R=52,767949192431125..55
+[INFO] Profile: Line, X=183..213, R=55..55
+[INFO] Profile: Arc, X=213..215, R=55..57
+[INFO] Profile: Line, X=215..215, R=57..60,767949192431125
+[INFO] Profile: Line, X=215..218, R=60,767949192431125..62,5
+[INFO] Profile: Line, X=218..237, R=62,5..62,5
+[INFO] Profile: Arc, X=237..239, R=62,5..64,5
+[INFO] Profile: Line, X=239..239, R=64,5..65,5
+[INFO] Profile: Line, X=239..240,4142135623731, R=65,5..66,91421356237309
+[INFO] Profile: Arc, X=240,4142135623731..241, R=66,91421356237309..68,32842712474618
+[INFO] Profile: Line, X=241..241, R=68,32842712474618..78
+[INFO] Profile: Line, X=241..244,4142135623731, R=78..81,41421356237309
+[INFO] Profile: Arc, X=244,4142135623731..245, R=81,41421356237309..82,82842712474618
+[INFO] Profile: Line, X=245..245, R=82,82842712474618..92
+[INFO] Profile: Line, X=245..246,4142135623731, R=92..93,41421356237309
+[INFO] Profile: Arc, X=246,4142135623731..247, R=93,41421356237309..94,82842712474618
+[INFO] Profile: Line, X=247..247, R=94,82842712474618..127,5
+[INFO] Profile: Line, X=247..265, R=127,5..127,5
+[INFO] Profile: Line, X=265..265, R=127,5..100
+[INFO] Profile: Line, X=265..271,4, R=100..100
+[INFO] Profile: Line, X=271,4..273, R=100..98,4
+[OK] Замкнутый Sketch из RevolveProfile создан.
+[INFO] Построение Revolve из PartDescription...
+[OK] Revolve из PartDescription создан.
+[INFO] Построение сложной внутренней расточки: 10 элементов.
+[INFO] Bore: Line, Entry: 3 mm axial, 30 degrees to axis, X=0..3, R=32,732050807568875..31
+[INFO] Bore: Line, O62 nominal, X=3..203,5, R=31..31
+[INFO] Bore: Line, Shoulder; detail Л pending, X=203,5..203,5, R=31..34
+[INFO] Bore: Line, O68 nominal, X=203,5..240, R=34..34
+[INFO] Bore: Line, Shoulder; local fillet pending, X=240..240, R=34..39
+[INFO] Bore: Line, O78; end chamfer pending, X=240..254, R=39..39
+[INFO] Bore: Line, Shoulder; detail Ц pending, X=254..254, R=39..45
+[INFO] Bore: Line, O90; groove/exit detail Ц pending, X=254..265, R=45..45
+[INFO] Bore: Line, Rear flange face; local cuts Д/К pending, X=265..265, R=45..95
+[INFO] Bore: Line, O190 inside right annular boss, X=265..273, R=95..95
+[OK] Sketch сложного внутреннего профиля создан.
+[OK] Найден Sketch: Эскиз2
+[OK] Ось расточки выбрана: Line1@Эскиз2
+[OK] Revolve Cut сложной внутренней расточки создан.
+[OK] Rear_recess_left: X=260..262, R=48,5..95.
+[OK] Collar_groove_nominal: X=262..263, R=47,5..95.
+[OK] Rear_recess_lip: X=263..265, R=48,5..95.
+[INFO] Построение отверстий: 13
+[OK] Найдена базовая плоскость <Справа>.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=109,14961837066473 мм, Y=29,246552096584843 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз6
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=79,90306627407988 мм, Y=79,90306627407988 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз7
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=29,246552096584843 мм, Y=109,14961837066473 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз8
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-29,246552096584857 мм, Y=109,14961837066473 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз9
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-79,90306627407986 мм, Y=79,90306627407988 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз10
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-109,14961837066471 мм, Y=29,246552096584875 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз11
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-109,14961837066473 мм, Y=-29,2465520965848 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз12
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-79,90306627407989 мм, Y=-79,90306627407986 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз13
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=-29,246552096584832 мм, Y=-109,14961837066473 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз14
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=29,24655209658489 мм, Y=-109,14961837066471 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз15
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=79,90306627407985 мм, Y=-79,90306627407989 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз16
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O15 мм, X=109,14961837066473 мм, Y=-29,246552096584836 мм, Depth=18 мм
+[OK] Окружность O15 мм создана.
+[OK] Найден Sketch: Эскиз17
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, O12 мм, X=0 мм, Y=-84 мм, Depth=19 мм
+[OK] Окружность O12 мм создана.
+[OK] Найден Sketch: Эскиз18
+[OK] Отверстие Through All создано.
+[OK] Left_flat_84_5_R35: exact local cut, both directions.
+[OK] Left_end_bottom_20: exact local cut, both directions.
+[OK] Одно твёрдое тело; объём 2112168,415 мм?.
+[OK] Координаты всех уступов наружного профиля и канала совпадают с параметрами.
+[OK] Left end: planes Y=39.5/-25 and transverse R35 at X=25/Y=74.5.
+[OK] Наружное скругление R3: центр X=89,86602540378443, радиус центра=53 мм.
+[OK] Наружное скругление R2: центр X=178,13397459621558, радиус центра=54,5 мм.
+[OK] Наружное скругление R2: центр X=213, радиус центра=57 мм.
+[OK] Наружное скругление R2: центр X=237, радиус центра=64,5 мм.
+[OK] Наружное скругление R2: центр X=239, радиус центра=68,32842712474618 мм.
+[OK] Наружное скругление R2: центр X=243, радиус центра=82,82842712474618 мм.
+[OK] Наружное скругление R2: центр X=245, радиус центра=94,82842712474618 мм.
+[OK] CAD: тороидальное дно Collar_groove_nominal, малый радиус R0,5.
+[OK] CAD-грани наружных цилиндров: O82/90/100/105/110/125/255/200 мм (включая заготовочные участки).
+[OK] CAD-грани: канал O62/68/78/90, 12 отверстий O15 на O226; шаг 30°, фаза 15° проверена по координатам.
+[OK] Местное отверстие O12: ось X, центр Y=-84/Z=0 мм.
+[OK] O12: частичный вход через конус, рёбра X=245/260; удалённый объём 1750,679650 мм? учтён в проверке общего объёма.
+[OK] Объём совпадает с независимым расчётом: 2112169,343 мм?.
+[OK] Ошибки операций верхнего уровня не обнаружены. Это проверка DRAFT, не всего чертежа.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage14_20260924_121202_795.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage14_20260924_121202_795.SLDPRT
+[REPORT] F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage14_20260924_121202_795_acceptance_20260924_091204_917_a3cc79f6b55542b581b80baa2cf71b3b.json
+[SUCCESS] Сохранена промежуточная модель: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage14_20260924_121202_795.SLDPRT

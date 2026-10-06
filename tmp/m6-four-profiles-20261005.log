@@ -1,0 +1,10 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\97f17991c0be4c7ca7b86b8705a4df00\AFTER_97f17991c0be4c7ca7b86b8705a4df00.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\97f17991c0be4c7ca7b86b8705a4df00\AFTER_97f17991c0be4c7ca7b86b8705a4df00.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\97f17991c0be4c7ca7b86b8705a4df00\AFTER_97f17991c0be4c7ca7b86b8705a4df00.SLDPRT.
+[THREAD PROFILE POINTS] M6_1: samples=912,slot=0,maxDistance=2,1366867782310465E-05,failed=0.
+[THREAD PROFILE POINTS] M6_2: samples=912,slot=0,maxDistance=2,136686698984824E-05,failed=0.
+[THREAD PROFILE POINTS] M6_3: samples=912,slot=0,maxDistance=2,1366870559764713E-05,failed=0.
+[THREAD PROFILE POINTS] M6_4: samples=912,slot=0,maxDistance=2,136686729012229E-05,failed=0.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\97f17991c0be4c7ca7b86b8705a4df00

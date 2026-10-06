@@ -1,0 +1,50 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.SLDPRT",
+  "SourceSha256": "3DAE51B34AFF03B950D7F3D671050C2827A5CD9A5E9C0B97514840DA8019AA56",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\other-geometry-verification\\f55989156ed145f0b83915736f2cde4f\\VERIFY_f55989156ed145f0b83915736f2cde4f.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "GeometryChanged": false,
+  "Result": {
+    "Dk": {
+      "Samples": 195,
+      "MaxProfileResidualMm": 3.090860900556436E-13,
+      "MinX": 246.5,
+      "MaxX": 260,
+      "D12SharedEdges": 1
+    },
+    "Spline": {
+      "RootFaces": 38,
+      "RootFilletFaces": 76,
+      "RunoutFaces": 38,
+      "RunoutStationXmm": 70,
+      "FullInvoluteProfileVerified": false,
+      "AngularPhaseVerified": false,
+      "DrawingInterpretationAccepted": false,
+      "Scope": "Inherited experimental surface counts and runout cutter placement; not full spline profile or TIFF conformity."
+    },
+    "LeftSlot": {
+      "WidthMm": 16.00000000000078,
+      "MinimumZMm": -8.00000000000039,
+      "MaximumZMm": 8.000000000000393,
+      "FloorFaces": 1,
+      "NegativeSideFaces": 1,
+      "PositiveSideFaces": 1,
+      "RunoutR35Faces": 1,
+      "EdgeSamples": 5742,
+      "FullLeftEndAccepted": false
+    },
+    "Health": {
+      "ActiveFeatures": 425,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998688.6536454218
+    },
+    "DrawingInterpretationAccepted": false,
+    "FullSplineProfileVerified": false,
+    "DkDatumAccepted": false,
+    "Scope": "Current saved model: inherited approximate DK and spline surface checks only."
+  }
+}

@@ -1,0 +1,11 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\WORK_b10371e2c39e481ab431675ebd8aeb40.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\WORK_b10371e2c39e481ab431675ebd8aeb40.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\WORK_b10371e2c39e481ab431675ebd8aeb40.SLDPRT.
+[KG HELIX TRIAL] 60:321 spline points; sharp V60;P=0,9407407407407407;t2..6;NOT OST.
+[KG HELIX TRIAL] 120:321 spline points; sharp V60;P=0,9407407407407407;t2..6;NOT OST.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\UNVERIFIED_KG_HELICAL.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\UNVERIFIED_KG_HELICAL.SLDPRT
+[KG HELICAL TRIAL; NOT ACCEPTED] F:\Project\DrawingTo3D\CadTest\output\kg-helical-trial\b10371e2c39e481ab431675ebd8aeb40\UNVERIFIED_KG_HELICAL.SLDPRT

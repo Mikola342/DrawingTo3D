@@ -1,0 +1,14 @@
+{
+  "Branch": "II",
+  "BeforeThread": true,
+  "EdgeCount": 1,
+  "Edges": [
+    {
+      "MinimumAxisRadiusMm": 3.3234176532933932,
+      "MaximumAxisRadiusMm": 3.3234176532934265,
+      "Samples": 65
+    }
+  ],
+  "RequestedRadiusMm": 0.5,
+  "SourceInterpretationAccepted": false
+}

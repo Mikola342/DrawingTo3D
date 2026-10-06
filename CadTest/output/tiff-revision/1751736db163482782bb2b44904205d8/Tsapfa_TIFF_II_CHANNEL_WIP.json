@@ -1,0 +1,39 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT",
+  "SourceSha256": "FB50A31A5478799B17B7E1F7757E7D3C87301BB3FCBC36620E23AB0CC442DD07",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2034759.9075602056,
+    "RestoredMm3": 2042366.8882119157,
+    "AfterMainMm3": 2038991.2426711966,
+    "FinalMm3": 2036555.0972679686,
+    "SuppressedFeatures": [
+      "TRIAL_M8_thread_60",
+      "TRIAL_M8_pilot_60",
+      "TRIAL_D68_feed_60",
+      "TRIAL_D6_entry_cone_60",
+      "TRIAL_D6_radial_60",
+      "TRIAL_D63_extended_60"
+    ],
+    "Geometry": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "MainEntryX": 260,
+    "MainEntryRadius": 51,
+    "LengthMm": 110,
+    "InclinationDegrees": 10,
+    "FeedCrossingRadius": 48.86759800411953,
+    "FeedCrossingX": 247.90654732864658,
+    "RightM8Rebuilt": false,
+    "FullTiffBodyRebuilt": false,
+    "IsManufacturingReady": false,
+    "Scope": "Transitional TIFF channel revision only. Right M8 intentionally absent pending rebuild; other body dimensions still historical PDF. Flat tool end, nominal datums; no thread, tolerance or seal acceptance."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

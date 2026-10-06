@@ -1,0 +1,156 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "SourceSha256": "F23826717061925D94F2E85A8DBB4F97A269B50CB697FA3126FCD089BC0D077E",
+  "SavedBytesUnchanged": true,
+  "Result": {
+    "Count": 4,
+    "BoltCircleDiameterMm": 95,
+    "PhaseDegrees": 45,
+    "PitchMm": 1,
+    "ThreadParameters": [
+      {
+        "Feature": "TIFF_M6_1_THREAD",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M6x1.0",
+        "PitchOverride": true,
+        "Pitch": 0.001,
+        "BlindDepth": 0.015,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true,
+        "ThreadMethod": 0,
+        "EndCondition": 0,
+        "DiameterOverride": false,
+        "Diameter": 0
+      },
+      {
+        "Feature": "TIFF_M6_2_THREAD",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M6x1.0",
+        "PitchOverride": true,
+        "Pitch": 0.001,
+        "BlindDepth": 0.015,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true,
+        "ThreadMethod": 0,
+        "EndCondition": 0,
+        "DiameterOverride": false,
+        "Diameter": 0
+      },
+      {
+        "Feature": "TIFF_M6_3_THREAD",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M6x1.0",
+        "PitchOverride": true,
+        "Pitch": 0.001,
+        "BlindDepth": 0.015,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true,
+        "ThreadMethod": 0,
+        "EndCondition": 0,
+        "DiameterOverride": false,
+        "Diameter": 0
+      },
+      {
+        "Feature": "TIFF_M6_4_THREAD",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M6x1.0",
+        "PitchOverride": true,
+        "Pitch": 0.001,
+        "BlindDepth": 0.015,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true,
+        "ThreadMethod": 0,
+        "EndCondition": 0,
+        "DiameterOverride": false,
+        "Diameter": 0
+      }
+    ],
+    "NominalThreadOperationDepthMm": 15,
+    "PilotNominalDepthMm": 22,
+    "PilotRadiusMm": 2.458734122634726,
+    "IsolatedRemovedMm3": 219.37186904571962,
+    "WholePartDeltaMm3": 219.49528248654678,
+    "SamplesPerThread": [
+      429,
+      429,
+      429,
+      429
+    ],
+    "VolumeComparisonToleranceMm3": 0.10968593452285981,
+    "VolumeRelativeBudget": 0.0005,
+    "VolumeComparisonPassed": false,
+    "BooleanReconstruction": {
+      "RemovedBodyCount": 4,
+      "ForwardDifferenceEmpty": true,
+      "ReverseDifferenceEmpty": true,
+      "ForwardCode": 0,
+      "ReverseCode": 0
+    },
+    "MassDiagnostic": {
+      "TemporaryBeforeMm3": 1998508.6264953676,
+      "TemporaryAfterMm3": 1998508.6264953676,
+      "TemporaryDeltaMm3": 0,
+      "RemovedTogetherMm3": 1998508.6264953676,
+      "RemovedSeparatelyMm3": [
+        1998508.6264953676,
+        1998508.6264953676,
+        1998508.6264953676,
+        1998508.6264953676
+      ],
+      "RemovedSeparateSumMm3": 7994034.50598147,
+      "DocumentBeforeMm3": 1998731.8212727834,
+      "DocumentAfterMm3": 1998512.325990297,
+      "SameKernelDiagnostic": true,
+      "IndependentGeometricAcceptance": false
+    },
+    "MinimumRadiusMm": 2.4587341226346955,
+    "MaximumRadiusMm": 2.9999999976355083,
+    "MinimumX": 249.99999999999997,
+    "MaximumX": 264.54127680848205,
+    "PilotGeometry": {
+      "MinimumXs": [
+        244.41955080756887,
+        244.41955080756887,
+        244.41955080756887,
+        244.41955080756887
+      ],
+      "MaximumXs": [
+        264.00000000000466,
+        264.00000000000006,
+        264.0000000000015,
+        264.00000000000523
+      ],
+      "EdgeSamples": [
+        165,
+        165,
+        165,
+        165
+      ],
+      "MouthCirclesChecked": 4,
+      "MouthRadiusMm": 3.458734122634726
+    },
+    "DrillPointAccepted": false,
+    "FullProfileRunoutAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 441,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998512.3259902974
+  },
+  "Accepted": false
+}

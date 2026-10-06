@@ -1,0 +1,15 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\f124ec5188a140baa608f8473d3f3ddf\M6_f124ec5188a140baa608f8473d3f3ddf.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\f124ec5188a140baa608f8473d3f3ddf\M6_f124ec5188a140baa608f8473d3f3ddf.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\f124ec5188a140baa608f8473d3f3ddf\M6_f124ec5188a140baa608f8473d3f3ddf.SLDPRT.
+[THREAD FLANKS] TIFF_M6_1_THREAD: +/-=12/12,other=15,unavailable=0,max30Error=3,414261442458155E-07.
+[THREAD FLANKS] TIFF_M6_2_THREAD: +/-=12/12,other=15,unavailable=0,max30Error=3,414273344048979E-07.
+[THREAD FLANKS] TIFF_M6_3_THREAD: +/-=12/12,other=15,unavailable=0,max30Error=3,4142616911481127E-07.
+[THREAD FLANKS] TIFF_M6_4_THREAD: +/-=12/12,other=15,unavailable=0,max30Error=3,4142540172865665E-07.
+[THREAD FLANKS] TRIAL_M12x1_75_7H_nominal_1: +/-=9/9,other=12,unavailable=6,max30Error=1,6271428648906294E-12.
+[THREAD FLANKS] TRIAL_M12x1_75_7H_nominal_2: +/-=9/9,other=12,unavailable=6,max30Error=1,659117287999834E-12.
+[THREAD FLANKS] TRIAL_M90x2_X5_to_X38: +/-=216/216,other=216,unavailable=0,max30Error=2,3803181647963356E-13.
+[THREAD FLANKS] TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH: +/-=24/15,other=12,unavailable=0,max30Error=1,056470466664905E-10.
+[THREAD FLANKS] TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH: +/-=15/15,other=12,unavailable=0,max30Error=4,0536463075113716E-12.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 MASS AUDIT REPORT] F:\Project\DrawingTo3D\CadTest\output\variant-m6-mass\f124ec5188a140baa608f8473d3f3ddf

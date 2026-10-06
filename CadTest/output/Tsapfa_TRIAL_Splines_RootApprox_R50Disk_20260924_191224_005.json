@@ -1,0 +1,23 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_Splines_RootApprox_R50Disk_20260924_191224_005.SLDPRT",
+  "IsManufacturingReady": false,
+  "BaseRevision": "stage16",
+  "UserApprovedCircularRootApproximation": true,
+  "RootRadius": 1.0161290322580643,
+  "ActualVolumeMm3": 2088599.017936752,
+  "ExpectedVolumeMm3": 2088598.9837180877,
+  "RemovedVolumeMm3": 15845.245518314523,
+  "IntegrationConvergenceMm3": 0.032020141361499554,
+  "Limitations": "TRIAL: disk-tool construction of R50, not confirmed manufacturing tool. Space phase zero in right-plane sketch provisional. Nominal diameters, midpoint thickness. Original files unchanged. Other stage16 limitations retained.",
+  "BaseLimitations": [
+    "Left end \u00D882 x 3, external 2x45 chamfer, flat 84.5 over 25 mm with R35 runout, bottom end cut 20 from \u00D890 generatrix built. Bore entry 3 mm / 30 degrees retained. M90 thread itself is still absent.",
+    "Spline blank lead-in: 15 degrees from radial direction, X=42 to 42\u002B5*tan(15 degrees). Teeth and R50 tool runout pending. Outer \u00D8100/105 transition has tangent R3 and 30-degree cone; R35 left flat is built.",
+    "\u00D8105/110 transition: tangent R2 selected at the allowed R2 min; nominal cone slope remains 30 degrees.",
+    "X=215 and X=239 roots: nominal R2 modelled; 3 mm axial / 30-degree transition to \u00D8125 retained. R2 at other unresolved steps is pending.",
+    "X=239..241: \u00D8131 / 2 mm / R2 built. \u00D8164/188 transition uses user-approved TEMPORARY intermediate station X=245, NOT a confirmed drawing dimension; 45-degree transitions and R2 selected as studied.",
+    "\u00D812 removal uses partial circle overlap on X=241..247 plus full intersection to X=260; axial span 19 mm is NOT a full cylinder length.",
+    "\u00D812 hole at end-view offset 84 is present; \u0414/\u041A shaped recess R16/\u00D833 is pending. Through-all length depends on provisional exterior.",
+    "\u0426: external groove has R0.5 roots, meeting tangentially at nominal width 1 mm. Collar end X=265 selects zero inset within 1.6 max, not an exact drawing dimension.",
+    "Bore steps remain nominal/sharp; detail \u041B, grooves, splines and side channels pending."
+  ]
+}

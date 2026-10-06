@@ -1,0 +1,3 @@
+System.InvalidOperationException: Entry cone volume 101,19601255096495 vs 9,26401513804604.
+   at CadTest.Cad.SolidWorksService.CreateRadialEntryCones() in F:\Project\DrawingTo3D\CadTest\Cad\ChannelTrial.cs:line 125
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 144

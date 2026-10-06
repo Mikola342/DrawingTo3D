@@ -1,0 +1,4 @@
+System.InvalidOperationException: Precision change outside thread envelope.
+   at CadTest.Cad.SolidWorksService.<ComparePrecisionM6Pattern>g__Difference|93_0(Body2 left, Body2 right, String label) in F:\Project\DrawingTo3D\CadTest\Cad\PrecisionM6Trial.cs:line 66
+   at CadTest.Cad.SolidWorksService.ComparePrecisionM6Pattern(String originalCopy, String revisedCopy) in F:\Project\DrawingTo3D\CadTest\Cad\PrecisionM6Trial.cs:line 72
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 27

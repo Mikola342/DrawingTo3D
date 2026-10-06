@@ -1,0 +1,11 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\TIFF_WORK_2806c5df6fab40d193c2128aa1d8e98b.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\TIFF_WORK_2806c5df6fab40d193c2128aa1d8e98b.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\TIFF_WORK_2806c5df6fab40d193c2128aa1d8e98b.SLDPRT.
+[TEST OK] P-P chamfer 2x45: removed=146,607657168, outer wall=3, D19 gap=6,840844; six invalid inputs rejected.
+[PP VOLUME] before=1996772,9698849232, after=1996633,2356879269, delta=139,7341969963163, expected=146,60765716752368
+[TIFF PP OK] D22/X247..263; mouthD26/X265; 2x45; 99 samples.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\UNVERIFIED_FAILED_BUILD.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\UNVERIFIED_FAILED_BUILD.SLDPRT
+[UNVERIFIED FAILURE CHECKPOINT] F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\2806c5df6fab40d193c2128aa1d8e98b\UNVERIFIED_FAILED_BUILD.SLDPRT

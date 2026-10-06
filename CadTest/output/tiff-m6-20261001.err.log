@@ -1,0 +1,4 @@
+System.InvalidOperationException: M6 thread parameter mismatch: {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M1.2x0.25","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0}
+   at CadTest.Cad.SolidWorksService.CheckTiffM6Thread(Feature thread) in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 19
+   at CadTest.Cad.SolidWorksService.BuildTiffM6Pattern() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 88
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 61

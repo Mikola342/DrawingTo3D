@@ -1,0 +1,57 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\400f2c1f097a43429b82f78326ade9af\TIFF_II_VERIFY_400f2c1f097a43429b82f78326ade9af.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\400f2c1f097a43429b82f78326ade9af\TIFF_II_VERIFY_400f2c1f097a43429b82f78326ade9af.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-verification\400f2c1f097a43429b82f78326ade9af\TIFF_II_VERIFY_400f2c1f097a43429b82f78326ade9af.SLDPRT.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[M8 MASS] removed=36,938600450, same-body-calculator delta=37,298862329, document-high delta=36,943162904.
+[M8 MASS SCRATCH HIGH] 36,938600450
+[DIAGNOSTIC] M8 isolated removal: V=36,938600450, bodies=1, samples=975, R=3,323417653..3,999999997, S=0,000000000..6,364413083; whole-part delta=36,943162904.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 60: 594 samples; S=0,000000000..6,364413083, R=3,323417653..3,999999997.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[M8 MASS] removed=37,548535494, same-body-calculator delta=39,195018458, document-high delta=37,561689521.
+[M8 MASS SCRATCH HIGH] 37,548535494
+[DIAGNOSTIC] M8 isolated removal: V=37,548535494, bodies=1, samples=780, R=3,323417653..3,999999997, S=-0,000000000..6,259652606; whole-part delta=37,561689521.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 120: 528 samples; S=-0,000000000..6,259616437, R=3,323417653..3,999999997.
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D110: X=183,000000000..233,000000000, samples=66.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 BOOLEAN RECONSTRUCTION OK] 4 removed bodies rejoined; both differences empty (0/0).
+[TIFF M6 OK] four threads, samples=429,429,429,429, V=219,371869046, R=2,458734123..2,999999998.
+[OK] Drawing D19: 12 cylinders, 72 samples, X247..265; PCD226/phase15.
+[OK] TRIAL_M12x1_75_7H_nominal_1: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[OK] TRIAL_M12x1_75_7H_nominal_2: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[AUDIT] M90 parameters: Type=C:\ProgramData\SolidWorks\SOLIDWORKS 2025\thread profiles\Metric Die.SLDLFP, Size=M16x2.0, Pitch=0,002, Depth=0,033, Reverse=False, Diameter=0,09, Override=True.
+[AUDIT] M90 progress: 4 faces, 528 edge samples.
+[AUDIT] M90 progress: 8 faces, 1056 edge samples.
+[AUDIT] M90 progress: 12 faces, 1584 edge samples.
+[AUDIT] M90 progress: 16 faces, 2112 edge samples.
+[AUDIT] M90 progress: 20 faces, 2640 edge samples.
+[AUDIT] M90 progress: 24 faces, 3201 edge samples.
+[AUDIT] M90 progress: 28 faces, 3729 edge samples.
+[AUDIT] M90 progress: 32 faces, 4257 edge samples.
+[AUDIT] M90 progress: 36 faces, 4785 edge samples.
+[AUDIT] M90 progress: 40 faces, 5313 edge samples.
+[AUDIT] M90 progress: 44 faces, 5841 edge samples.
+[AUDIT] M90 progress: 48 faces, 6369 edge samples.
+[AUDIT] M90 progress: 52 faces, 6897 edge samples.
+[AUDIT] M90: N=7194, X=5,000000..39,750000, R=43,917468..45,000000.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF HEALTH OK] active=348, suppressed=24, one solid body.
+[TIFF FOCUSED CHECK] F:\Project\DrawingTo3D\CadTest\output\tiff-verification\400f2c1f097a43429b82f78326ade9af\verification.json

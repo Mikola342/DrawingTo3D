@@ -1,0 +1,23 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_ExtendedChannels_20260925_000906_371.SLDPRT",
+  "IsManufacturingReady": false,
+  "Scope": "Read-only in-memory check of channel cylinder axes and shared intersection edges only; not full part or hydraulic/structural certification.",
+  "Connections": [
+    {
+      "AngleDegrees": 60,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    },
+    {
+      "AngleDegrees": 120,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    }
+  ]
+}

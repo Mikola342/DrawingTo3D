@@ -1,0 +1,253 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-m6\\5c672aac0b974092b83b3480c85f71b6\\UNVERIFIED_FAILED_BUILD.SLDPRT",
+  "SourceSha256": "CA7F0A4CFF628E7A2EEC94A74D2F27BBA1FD45200F660E2AB2B36EE3DEEA2FE9",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-m6-checked\\bab52b0f247a49a4a63156c4272cc473\\Tsapfa_TIFF_M6_WIP.SLDPRT",
+  "Result": {
+    "FinalMm3": 1996772.9698849232,
+    "Pattern": {
+      "Count": 4,
+      "BoltCircleDiameterMm": 95,
+      "PhaseDegrees": 45,
+      "PitchMm": 1,
+      "ThreadParameters": [
+        {
+          "Feature": "TIFF_M6_1_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_2_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_3_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        },
+        {
+          "Feature": "TIFF_M6_4_THREAD",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M6x1.0",
+          "PitchOverride": true,
+          "Pitch": 0.001,
+          "BlindDepth": 0.015,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": true,
+          "ThreadMethod": 0,
+          "EndCondition": 0,
+          "DiameterOverride": false,
+          "Diameter": 0
+        }
+      ],
+      "NominalThreadOperationDepthMm": 15,
+      "PilotNominalDepthMm": 22,
+      "PilotRadiusMm": 2.458734122634726,
+      "IsolatedRemovedMm3": 219.37186904571962,
+      "WholePartDeltaMm3": 219.49537920439616,
+      "SamplesPerThread": [
+        429,
+        429,
+        429,
+        429
+      ],
+      "VolumeComparisonToleranceMm3": 0.10968593452285981,
+      "VolumeRelativeBudget": 0.0005,
+      "VolumeComparisonPassed": false,
+      "BooleanReconstruction": {
+        "RemovedBodyCount": 4,
+        "ForwardDifferenceEmpty": true,
+        "ReverseDifferenceEmpty": true,
+        "ForwardCode": 0,
+        "ReverseCode": 0
+      },
+      "MinimumRadiusMm": 2.4587341226346955,
+      "MaximumRadiusMm": 2.9999999976355083,
+      "MinimumX": 249.99999999999997,
+      "MaximumX": 264.54127680848205,
+      "PilotGeometry": {
+        "MinimumXs": [
+          243,
+          243,
+          243,
+          243
+        ],
+        "MaximumXs": [
+          264.00000000000466,
+          264.00000000000006,
+          264.0000000000015,
+          264.00000000000523
+        ],
+        "EdgeSamples": [
+          165,
+          165,
+          165,
+          165
+        ],
+        "MouthCirclesChecked": 4,
+        "MouthRadiusMm": 3.458734122634726
+      },
+      "DrillPointAccepted": false,
+      "FullProfileRunoutAccepted": false
+    },
+    "Exterior": {
+      "ArcFaces": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ConeFaces": 3,
+      "Cylinder110": {
+        "DiameterMm": 110,
+        "MinimumX": 183,
+        "MaximumX": 233,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "FeatureOrderChecked": true,
+      "TheoreticalCornerDiametersMm": [
+        135,
+        184
+      ],
+      "LegacyD125Removed": true,
+      "Scope": "Nominal profile surfaces and circular boundary rings checked; not dimensional tolerance acceptance."
+    },
+    "Collar": {
+      "Collar": {
+        "DiameterMm": 115,
+        "MinimumX": 260,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "BoltCircleDiameterMm": 95,
+      "M6PatternNotInspectedHere": true,
+      "MouthNominalX": 265,
+      "SelectedCollarInsetMm": 0,
+      "AllowedInsetMaxMm": 1.6
+    },
+    "II": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "EntryX": 265,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "AA": {
+      "MainCylinders": 1,
+      "RadialCylinders": 1,
+      "FeedCylinders": 1,
+      "RadialX": 132,
+      "InclinationDegrees": 4,
+      "EntryX": 265,
+      "AxesAndConnectionsChecked": true,
+      "DrillBottomGeometryAccepted": false
+    },
+    "Bore": {
+      "Groove": {
+        "DiameterMm": 71,
+        "MinimumX": 232,
+        "MaximumX": 233.9,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Bore": {
+        "DiameterMm": 68,
+        "MinimumX": 180.99999999999997,
+        "MaximumX": 237,
+        "Cylinders": 2,
+        "EdgeSamples": 165,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "Rear": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "ExtentsCheckedByEdgeSamples": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "NominalCoreOnly": true,
+      "Transitions30And10DegreesAccepted": false,
+      "FullDetailLAccepted": false
+    },
+    "Health": {
+      "ActiveFeatures": 348,
+      "SuppressedFeatures": 24,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996772.9698849232
+    },
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "M6 checkpoint rechecked; numerical volume comparison disclosed separately from Boolean reconstruction. Drill points/runout and inherited limitations remain."
+  },
+  "GeometryChanged": true,
+  "GeometryChangeOccurredInCheckpoint": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

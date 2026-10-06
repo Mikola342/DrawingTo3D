@@ -1,0 +1,107 @@
+[OK] Этап 16: отдельное отверстие Р-Р O22 при смещении 111,5, сквозь фланец 18 мм.
+[ASSUMPTION] X=245 согласован пользователем ВРЕМЕННО; это не подтверждённый размер чертежа.
+[DRAFT] Слева - заготовки под резьбу и шлицы; Д/К ещё отсутствует.
+[DRAFT] R0,5 построены; торец воротника X=265 выбран с нулевым отступом в пределах 1,6 max. Д/К ещё отсутствуют.
+[DRAFT] Малые фаски, канавки, шлицы и боковые каналы ещё не построены.
+[INFO] Автоматическое создание M90 приостановлено: длина 3 мм не подтверждена.
+[TEST OK] Rejected: old blind bore
+[TEST OK] Rejected: outer O105 used as bore
+[TEST OK] Rejected: 26 mm flange
+[TEST OK] Rejected: duplicate hole
+[TEST OK] Rejected: NaN
+[TEST OK] Rejected: unverified M90
+[TEST OK] Rejected: old O131 middle cylinder
+[TEST OK] Rejected: wrong O110 shoulder station
+[TEST OK] Rejected: old O188 middle cylinder
+[TEST OK] Rejected: wrong cone slope
+[TEST OK] Rejected: missing boss extent
+[TEST OK] Rejected: solid boss instead of annular
+[TEST OK] Rejected: missing boss chamfer
+[TEST OK] Rejected: wrong boss chamfer length
+[TEST OK] Rejected: missing external collar recess
+[TEST OK] Rejected: groove 3 mm instead of 3-2
+[TEST OK] Rejected: inverted groove radii
+[TEST OK] Rejected: groove cut through O90 collar
+[TEST OK] Rejected: missing R0.5
+[TEST OK] Rejected: overlapping root fillets
+[TEST OK] Rejected: negative root fillet
+[TEST OK] Rejected: missing O12
+[TEST OK] Rejected: missing separate P-P hole
+[TEST OK] Rejected: P-P mistaken for D15 pattern
+[TEST OK] Rejected: P-P placed on D226
+[TEST OK] Rejected: P-P on wrong side
+[TEST OK] Rejected: blind P-P
+[TEST OK] Rejected: P-P wrong thickness
+[TEST OK] Rejected: O12 on wrong side
+[TEST OK] Rejected: O12 on flange bolt circle
+[TEST OK] Rejected: blind O12
+[TEST OK] Rejected: wrong shoulder R2
+[TEST OK] Rejected: wrong shoulder arc direction
+[TEST OK] Rejected: wrong shoulder 30 degrees
+[TEST OK] Rejected: cone root below R2 min
+[TEST OK] Rejected: non-tangent cone root
+[TEST OK] Rejected: non-finite arc center
+[TEST OK] Rejected: reversed cone root
+[TEST OK] Rejected: wrong spline shoulder R3
+[TEST OK] Rejected: non-tangent spline shoulder
+[TEST OK] Rejected: reversed spline shoulder arc
+[TEST OK] Rejected: wrong spline shoulder cone
+[TEST OK] Rejected: lead-in angle measured from axis
+[TEST OK] Rejected: lead-in replaced by radial step
+[TEST OK] Rejected: wrong lead-in start station
+[TEST OK] Rejected: lead-in stops at root diameter
+[TEST OK] Rejected: missing left cuts
+[TEST OK] Rejected: 84.5 treated as diameter
+[TEST OK] Rejected: wrong flat length
+[TEST OK] Rejected: wrong R35 runout
+[TEST OK] Rejected: wrong bottom cut
+[TEST OK] Rejected: bottom cut extends into thread blank
+[TEST OK] Rejected: wrong O82 end
+[TEST OK] Rejected: missing external chamfer
+[TEST OK] Rejected: wrong right root
+[TEST OK] Rejected: wrong O131 start
+[TEST OK] Rejected: wrong 2 mm right step
+[TEST OK] Rejected: wrong right-step R2
+[TEST OK] Rejected: stale O12 intersection length
+[TEST OK] Rejected: missing bore entry chamfer
+[TEST OK] Rejected: wrong bore entry axial length
+[TEST OK] Rejected: entry 30 degrees to face instead of axis
+[TEST OK] Rejected: changed approved temporary station
+[TEST OK] Rejected: wrong O164 theoretical corner
+[TEST OK] Rejected: wrong flange-root R2
+[TEST OK] Rejected: historical O19 flange holes
+[TEST OK] Rejected: historical 90-degree flange phase
+[TEST OK] Valid stage16 draft + 67 regression cases passed without SolidWorks.
+[TEST OK] Analytical volume: 2104444,229236 mm?.
+[TEST OK] Spline: m2.5/z38, D95 pitch, rack shift, thickness, 1001 flank samples and tolerance.
+[TEST OK] Spline axial study: 1001 circle samples, endpoints, R35 overlap, R3 separation, 8 invalid inputs.
+[TEST OK] Spline root study: 1000 candidate tangencies, mirror clearance, 5 invalid joins.
+[TEST OK] Д/К: conditional sphere/cap checks, full depth tolerance interval, invalid inputs.
+[TEST OK] DK compound hypothesis: 1001 depth cases, join/opening/floor equations, projected containment, 5 invalid inputs.
+[TEST OK] Right transition candidates: continuity, arcs, circle overlap, convergence and station bounds.
+[TEST OK] M12 basic diameter, independent chamfer integral, boss/flange and hole clearances.
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_TRIAL_M12_Splines_20260924_233650_730.SLDPRT; warnings=128.
+[OK] TRIAL_M12x1_75_7H_nominal_1: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[OK] TRIAL_M12x1_75_7H_nominal_2: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[OK] Одно твёрдое тело; объём 2085124,757 мм?.
+[OK] Координаты всех уступов наружного профиля и канала совпадают с параметрами.
+[OK] Left end: planes Y=39.5/-25 and transverse R35 at X=25/Y=74.5.
+[OK] Наружное скругление R3: центр X=89,86602540378443, радиус центра=53 мм.
+[OK] Наружное скругление R2: центр X=178,13397459621558, радиус центра=54,5 мм.
+[OK] Наружное скругление R2: центр X=213, радиус центра=57 мм.
+[OK] Наружное скругление R2: центр X=237, радиус центра=64,5 мм.
+[OK] Наружное скругление R2: центр X=239, радиус центра=68,32842712474618 мм.
+[OK] Наружное скругление R2: центр X=243, радиус центра=82,82842712474618 мм.
+[OK] Наружное скругление R2: центр X=245, радиус центра=94,82842712474618 мм.
+[OK] CAD: тороидальное дно Collar_groove_nominal, малый радиус R0,5.
+[OK] CAD-грани наружных цилиндров: O82/90/100/105/110/125/255/200 мм (включая заготовочные участки).
+[OK] CAD-грани: канал O62/68/78/90, 12 отверстий O15 на O226; шаг 30°, фаза 15° проверена по координатам.
+[OK] Местное отверстие O12: ось X, центр Y=-84/Z=0 мм.
+[OK] Separate P-P hole: D22, Y=111.5/Z=0, end edges X=247/265.
+[OK] O12: частичный вход через конус, рёбра X=245/260; удалённый объём 1750,679650 мм? учтён в проверке общего объёма.
+[INFO] Base geometry checked; exact total-volume comparison explicitly skipped for nominal thread TRIAL.
+[OK] Ошибки операций верхнего уровня не обнаружены. Это проверка DRAFT, не всего чертежа.
+[OK] Trial spline surfaces: 38 root faces, 76 fillet faces, 38 R50 runouts at X70.
+[REPORT] F:\Project\DrawingTo3D\CadTest\output\Tsapfa_TRIAL_M12_Splines_20260924_233650_730_m12check_20260924_205013_950.json

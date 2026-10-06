@@ -1,0 +1,34 @@
+{
+  "SchemaVersion": 1,
+  "VerifiedAtUtc": "2026-09-24T08:45:58.3404688Z",
+  "Mode": "inspect-existing-no-save",
+  "Revision": "stage11",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_stage11_20260924_114011_731.SLDPRT",
+  "FileSha256": "7459CB80EDAA453BB1E445AF7C71F4CEB05506D23A7E25A6A61991C3D96F738A",
+  "FileSizeBytes": 223929,
+  "FileLastWriteTimeUtc": "2026-09-24T08:40:12.3104771Z",
+  "VerificationScope": "Current revision parameters and in-memory CAD body; not full drawing conformity. File hash identifies saved bytes, not a separate disk reload check.",
+  "IsManufacturingReady": false,
+  "ParameterRegressionChecksPassed": true,
+  "CadChecksPassed": true,
+  "ActualVolumeMm3": 2122388.0951231727,
+  "ExpectedVolumeMm3": 2122388.0946303466,
+  "AbsoluteVolumeDifferenceMm3": 0.0004928261041641235,
+  "VolumeToleranceMm3": 2.1223880946303466,
+  "TemporaryAssumption": {
+    "RightStationMm": 245,
+    "UserApproved": true,
+    "ConfirmedDrawingDimension": false
+  },
+  "Limitations": [
+    "X=0..42: nominal \u00D890 thread blank only; thread, left relief/flat and entry chamfers pending.",
+    "X=42..95: nominal \u00D8100 spline blank only; teeth, 15-degree lead-in, R35/R50/R3 transitions pending.",
+    "\u00D8105/110 transition: tangent R2 selected at the allowed R2 min; nominal cone slope remains 30 degrees.",
+    "X=215 and X=239 roots: nominal R2 modelled; 3 mm axial / 30-degree transition to \u00D8125 retained. R2 at other unresolved steps is pending.",
+    "X=239..241: \u00D8131 / 2 mm / R2 built. \u00D8164/188 transition uses user-approved TEMPORARY intermediate station X=245, NOT a confirmed drawing dimension; 45-degree transitions and R2 selected as studied.",
+    "\u00D812 removal uses partial circle overlap on X=241..247 plus full intersection to X=260; axial span 19 mm is NOT a full cylinder length.",
+    "\u00D812 hole at end-view offset 84 is present; \u0414/\u041A shaped recess R16/\u00D833 is pending. Through-all length depends on provisional exterior.",
+    "\u0426: external groove has R0.5 roots, meeting tangentially at nominal width 1 mm. Collar end X=265 selects zero inset within 1.6 max, not an exact drawing dimension.",
+    "Bore steps remain nominal/sharp; detail \u041B, grooves, splines and side channels pending."
+  ]
+}

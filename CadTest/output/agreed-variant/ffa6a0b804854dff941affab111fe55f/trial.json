@@ -1,0 +1,41 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-mouth-trial\\43af27e441474ee5ab74795d8cae0bba\\UNVERIFIED_M8_MOUTHS.SLDPRT",
+  "SourceSha256": "892040FDA4C49A6E0F8CE88618BF157A12D7D45099FD3BADF5C1C30A48005EFD",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "Result": {
+    "BeforeMm3": 1998546.4257616932,
+    "FinalMm3": 1998512.325990297,
+    "Operations": [
+      {
+        "BranchDegrees": 60,
+        "VolumeMm3": 1998529.3758675985,
+        "Feature": "DESIGN_KG_TRUNCATED_CUT_60"
+      },
+      {
+        "BranchDegrees": 120,
+        "VolumeMm3": 1998512.325990297,
+        "Feature": "DESIGN_KG_TRUNCATED_CUT_120"
+      }
+    ],
+    "Health": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998512.325990297
+    },
+    "PitchMm": 0.9407407407407407,
+    "StartTmm": 2,
+    "EndTmm": 6,
+    "RadialToolDepthMm": 0.45,
+    "CustomTruncatedProfile": true,
+    "AxialBottomFlatMm": 0.1,
+    "Profile": "Agreed custom truncated60, NOT OST; axial bottom flat0.10",
+    "Accepted": false,
+    "FullProfileVerified": false,
+    "RequiresFreshVerification": true,
+    "DrawingInterpretationAccepted": false
+  },
+  "Accepted": false
+}

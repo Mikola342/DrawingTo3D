@@ -1,0 +1,71 @@
+[OK] Этап 11: переход Ø164/Ø188, два дополнительных R2; фланцевый ряд 12×Ø15 сохранён.
+[ASSUMPTION] X=245 согласован пользователем ВРЕМЕННО; это не подтверждённый размер чертежа.
+[DRAFT] Слева — заготовки под резьбу и шлицы; Д/К ещё отсутствует.
+[DRAFT] R0,5 построены; торец воротника X=265 выбран с нулевым отступом в пределах 1,6 max. Д/К ещё отсутствуют.
+[DRAFT] Малые фаски, канавки, шлицы и боковые каналы ещё не построены.
+[INFO] Автоматическое создание M90 приостановлено: длина 3 мм не подтверждена.
+[TEST OK] Rejected: old blind bore
+[TEST OK] Rejected: outer Ø105 used as bore
+[TEST OK] Rejected: 26 mm flange
+[TEST OK] Rejected: duplicate hole
+[TEST OK] Rejected: NaN
+[TEST OK] Rejected: unverified M90
+[TEST OK] Rejected: old Ø131 middle cylinder
+[TEST OK] Rejected: wrong Ø110 shoulder station
+[TEST OK] Rejected: old Ø188 middle cylinder
+[TEST OK] Rejected: wrong cone slope
+[TEST OK] Rejected: missing boss extent
+[TEST OK] Rejected: solid boss instead of annular
+[TEST OK] Rejected: missing boss chamfer
+[TEST OK] Rejected: wrong boss chamfer length
+[TEST OK] Rejected: missing external collar recess
+[TEST OK] Rejected: groove 3 mm instead of 3-2
+[TEST OK] Rejected: inverted groove radii
+[TEST OK] Rejected: groove cut through Ø90 collar
+[TEST OK] Rejected: missing R0.5
+[TEST OK] Rejected: overlapping root fillets
+[TEST OK] Rejected: negative root fillet
+[TEST OK] Rejected: missing Ø12
+[TEST OK] Rejected: Ø12 on wrong side
+[TEST OK] Rejected: Ø12 on flange bolt circle
+[TEST OK] Rejected: blind Ø12
+[TEST OK] Rejected: wrong shoulder R2
+[TEST OK] Rejected: wrong shoulder arc direction
+[TEST OK] Rejected: wrong shoulder 30 degrees
+[TEST OK] Rejected: cone root below R2 min
+[TEST OK] Rejected: non-tangent cone root
+[TEST OK] Rejected: non-finite arc center
+[TEST OK] Rejected: reversed cone root
+[TEST OK] Rejected: wrong right root
+[TEST OK] Rejected: wrong Ø131 start
+[TEST OK] Rejected: wrong 2 mm right step
+[TEST OK] Rejected: wrong right-step R2
+[TEST OK] Rejected: stale Ø12 intersection length
+[TEST OK] Rejected: changed approved temporary station
+[TEST OK] Rejected: wrong Ø164 theoretical corner
+[TEST OK] Rejected: wrong flange-root R2
+[TEST OK] Rejected: historical Ø19 flange holes
+[TEST OK] Rejected: historical 90-degree flange phase
+[TEST OK] Valid stage11 draft + 42 regression cases passed without SolidWorks.
+[TEST OK] Analytical volume: 2122388,094630 mm³.
+[TEST OK] Д/К: conditional sphere/cap checks, full depth tolerance interval, invalid inputs.
+[TEST OK] Right transition candidates: continuity, arcs, circle overlap, convergence and station bounds.
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage11_20260924_114011_731.SLDPRT; warnings=128.
+[OK] Одно твёрдое тело; объём 2122388,095 мм³.
+[OK] Координаты всех уступов наружного профиля и канала совпадают с параметрами.
+[OK] Наружное скругление R2: центр X=178,13397459621558, радиус центра=54,5 мм.
+[OK] Наружное скругление R2: центр X=213, радиус центра=57 мм.
+[OK] Наружное скругление R2: центр X=237, радиус центра=64,5 мм.
+[OK] Наружное скругление R2: центр X=239, радиус центра=68,32842712474618 мм.
+[OK] Наружное скругление R2: центр X=243, радиус центра=82,82842712474618 мм.
+[OK] Наружное скругление R2: центр X=245, радиус центра=94,82842712474618 мм.
+[OK] CAD: тороидальное дно Collar_groove_nominal, малый радиус R0,5.
+[OK] CAD-грани наружных цилиндров: Ø90/100/105/110/125/255/200 мм (включая заготовочные участки).
+[OK] CAD-грани: канал Ø62/68/78/90, 12 отверстий Ø15 на Ø226; шаг 30°, фаза 15° проверена по координатам.
+[OK] Местное отверстие Ø12: ось X, центр Y=-84/Z=0 мм.
+[OK] Ø12: частичный вход через конус, рёбра X=245/260; удалённый объём 1750,679650 мм³ учтён в проверке общего объёма.
+[OK] Объём совпадает с независимым расчётом: 2122388,095 мм³.
+[OK] Ошибки операций верхнего уровня не обнаружены. Это проверка DRAFT, не всего чертежа.
+[REPORT] F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage11_20260924_114011_731_acceptance_20260924_084558_332_4ac4785bfeac4c53b8d93f43b845c617.json

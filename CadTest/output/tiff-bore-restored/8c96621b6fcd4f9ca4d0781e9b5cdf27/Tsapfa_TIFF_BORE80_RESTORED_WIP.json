@@ -1,0 +1,52 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-bore80\\d9b44e3af9884ea4b75e7d9cd0382da3\\Tsapfa_TIFF_BORE80_PARTIAL_WIP.SLDPRT",
+  "SourceSha256": "B455A1F22ACE5B47F1DB8E307B4B058104409B6F34A1A8001B511D3A6D0388FC",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-bore-restored\\8c96621b6fcd4f9ca4d0781e9b5cdf27\\Tsapfa_TIFF_BORE80_RESTORED_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2015053.855332277,
+    "FinalMm3": 2029740.8009878104,
+    "AddedMm3": 14686.945655533345,
+    "ExpectedAddedMm3": 14686.945655532281,
+    "Geometry": {
+      "D68": {
+        "DiameterMm": 68,
+        "MinimumX": 181,
+        "MaximumX": 237,
+        "Cylinders": 1,
+        "EdgeSamples": 99,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "D80": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 265,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "LegacyD90Removed": true,
+      "FullRearBoreAccepted": false,
+      "Scope": "Nominal D80 continuous to X265; detail L, exit chamfer, entry radii and tolerances pending."
+    },
+    "Channel": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "Bore80Restored": true,
+    "Bore80PartialRebuilt": true,
+    "Bore68StartRebuilt": true,
+    "RightM8Rebuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "Restored missing material R40..45/X254..265; nominal D80 continuous X237..265. L, radii, exit chamfer, full TIFF body and tolerances pending."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

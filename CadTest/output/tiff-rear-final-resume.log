@@ -1,0 +1,33 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[M8 MASS] removed=36,938600450, same-body-calculator delta=37,298862331, document-high delta=36,943162906.
+[M8 MASS SCRATCH HIGH] 36,938600450
+[DIAGNOSTIC] M8 isolated removal: V=36,938600450, bodies=1, samples=975, R=3,323417653..3,999999997, S=0,000000000..6,364413083; whole-part delta=36,943162906.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 60: 594 samples; S=0,000000000..6,364413083, R=3,323417653..3,999999997.
+[M8 MASS] removed=37,548535494, same-body-calculator delta=39,195018457, document-high delta=37,561689522.
+[M8 MASS SCRATCH HIGH] 37,548535494
+[DIAGNOSTIC] M8 isolated removal: V=37,548535494, bodies=1, samples=780, R=3,323417653..3,999999997, S=-0,000000000..6,259652606; whole-part delta=37,561689522.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 120: 528 samples; S=-0,000000000..6,259616437, R=3,323417653..3,999999997.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF HEALTH OK] active=304, suppressed=24, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-rear-resumed\c8a92c214f5343a7a059c663be9cda5c\Tsapfa_TIFF_REAR_DATUM_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-rear-resumed\c8a92c214f5343a7a059c663be9cda5c\Tsapfa_TIFF_REAR_DATUM_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-rear-resumed\c8a92c214f5343a7a059c663be9cda5c\Tsapfa_TIFF_REAR_DATUM_WIP.SLDPRT

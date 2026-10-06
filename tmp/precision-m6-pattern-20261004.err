@@ -1,0 +1,4 @@
+System.InvalidOperationException: Открытие детали: errors=0, warnings=128.
+   at CadTest.Cad.SolidWorksService.OpenPartForInspection(String path, Boolean requireFresh) in F:\Project\DrawingTo3D\CadTest\Cad\SolidWorksService.cs:line 2347
+   at CadTest.Cad.SolidWorksService.ComparePrecisionM6Pattern(String originalCopy, String revisedCopy) in F:\Project\DrawingTo3D\CadTest\Cad\PrecisionM6Trial.cs:line 12
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 20

@@ -1,0 +1,81 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_RearFeeds_20260925_091752_552.SLDPRT",
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_EntryCones_20260925_083117_656.SLDPRT",
+  "SourceSha256": "C9B43C94E35A73C6B4B156737F78FFEBBFFA12158FC88F1D2FEF22D239CE8153",
+  "IsManufacturingReady": false,
+  "Result": {
+    "InitialVolumeMm3": 2074834.8194608528,
+    "FinalVolumeMm3": 2069337.3032334892,
+    "ExpectedOneFeedMm3": 2748.760971148298,
+    "CoarseIntegralMm3": 2748.7599171997404,
+    "EndRadius": 48.81282500519128,
+    "CutterLengthMm": 81.7968765085167,
+    "Operations": [
+      {
+        "AngleDegrees": 60,
+        "RemovedMm3": 2748.758113682503,
+        "Cylinders": 1,
+        "SharedEdgesWithD63": 2
+      },
+      {
+        "AngleDegrees": 120,
+        "RemovedMm3": 2748.758113681106,
+        "Cylinders": 1,
+        "SharedEdgesWithD63": 2
+      }
+    ],
+    "Assumptions": "Coplanar 60/120 degrees, X257.5 at R127, 7 degrees from radial, flat cutter ends 1 radial mm beyond axis crossing. No thread or drill-tip claim."
+  },
+  "Connections": [
+    {
+      "AngleDegrees": 60,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    },
+    {
+      "AngleDegrees": 120,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    }
+  ],
+  "M12": {
+    "Threads": [
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.9472192533935,
+        "MinRadius": 5.052784714610734,
+        "MaxRadius": 6.000001981934647,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      },
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.94721925339496,
+        "MinRadius": 5.052784714610729,
+        "MaxRadius": 6.000001981933177,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      }
+    ],
+    "ActualVolumeMm3": 2069337.303233487,
+    "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+  },
+  "EntryInterpretation": "Radial 45-degree cone; D8 on tangent plane R52.5, D6 at R51.5. Comparative interpretation, not uniquely established drawing intent.",
+  "Limitations": "Experimental D6.8 bases and flat-ended cutter; M8, KG1/8, M90 and DK unfinished. Inherited trial limitations."
+}

@@ -1,0 +1,12 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\left-end-verification\23568bc771bc444d8adf08ae2d4305e5\LEFT_23568bc771bc444d8adf08ae2d4305e5.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\left-end-verification\23568bc771bc444d8adf08ae2d4305e5\LEFT_23568bc771bc444d8adf08ae2d4305e5.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\left-end-verification\23568bc771bc444d8adf08ae2d4305e5\LEFT_23568bc771bc444d8adf08ae2d4305e5.SLDPRT.
+[LEFT END OK] D82:X0..3,N=520,residual=7,105427357601002E-15.
+[LEFT END OK] Bottom20:X0..3,0000000000000036,N=520,residual=0.
+[LEFT END OK] SlotFloor:X0..25,N=260,residual=0.
+[LEFT END OK] Outer45:X2,9999999999999987..5,N=325,residual=1,4210854715202004E-14.
+[LEFT END OK] Bore30:X0..3,0000000000000036,N=260,residual=1,4210854715202004E-14.
+[LEFT SLOT CHECK] floor39.5,R35 center25/74.5,width16,00000000000078;samples5742.
+[TIFF HEALTH OK] active=425, suppressed=34, one solid body.
+[LEFT END VERIFIED] F:\Project\DrawingTo3D\CadTest\output\left-end-verification\23568bc771bc444d8adf08ae2d4305e5\verification.json

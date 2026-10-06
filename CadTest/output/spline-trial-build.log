@@ -1,0 +1,13 @@
+[TEST OK] Spline root study: 1000 candidate tangencies, mirror clearance, 5 invalid joins.
+[TEST OK] Trial: 38 teeth, closed 228-segment contour, root R1,0161290322580643, volume 88043,053259 mm3.
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Создание новой детали...
+[OK] Новая деталь создана.
+[INFO] Создание Extrude 20 мм...
+[OK] Extrude 20 мм создан.
+[OK] Trial CAD: one body; 38 crests, 38 roots, 76 root fillets, bore; volume 88043,054546 vs 88043,053259 mm3.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\Spline_TRIAL_RootApprox_20mm_20260924_181843_469.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\Spline_TRIAL_RootApprox_20mm_20260924_181843_469.SLDPRT
+[SUCCESS] Standalone spline TRIAL saved: F:\Project\DrawingTo3D\CadTest\output\Spline_TRIAL_RootApprox_20mm_20260924_181843_469.SLDPRT

@@ -1,0 +1,26 @@
+{
+  "Status": "Cross-section study only; no 3D spline teeth added",
+  "BaseRevision": "stage15",
+  "Source": "GOST 6033-51 table 1 page 3; drawing section \u0412-\u0412",
+  "SourceUrl": "https://files.stroyinf.ru/Data/273/27388.pdf",
+  "Teeth": 38,
+  "Module": 2.5,
+  "MajorDiameter": 100,
+  "RootDiameter": 94,
+  "PitchDiameter": 95,
+  "BaseDiameter": 82.27241335952168,
+  "RackShiftMm": 1.25,
+  "StandardThickness": 5.370366489961306,
+  "DrawingThicknessMin": 5.332,
+  "DrawingThicknessMax": 5.335,
+  "PreviewThickness": 5.3335,
+  "ThicknessMeaning": "Arc thickness at pitch circle, not top chord width",
+  "RemainingWork": [
+    "Tool-generated root fillets",
+    "3D R50 tool envelope (axial constraints in spline-axial-study.json); outer R3 already built",
+    "Phase relative to local cuts",
+    "3D cut and verification"
+  ],
+  "MaxRootTransitionDiameter": 95,
+  "PreviewLimitations": "Solid blue: involute at D\u003E=95. Dashed orange: mathematical extension below D95, not an approved root. Nominal diameters and midpoint thickness; not closed manufacturing geometry."
+}

@@ -1,0 +1,26 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\8b8f6b1954514b19b7c9a1e39502927b\AFTER_8b8f6b1954514b19b7c9a1e39502927b.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\8b8f6b1954514b19b7c9a1e39502927b\AFTER_8b8f6b1954514b19b7c9a1e39502927b.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\8b8f6b1954514b19b7c9a1e39502927b\AFTER_8b8f6b1954514b19b7c9a1e39502927b.SLDPRT.
+[EDGE TOLERANCE] 1: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 1: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 1: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 1: tolerant=True,mm=0,0125
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4587341226347235,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 1: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 1: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 1: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 2: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 2: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 2: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 2: tolerant=True,mm=0,0125
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4587341226347235,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 2: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 2: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[EDGE TOLERANCE] 2: tolerant=False,mm=5E-06
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0,bodyIdentity=1,listed=True
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\8b8f6b1954514b19b7c9a1e39502927b

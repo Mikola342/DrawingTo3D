@@ -1,0 +1,22 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\TIFF_WORK_3222b4e8b52d43b484f16f61c904f3c3.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\TIFF_WORK_3222b4e8b52d43b484f16f61c904f3c3.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\TIFF_WORK_3222b4e8b52d43b484f16f61c904f3c3.SLDPRT.
+[TEST OK] P-P chamfer 2x45: removed=146,607657168, outer wall=3, D19 gap=6,840844; six invalid inputs rejected.
+[TEST OK] P-P limited by D200 boss: overlap=6,874367781, removed=139,733289387, mouth arc=5,368785903578766.
+[PP VOLUME] before=1996772,9698849232, after=1996633,2356879269, delta=139,7341969963163, expected=139,73328938666825
+[PP EDGE] {"Circle":false,"Parameters":null,"UMinValue":0,"UMaxValue":0.011865230376372533}
+[PP EDGE] {"Circle":true,"Parameters":[0.265,0.1115,0,-1,-0,-0,0.013000000000000012],"UMinValue":5.169588682185111,"UMaxValue":10.538374585763854}
+[PP EDGE] {"Circle":true,"Parameters":[0.263,0.1115,0,-1,-0,-0,0.011],"UMinValue":0,"UMaxValue":6.283185307179586}
+[PP REMOVED FACE] {"Plane":true,"Cone":false,"Cylinder":false,"Box":[0.265,0.09983520179372198,-0.013000000000000012,0.265,0.12450000000000001,0.013000000000000012],"CylinderParameters":null,"ConeParameters":null}
+[PP REMOVED FACE] {"Plane":false,"Cone":false,"Cylinder":true,"Box":[0.263,0.1005,-0.011,0.265,0.1225,0.011],"CylinderParameters":[0.273,0.1115,0,-1,0,0,0.011],"ConeParameters":null}
+[PP REMOVED FACE] {"Plane":false,"Cone":false,"Cylinder":true,"Box":[0.2635,0.09883358174755077,-0.00573868302024208,0.2660016200461712,0.1,0.00573868302024208],"CylinderParameters":[0,0,0,-1,-0,-0,0.1],"ConeParameters":null}
+[PP REMOVED FACE] {"Plane":false,"Cone":true,"Cylinder":false,"Box":[0.263,0.09883358174755077,-0.013000000000000012,0.2660016200461712,0.12450000000000001,0.013000000000000012],"CylinderParameters":null,"ConeParameters":[0.263,0.1115,0,-1,-0,-0,0.011,0.7853981633974509,0,0,-1]}
+[PP ISOLATED] 139,7345121859756; expected=139,73328938666825; whole delta=139,73419699794613
+[P-P BOOLEAN RECONSTRUCTION OK] 1 removed bodies rejoined; both differences empty (0/0).
+[TIFF PP OK] D22/X247..263; mouthD26/X265; 2x45; 99 samples.
+[TIFF HEALTH OK] active=349, suppressed=24, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\Tsapfa_TIFF_PP_CHAMFER_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\Tsapfa_TIFF_PP_CHAMFER_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-pp-chamfer\3222b4e8b52d43b484f16f61c904f3c3\Tsapfa_TIFF_PP_CHAMFER_WIP.SLDPRT

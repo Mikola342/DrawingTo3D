@@ -1,0 +1,40 @@
+{
+  "Status": "Unselected circular root candidates, NOT approved CAD or generated tool geometry",
+  "Source": "GOST 6033-51 table 1 pp.3-4: shaft transition diameter \u003C= mating internal tip diameter D-2m; R=0.47m is a rack value",
+  "MaxTransitionDiameter": 95,
+  "Candidates": [
+    {
+      "JoinDiameter": 94.1,
+      "FilletRadius": 0.09730667100889749,
+      "CentreX": 47.08850382777408,
+      "CentreY": 0.9105508908154019,
+      "JoinX": 47.039486093498965,
+      "JoinY": 0.9946095010190432,
+      "RootHalfAngle": 0.01933460083050272
+    },
+    {
+      "JoinDiameter": 94.5,
+      "FilletRadius": 0.4959684191112756,
+      "CentreX": 47.491026562578156,
+      "CentreY": 0.6851365569812962,
+      "JoinX": 47.236934872853936,
+      "JoinY": 1.1110732729014319,
+      "RootHalfAngle": 0.014425652178896579
+    },
+    {
+      "JoinDiameter": 95,
+      "FilletRadius": 1.0161290322580643,
+      "CentreX": 48.01451343210681,
+      "CentreY": 0.3938871925941574,
+      "JoinX": 47.48328301309992,
+      "JoinY": 1.2600929719095997,
+      "RootHalfAngle": 0.008203318724431839
+    }
+  ],
+  "Limitations": [
+    "All candidates use nominal root D94 and midpoint pitch thickness 5.3335.",
+    "Tangency and a transition diameter bound do not select a unique root.",
+    "Circular fillets are not proven to reproduce the actual manufacturing-tool envelope.",
+    "No candidate selected; no CAD model changed."
+  ]
+}

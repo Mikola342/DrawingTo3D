@@ -1,0 +1,21 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT",
+  "SourceSha256": "4F592E305EA5AA290E8AF6FED3FFEE154EA04B0BFF8DC74364EA5665DFF4ED75",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\verification\\b77029e8fdc44c879454bd704e3b86b4\\TIFF_II_VERIFY_b77029e8fdc44c879454bd704e3b86b4.SLDPRT",
+  "BuildReport": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\Tsapfa_TIFF_II_CHANNEL_WIP.json",
+  "BuildReportSha256": "81E290FE6A90E4C471C5A6B52CCEF61295DCF69A6C70D3E5D4936AB5C5A0EAC6",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "OpenWarnings": 0,
+  "VolumeMm3": 2036555.0972679686,
+  "Geometry": {
+    "Cylinders": 1,
+    "SharedEdgesWithD62Bore": 1,
+    "SharedEdgesWithD68Feed": 2,
+    "AxisChecked": true,
+    "ToolLengthVerifiedFromSavedParameters": false
+  },
+  "IsManufacturingReady": false,
+  "FullTiffConformanceChecked": false,
+  "Scope": "Focused saved-file check of the new II channel cylinder, bore/feed adjacency and volume. Right M8 absent; inherited body is not yet TIFF-rebuilt."
+}

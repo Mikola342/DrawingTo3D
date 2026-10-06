@@ -1,0 +1,7 @@
+System.IO.IOException: The process cannot access the file 'F:\Project\DrawingTo3D\CadTest\output\Tsapfa_TRIAL_ExtendedChannels_20260925_000906_371.SLDPRT' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.File.OpenHandle(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytes(String path)
+   at Program.<<Main>$>g__Hash|0_0(<>c__DisplayClass0_0&) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 122
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 123

@@ -1,0 +1,40 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_M12_Splines_20260924_233650_730.SLDPRT",
+  "IsManufacturingReady": false,
+  "Mode": "read-only-in-memory-M12-inspection",
+  "BaseGeometryChecked": true,
+  "SplineSurfacesChecked": true,
+  "ExactTotalVolumeChecked": false,
+  "Report": {
+    "Threads": [
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.9472192533935,
+        "MinRadius": 5.052784714610734,
+        "MaxRadius": 6.000001981934647,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      },
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.94721925339496,
+        "MinRadius": 5.052784714610729,
+        "MaxRadius": 6.000001981933177,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      }
+    ],
+    "ActualVolumeMm3": 2085124.757033329,
+    "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+  }
+}

@@ -1,0 +1,83 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.WIP.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.WIP.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.WIP.SLDPRT.
+[TRIAL] DRAWING_D19_01: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_02: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_03: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_04: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_05: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_06: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_07: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_08: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_09: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_10: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_11: D=19, finite length=18,000000.
+[TRIAL] DRAWING_D19_12: D=19, finite length=18,000000.
+[OK] Drawing D19: 12 cylinders, 72 samples, X247..265; PCD226/phase15.
+[OK] APPROX KG pilot 60: 66 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 66 samples, residual=0,000000000, end=7,000000.
+[OK] Saved feed 60: cylinder axis checked; 2 shared edges with correct D6.3 axis.
+[OK] Saved feed 120: cylinder axis checked; 2 shared edges with correct D6.3 axis.
+[AUDIT] M90 parameters: Type=C:\ProgramData\SolidWorks\SOLIDWORKS 2025\thread profiles\Metric Die.SLDLFP, Size=M16x2.0, Pitch=0,002, Depth=0,033, Reverse=False, Diameter=0,09, Override=True.
+[AUDIT] M90 progress: 4 faces, 528 edge samples.
+[AUDIT] M90 progress: 8 faces, 1056 edge samples.
+[AUDIT] M90 progress: 12 faces, 1584 edge samples.
+[AUDIT] M90 progress: 16 faces, 2112 edge samples.
+[AUDIT] M90 progress: 20 faces, 2640 edge samples.
+[AUDIT] M90 progress: 24 faces, 3201 edge samples.
+[AUDIT] M90 progress: 28 faces, 3729 edge samples.
+[AUDIT] M90 progress: 32 faces, 4257 edge samples.
+[AUDIT] M90 progress: 36 faces, 4785 edge samples.
+[AUDIT] M90 progress: 40 faces, 5313 edge samples.
+[AUDIT] M90 progress: 44 faces, 5841 edge samples.
+[AUDIT] M90 progress: 48 faces, 6369 edge samples.
+[AUDIT] M90 progress: 52 faces, 6897 edge samples.
+[AUDIT] M90: N=7194, X=5,000000..39,750000, R=43,917468..45,000000.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,150000000..3,999999997.
+[AUDIT] M8 face plane=True, R=3,150000000..3,970172298.
+[AUDIT] M8 60: 990 samples; S=0,000000000..6,014651388, R=3,150000000..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,585994461.
+[AUDIT] M8 face plane=True, R=3,150000000..3,585994461.
+[AUDIT] M8 face plane=True, R=3,150000000..3,999999997.
+[AUDIT] M8 120: 1089 samples; S=0,000000000..6,014651388, R=3,150000000..3,999999997.
+[AUDIT] Entry 60: cone=True, edge samples=258, nominal cone residual=0,000000027 mm, depth=0,000027750..1,000000000.
+[AUDIT] Entry 120: cone=True, edge samples=258, nominal cone residual=0,000000001 mm, depth=0,000006810..1,000000000.
+[LIMITATION] Channel 60: 1 edges at rear cavity floor X260; no sealed M8 seat claimed.
+[OK] Channel 60: correct D6.3/4deg and D6 axes; 1 shared intersection edges.
+[LIMITATION] Channel 120: 1 edges at rear cavity floor X260; no sealed M8 seat claimed.
+[OK] Channel 120: correct D6.3/4deg and D6 axes; 1 shared intersection edges.
+[OK] Одно твёрдое тело; объём 2034759,908 мм?.
+[OK] Координаты всех уступов наружного профиля и канала совпадают с параметрами.
+[OK] Left end: planes Y=39.5/-25 and transverse R35 at X=25/Y=74.5.
+[OK] Наружное скругление R3: центр X=89,86602540378443, радиус центра=53 мм.
+[OK] Наружное скругление R2: центр X=178,13397459621558, радиус центра=54,5 мм.
+[OK] Наружное скругление R2: центр X=213, радиус центра=57 мм.
+[OK] Наружное скругление R2: центр X=237, радиус центра=64,5 мм.
+[OK] Наружное скругление R2: центр X=239, радиус центра=68,32842712474618 мм.
+[OK] Наружное скругление R2: центр X=243, радиус центра=82,82842712474618 мм.
+[OK] Наружное скругление R2: центр X=245, радиус центра=94,82842712474618 мм.
+[OK] CAD: тороидальное дно Collar_groove_nominal, малый радиус R0,5.
+[OK] CAD-грани наружных цилиндров: O82/90/100/105/110/125/255/200 мм (включая заготовочные участки).
+[OK] CAD-грани: канал O62/68/78/90, 12 отверстий O19 на O226; шаг 30°, фаза 15° проверена по координатам.
+[OK] Местное отверстие O12: ось X, центр Y=-84/Z=0 мм.
+[OK] Separate P-P hole: D22, Y=111.5/Z=0, end edges X=247/265.
+[OK] APPROX DK: 195 samples, residual=0,000000000, D12 connections=1.
+[OK] D12 entry X245 retained; exit replaced by verified APPROX DK intersection.
+[INFO] Base geometry checked; exact total-volume comparison explicitly skipped for nominal thread TRIAL.
+[OK] Ошибки операций верхнего уровня не обнаружены. Это проверка DRAFT, не всего чертежа.
+[OK] Trial spline surfaces: 38 root faces, 76 fillet faces, 38 R50 runouts at X70.
+[OK] TRIAL_M12x1_75_7H_nominal_1: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[OK] TRIAL_M12x1_75_7H_nominal_2: 528 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT
+[SUCCESS] APPROX DK and KG pilot saved: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_APPROX_D19_DK_KGPrep_20260927_120251_016.SLDPRT

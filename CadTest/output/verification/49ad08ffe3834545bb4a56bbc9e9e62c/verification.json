@@ -1,0 +1,119 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_EntryCones_20260925_083117_656.SLDPRT",
+  "SourceSha256": "C9B43C94E35A73C6B4B156737F78FFEBBFFA12158FC88F1D2FEF22D239CE8153",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\verification\\49ad08ffe3834545bb4a56bbc9e9e62c\\SavedConeTrial_VERIFY_ONLY.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "OpenWarnings": 0,
+  "SavedBytesUnchanged": true,
+  "IsManufacturingReady": false,
+  "CheckedAtUtc": "2026-09-25T05:48:44.3326043Z",
+  "Report": {
+    "Cones": [
+      {
+        "AngleDegrees": 60,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.045466333698683026,
+              -0.026249999999999996,
+              -0,
+              -0.8660254037844387,
+              0.49999999999999983,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              -0.49999999999999983,
+              -0.8660254037844387
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 2.6523336860151403E-08,
+            "MinDepthFromTangentPlaneMm": 2.7749725951764503E-05,
+            "MaxDepthFromTangentPlaneMm": 1.0000000000000142
+          }
+        ]
+      },
+      {
+        "AngleDegrees": 120,
+        "Faces": [
+          {
+            "IsCone": true,
+            "ConeParametersSI": [
+              0.108,
+              0.045466333698683026,
+              0.02624999999999999,
+              -0,
+              -0.8660254037844384,
+              -0.5000000000000003,
+              0.0040000000000000036,
+              0.7853981633974483,
+              0,
+              0.5000000000000004,
+              -0.8660254037844386
+            ],
+            "EdgeSamples": 258,
+            "MaxNominalConeResidualMm": 6.984794964637331E-10,
+            "MinDepthFromTangentPlaneMm": 6.810075220187173E-06,
+            "MaxDepthFromTangentPlaneMm": 1.0000000000000213
+          }
+        ]
+      }
+    ],
+    "Channels": [
+      {
+        "AngleDegrees": 60,
+        "MainFaces": 2,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      },
+      {
+        "AngleDegrees": 120,
+        "MainFaces": 2,
+        "RadialFaces": 1,
+        "SharedEdges": 1,
+        "RearRecessFloorIntersectionEdges": 1,
+        "ClosedRearM8SeatVerified": false
+      }
+    ],
+    "M12": {
+      "Threads": [
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.9472192533935,
+          "MinRadius": 5.052784714610734,
+          "MaxRadius": 6.000001981934647,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        },
+        {
+          "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+          "Samples": 528,
+          "MinX": 247,
+          "MaxX": 263.94721925339496,
+          "MinRadius": 5.052784714610729,
+          "MaxRadius": 6.000001981933177,
+          "PitchMm": 1.75,
+          "RightHanded": true,
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M12x1.75",
+          "ReverseDirection": false
+        }
+      ],
+      "ActualVolumeMm3": 2074834.819460854,
+      "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+    },
+    "VolumeMm3": 2074834.819460854,
+    "BaseGeometryChecked": true,
+    "SplineSurfacesChecked": true,
+    "ExactTotalVolumeChecked": false
+  },
+  "Scope": "Reload of byte-identical saved copy. Checks selected trial geometry, not completeness against drawing, tolerances, mass, strength or sealing."
+}

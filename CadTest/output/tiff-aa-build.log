@@ -1,0 +1,38 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\TIFF_WORK_ef557f09684a4b76a190601a7a80029d.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\TIFF_WORK_ef557f09684a4b76a190601a7a80029d.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\TIFF_WORK_ef557f09684a4b76a190601a7a80029d.SLDPRT.
+[TEST OK] TIFF AA: radialX=132; crossing=248,065908059/50,165486997; nominal bore walls=7,664414/8,318090. Flat end is provisional.
+[TIFF AA] suppressed TRIAL_M8_thread_120
+[TIFF AA] suppressed TRIAL_M8_pilot_120
+[TIFF AA] suppressed TRIAL_D68_feed_120
+[TIFF AA] suppressed TRIAL_D6_entry_cone_120
+[TIFF AA] suppressed TRIAL_D6_radial_120
+[TIFF AA] suppressed TRIAL_D63_extended_120
+[TRIAL] TIFF_AA_D63_4deg: D=6,3, finite length=131,570499.
+[TRIAL] TIFF_AA_D6_X132: D=6, finite length=12,950632.
+[TRIAL] TIFF_AA_D68_7deg: D=6,8, finite length=81,441566.
+[TIFF AA OK] TIFF_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TRIAL] TIFF_AA_M8_PILOT_PENDING_LENGTH: D=6,646835306586815, finite length=6,014651.
+[DIAGNOSTIC] M8 isolated removal: V=36,877707209, bodies=2, samples=1755, R=3,323417653..3,999999997, S=0,000000000..6,014651388; whole-part delta=36,880378746.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,537197249.
+[AUDIT] M8 face plane=True, R=2,506126897..3,537197249.
+[AUDIT] M8 face plane=True, R=0,001465457..3,999999997.
+[AUDIT] M8 120: 957 samples; S=0,000000000..6,014651388, R=0,001465457..3,999999997.
+[TIFF AA OK] TIFF_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\Tsapfa_TIFF_AA_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\Tsapfa_TIFF_AA_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-aa\ef557f09684a4b76a190601a7a80029d\Tsapfa_TIFF_AA_WIP.SLDPRT

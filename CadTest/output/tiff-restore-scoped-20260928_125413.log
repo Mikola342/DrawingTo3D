@@ -1,0 +1,17 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\TIFF_WORK_8c96621b6fcd4f9ca4d0781e9b5cdf27.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\TIFF_WORK_8c96621b6fcd4f9ca4d0781e9b5cdf27.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\TIFF_WORK_8c96621b6fcd4f9ca4d0781e9b5cdf27.SLDPRT.
+[TEST OK] TIFF bore X181: annulus minus II overlap, volume=13783,695304478; refinement=0,000027191.
+[TEST OK] TIFF partial D80: volume=7659,202889452, main-channel gaps=5,884357/3,745886 mm. Rear D90 still uncorrected.
+[TEST OK] TIFF D80 restoration: volume=14686,945655532, M8 envelope gaps=1,221037/0,880332 mm.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=99.
+[TIFF BORE OK] D80: X=237,000000000..254,000000000, samples=66.
+[TIFF BORE OK] D90: X=254,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=99.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\Tsapfa_TIFF_BORE80_RESTORED_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\Tsapfa_TIFF_BORE80_RESTORED_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-bore-restored\8c96621b6fcd4f9ca4d0781e9b5cdf27\Tsapfa_TIFF_BORE80_RESTORED_WIP.SLDPRT

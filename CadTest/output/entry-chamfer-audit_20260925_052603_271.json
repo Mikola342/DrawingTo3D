@@ -1,0 +1,32 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_EntryChamfers_20260925_081939_127.SLDPRT",
+  "Scope": "Read-only in-memory face classification and sampled boundary residual against radial 45-degree cone with apex at R48.5. Not complete part acceptance.",
+  "Report": [
+    {
+      "AngleDegrees": 60,
+      "Faces": [
+        {
+          "IsCone": false,
+          "ConeParametersSI": null,
+          "EdgeSamples": 258,
+          "MaxNominalConeResidualMm": 0.14022496271921803,
+          "MinDepthFromTangentPlaneMm": 4.083823057499103E-08,
+          "MaxDepthFromTangentPlaneMm": 1.0331946953336768
+        }
+      ]
+    },
+    {
+      "AngleDegrees": 120,
+      "Faces": [
+        {
+          "IsCone": false,
+          "ConeParametersSI": null,
+          "EdgeSamples": 258,
+          "MaxNominalConeResidualMm": 0.14022496271958662,
+          "MinDepthFromTangentPlaneMm": 4.083823057499103E-08,
+          "MaxDepthFromTangentPlaneMm": 1.0331946953339894
+        }
+      ]
+    }
+  ]
+}

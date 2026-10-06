@@ -1,0 +1,39 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-mouth-trial\\43af27e441474ee5ab74795d8cae0bba\\UNVERIFIED_M8_MOUTHS.SLDPRT",
+  "SourceSha256": "892040FDA4C49A6E0F8CE88618BF157A12D7D45099FD3BADF5C1C30A48005EFD",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-helical-trial\\b10371e2c39e481ab431675ebd8aeb40\\UNVERIFIED_KG_HELICAL.SLDPRT",
+  "Result": {
+    "BeforeMm3": 1998546.4257616932,
+    "FinalMm3": 1998522.3941064628,
+    "Operations": [
+      {
+        "BranchDegrees": 60,
+        "VolumeMm3": 1998534.4099256808,
+        "Feature": "EXPERIMENT_KG_V60_HELICAL_CUT_60"
+      },
+      {
+        "BranchDegrees": 120,
+        "VolumeMm3": 1998522.3941064628,
+        "Feature": "EXPERIMENT_KG_V60_HELICAL_CUT_120"
+      }
+    ],
+    "Health": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998522.3941064628
+    },
+    "PitchMm": 0.9407407407407407,
+    "StartTmm": 2,
+    "EndTmm": 6,
+    "RadialToolDepthMm": 0.45,
+    "Profile": "Sharp experimental V60, no OST truncations",
+    "Accepted": false,
+    "FullProfileVerified": false,
+    "RequiresFreshVerification": true,
+    "DrawingInterpretationAccepted": false
+  },
+  "Accepted": false
+}

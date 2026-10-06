@@ -1,0 +1,13 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\TIFF_WORK_4ef7be6971c4403b900c28f9eb87c66f.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\TIFF_WORK_4ef7be6971c4403b900c28f9eb87c66f.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\TIFF_WORK_4ef7be6971c4403b900c28f9eb87c66f.SLDPRT.
+[TEST OK] TIFF bore X181: annulus minus II overlap, volume=13783,695304478; refinement=0,000027191.
+[TIFF BORE OK] D68: X=203,500000000..240,000000000, samples=66.
+[TRIAL] TIFF_BORE68_START_X181: D=68, finite length=22,500000.
+[TIFF BORE OK] D68: X=181,000000000..240,000000000, samples=99.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\Tsapfa_TIFF_BORE68_X181_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\Tsapfa_TIFF_BORE68_X181_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\m8-revision\5119a1083c334ab4b593d01f8ab3ff43\bore-revision\4ef7be6971c4403b900c28f9eb87c66f\Tsapfa_TIFF_BORE68_X181_WIP.SLDPRT

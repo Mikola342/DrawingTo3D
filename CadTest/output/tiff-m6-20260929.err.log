@@ -1,0 +1,4 @@
+System.InvalidOperationException: M6 thread parameters differ from requested nominal geometry.
+   at CadTest.Cad.SolidWorksService.InspectTiffM6Pattern() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 111
+   at CadTest.Cad.SolidWorksService.BuildTiffM6Pattern() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 89
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 61

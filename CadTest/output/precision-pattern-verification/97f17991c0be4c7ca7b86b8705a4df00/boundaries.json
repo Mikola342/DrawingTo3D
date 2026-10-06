@@ -1,0 +1,70 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6-pattern\\d7503ee7235642abb70af10eb348e18d\\Tsapfa_PRECISION_M6_M12.SLDPRT",
+  "SourceSha256": "BEC09682C1ECDAF1109F9000734AA0AD4FBC5244B4E74C23632CB84FD7698F5A",
+  "Mode": "--verify-precision-m6-profiles",
+  "Boundaries": {
+    "Threads": [
+      {
+        "Name": "M6_1",
+        "Start": 250,
+        "End": 264,
+        "Phase": 0,
+        "Sign": -1,
+        "SampleCount": 912,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 2.1366867782310465E-05,
+        "FailedPoints": [],
+        "SampledProfilePassed": true
+      },
+      {
+        "Name": "M6_2",
+        "Start": 250,
+        "End": 264,
+        "Phase": 0,
+        "Sign": -1,
+        "SampleCount": 912,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 2.136686698984824E-05,
+        "FailedPoints": [],
+        "SampledProfilePassed": true
+      },
+      {
+        "Name": "M6_3",
+        "Start": 250,
+        "End": 264,
+        "Phase": 0,
+        "Sign": -1,
+        "SampleCount": 912,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 2.1366870559764713E-05,
+        "FailedPoints": [],
+        "SampledProfilePassed": true
+      },
+      {
+        "Name": "M6_4",
+        "Start": 250,
+        "End": 264,
+        "Phase": 0,
+        "Sign": -1,
+        "SampleCount": 912,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 2.136686729012229E-05,
+        "FailedPoints": [],
+        "SampledProfilePassed": true
+      }
+    ],
+    "DiagnosticBudgetMm": 0.0001,
+    "GeometryChanged": false,
+    "ContinuousProfileCertified": false,
+    "Method": "Closest point on trimmed final faces at 16 angular phases and \u003C=P/4 axial spacing; prescribed construction phase 0, signed helix phase -1, no phase fitting"
+  },
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2440068265
+  },
+  "SavedBytesUnchanged": true
+}

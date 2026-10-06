@@ -1,0 +1,17 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_WIP_BASELINE_1751736db163482782bb2b44904205d8.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_WIP_BASELINE_1751736db163482782bb2b44904205d8.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_WIP_BASELINE_1751736db163482782bb2b44904205d8.SLDPRT.
+[TIFF] Suppressed reversibly: TRIAL_M8_thread_60
+[TIFF] Suppressed reversibly: TRIAL_M8_pilot_60
+[TIFF] Suppressed reversibly: TRIAL_D68_feed_60
+[TIFF] Suppressed reversibly: TRIAL_D6_entry_cone_60
+[TIFF] Suppressed reversibly: TRIAL_D6_radial_60
+[TIFF] Suppressed reversibly: TRIAL_D63_extended_60
+[TRIAL] TIFF_II_D63_10deg: D=6,3, finite length=110,000000.
+[TRIAL] TIFF_II_D68_feed_7deg: D=6,8, finite length=82,749202.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-revision\1751736db163482782bb2b44904205d8\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT

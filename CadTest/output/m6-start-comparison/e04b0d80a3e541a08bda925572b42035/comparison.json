@@ -1,0 +1,62 @@
+{
+  "Original": "F:\\Project\\DrawingTo3D\\CadTest\\output\\native-delivery\\f900181eb2a042feb8c9e12f4c07d3fd\\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT",
+  "OriginalSha256": "8FC8AF8C31B77A13C6E9E30C0AD5E741F247B7EB4A504A36DF9CAB2F036308E2",
+  "Revised": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m6-start-extension\\ea8dbdb5fc6746a09e63c932cabbbcc4\\Tsapfa_M6_START_TRIAL.SLDPRT",
+  "RevisedSha256": "9D321AFA4AF759FBCE75D0B06F630625EE327DA35424B706CEDECF9100D39DD9",
+  "Result": {
+    "AddedMaterial": false,
+    "RemovedComponents": [
+      {
+        "Hole": 2,
+        "MinXmm": 249,
+        "MaxXmm": 250.74999999726882,
+        "MinRadiusMm": 2.4587341226347057,
+        "MaxRadiusMm": 2.9999999976347356,
+        "EdgeSamples": 1548
+      },
+      {
+        "Hole": 3,
+        "MinXmm": 249,
+        "MaxXmm": 250.74999999726882,
+        "MinRadiusMm": 2.4587341226347093,
+        "MaxRadiusMm": 2.999999997634735,
+        "EdgeSamples": 1548
+      },
+      {
+        "Hole": 4,
+        "MinXmm": 249,
+        "MaxXmm": 250.74999999726882,
+        "MinRadiusMm": 2.458734122634702,
+        "MaxRadiusMm": 2.9999999976347405,
+        "EdgeSamples": 1548
+      },
+      {
+        "Hole": 1,
+        "MinXmm": 249,
+        "MaxXmm": 250.74999999726882,
+        "MinRadiusMm": 2.458734122634702,
+        "MaxRadiusMm": 2.999999997634742,
+        "EdgeSamples": 1548
+      }
+    ],
+    "Reconstruction": {
+      "RemovedBodyCount": 4,
+      "ForwardDifferenceEmpty": true,
+      "ReverseDifferenceEmpty": true,
+      "ForwardCode": 0,
+      "ReverseCode": 0
+    },
+    "Health": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.4655797763
+    },
+    "LocalityBudgetMm": 0.001,
+    "FullThreadProfileAccepted": false,
+    "Scope": "Exact body differences plus sampled boundaries; not continuous full-profile certification"
+  },
+  "SavedBytesUnchanged": true
+}

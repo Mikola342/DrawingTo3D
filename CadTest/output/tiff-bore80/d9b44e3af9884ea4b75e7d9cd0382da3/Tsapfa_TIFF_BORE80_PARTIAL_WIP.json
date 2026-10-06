@@ -1,0 +1,49 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\m8-revision\\5119a1083c334ab4b593d01f8ab3ff43\\bore-revision\\4ef7be6971c4403b900c28f9eb87c66f\\Tsapfa_TIFF_BORE68_X181_WIP.SLDPRT",
+  "SourceSha256": "55F365670E96C126A053A4F1AD810BCF76F97126B75784FD72188E7D86C7E708",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-bore80\\d9b44e3af9884ea4b75e7d9cd0382da3\\Tsapfa_TIFF_BORE80_PARTIAL_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2022713.0582214538,
+    "FinalMm3": 2015053.855332277,
+    "RemovedMm3": 7659.202889176784,
+    "ExpectedRemovedMm3": 7659.202889451915,
+    "Geometry": {
+      "D68": {
+        "DiameterMm": 68,
+        "MinimumX": 181,
+        "MaximumX": 237,
+        "Cylinders": 1,
+        "EdgeSamples": 99,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "D80": {
+        "DiameterMm": 80,
+        "MinimumX": 237,
+        "MaximumX": 254,
+        "Cylinders": 1,
+        "EdgeSamples": 66,
+        "RearEndStillHistorical": true,
+        "EntryR1MaxAccepted": false,
+        "DiameterToleranceAccepted": false
+      },
+      "FullRearBoreAccepted": false
+    },
+    "Channel": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "Bore80PartialRebuilt": true,
+    "Bore68StartRebuilt": true,
+    "RightM8Rebuilt": true,
+    "IsManufacturingReady": false,
+    "Scope": "TIFF D80 corrected only X237..254; legacy oversized D90 behind X254 needs material restoration. Detail L, fillets, tolerances and full body remain pending."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

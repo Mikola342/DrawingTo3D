@@ -1,0 +1,51 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6\\4a09e519bc1e4460b686d6685b63f9e3\\UNVERIFIED_PRECISION_M6.SLDPRT",
+  "SourceSha256": "01DDBFA86EF57250A101D2AEBBAB10785310966B1F59F2EB6CDBFA99D7FE8593",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6\\c612c63bb33847a18126516ee44ecf97\\UNVERIFIED_PRECISION_M6.SLDPRT",
+  "ModelSha256": "F7074A1E185B79700294CD823C834BAC74A910B3CC3E6562819B8FAA25BA3D4F",
+  "Result": {
+    "Health": {
+      "ActiveFeatures": 443,
+      "SuppressedFeatures": 35,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.3859680365
+    },
+    "Scope": "Direction-constrained precision sweep trial; not accepted until profile verification"
+  },
+  "Native": {
+    "BeforeHealth": {
+      "ActiveFeatures": 443,
+      "SuppressedFeatures": 35,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.385860617
+    },
+    "AfterHealth": {
+      "ActiveFeatures": 443,
+      "SuppressedFeatures": 35,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.385860617
+    },
+    "BeforeSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "AfterSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "BeforeVolumeMm3": 1998496.385860617,
+    "AfterVolumeMm3": 1998496.385860617,
+    "FreshSavedFileOpened": true,
+    "FullDrawingConformanceAccepted": false,
+    "UnresolvedValidationRetained": true
+  },
+  "Accepted": false
+}

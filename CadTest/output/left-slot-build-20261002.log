@@ -1,0 +1,11 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\SLOT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\SLOT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\SLOT_WORK.SLDPRT.
+[LEFT SLOT CHECK] floor39.5,R35 center25/74.5,width16,00000000000078;samples5742.
+[LEFT SLOT] width16; restored shoulder volume 2009,5733202900738 mm3.
+[TIFF HEALTH OK] active=425, suppressed=34, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\Tsapfa_LEFT_SLOT16.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\Tsapfa_LEFT_SLOT16.SLDPRT
+[LEFT SLOT SAVED; FRESH CHECK REQUIRED] F:\Project\DrawingTo3D\CadTest\output\left-slot\40ce6ede21804c3aa9d8f49f8bfc69ef\Tsapfa_LEFT_SLOT16.SLDPRT

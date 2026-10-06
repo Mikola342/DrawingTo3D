@@ -1,0 +1,19 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\L_EXPERIMENT_WORK.SLDPRT.
+[TRIAL] EXPERIMENT_II_FEED_CYLINDER: D=6,8, finite length=81,694123.
+[TRIAL] EXPERIMENT_II_FEED_POINT120: D=6,8, finite length=3,925982.
+[FEED POINT BUILT]II:added=2,2229882036335766,expected=2,2238653837897444
+[TRIAL] EXPERIMENT_AA_FEED_CYLINDER: D=6,8, finite length=79,833886.
+[TRIAL] EXPERIMENT_AA_FEED_POINT120: D=6,8, finite length=3,925982.
+[FEED POINT BUILT]AA:added=2,161349523346871,expected=2,161364671023627
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_POINT_CYLINDER: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] EXPERIMENT_AA_FEED_CYLINDER: cylinders=1, radial edges=0, feed edges=0.
+[TIFF HEALTH OK] active=410, suppressed=33, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\Tsapfa_EXPERIMENT_FEED_POINTS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\Tsapfa_EXPERIMENT_FEED_POINTS.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-feed-points\af853585e3e148398fc0d27515e68783\Tsapfa_EXPERIMENT_FEED_POINTS.SLDPRT

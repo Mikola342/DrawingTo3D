@@ -1,0 +1,315 @@
+{
+  "Status": "ON_HOLD_NEW_TIFF_SEPARATES_CHANNEL_SECTIONS",
+  "LengthCorrectionRecommendationOnHold": true,
+  "SourceReconciliation": {
+    "Status": "TIFF_PRIMARY_BY_EXPLICIT_USER_APPROVAL_REBUILD_PENDING",
+    "PrimarySource": "5309-2304083.tif (explicit user approval)",
+    "SupplementalSource": "chertezh_corrected_final.pdf (historical comparison only)",
+    "ObservedTiffSha256": "3ED767B3858A6E22BFE8B585949F95EB3505430C20C1D751CB95ACD6B804839E",
+    "ObservedPdfSha256": "0150AD1C642FFF0B73D54B7F2E2EE7C7E9B1815EF77E4B4C0890AA548AE04982",
+    "TiffSections": [
+      {
+        "Section": "A-A",
+        "AngleDegrees": 4,
+        "LengthMinMm": null,
+        "LengthMaxMm": null,
+        "Observation": "D6.3 linked to radial D6; 107 shown. The 110 callout is in I-I, not this section."
+      },
+      {
+        "Section": "I-I",
+        "AngleDegrees": 10,
+        "LengthMinMm": 110,
+        "LengthMaxMm": 111.4,
+        "Observation": "D6.3, 110 \u002B1.4, M8x1.25-6H; geometry suggests a different route toward the bore."
+      }
+    ],
+    "PdfObservation": "Visible PDF places 110 and 4 degrees together in A-A; its I-I depiction is reduced. TIFF is not an identical revision and cannot silently override PDF.",
+    "CurrentCadObservation": "Both branch angles 60/120 use the same 4-degree/160.641314 construction. This does not establish the two-section TIFF topology.",
+    "SectionBranchMapping": [
+      {
+        "Section": "A-A",
+        "EndViewLocation": "upper-left",
+        "AzimuthDegrees": 120,
+        "UnitY": 0.8660254037844387,
+        "UnitZ": 0.4999999999999998,
+        "TiffInclinationDegrees": 4
+      },
+      {
+        "Section": "I-I",
+        "EndViewLocation": "upper-right",
+        "AzimuthDegrees": 60,
+        "UnitY": 0.8660254037844386,
+        "UnitZ": -0.5000000000000001,
+        "TiffInclinationDegrees": 10
+      }
+    ],
+    "MappingScope": "Mapping in existing project end-view convention horizontal=-Z, vertical=Y, azimuth counterclockwise from image right. Not an independent SolidWorks camera/handedness inspection. TIFF distinguishes depicted5309-2304083 from mirrored5309-2304082; do not mirror implicitly.",
+    "ConditionalBoreProbes": [
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 152.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 260,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 150.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 4,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.56547047950988,
+        "InteriorPointRadius": 40.50566945303403,
+        "PointInsideAssumedD62Bore": false
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 110,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 157.26192052764407,
+        "InteriorPointRadius": 29.124135294614746,
+        "PointInsideAssumedD62Bore": true
+      },
+      {
+        "AngleDegrees": 10,
+        "LengthMm": 111.4,
+        "AssumedEntryX": 265,
+        "AssumedEntryRadius": 51,
+        "InteriorPointX": 155.88318967342698,
+        "InteriorPointRadius": 28.881027845881043,
+        "PointInsideAssumedD62Bore": true
+      }
+    ],
+    "ProbeScope": "Assume entry radius51 at X260 or X265 and central bore R31 over X3..181, with a flat-ended D6.3 cylinder. An interior-point witness demonstrates possible bore opening for this hypothesis only; entry datum, section angular mapping and actual TIFF/PDF topology remain unaccepted. No flow/seal/manufacturing acceptance.",
+    "LengthCorrectionProposalOnHold": true,
+    "SourcesInterchangeable": false,
+    "TransferToCadAuthorized": true,
+    "DrawingConformanceAccepted": false,
+    "AuthorityScope": "TIFF is primary for the part, not only channels. Existing PDF-based CAD and acceptance reports remain historical until rebuilt and checked against TIFF. Unknown datums are not authorized guesses."
+  },
+  "ProposalPreparationAuthorized": true,
+  "CadImplementationAuthorized": false,
+  "CountsAsOriginalDrawingConformance": false,
+  "IsManufacturingReady": false,
+  "GeometricMargins": {
+    "NominalConnection": {
+      "DrillUndershootMm": 0,
+      "TransverseAxisErrorBoundMm": 0,
+      "EndCapMarginMm": 0.26524401798433717,
+      "ContainmentMarginLowerBoundMm": 0.1499999999999999,
+      "FullDiskStrictlyContained": true
+    },
+    "RadialTerminalDiskAreaMm2": 28.274333882308138,
+    "UndershootSensitivity": [
+      {
+        "DrillUndershootMm": 0.1,
+        "TransverseAxisErrorBoundMm": 0,
+        "EndCapMarginMm": 0.16524401798433716,
+        "ContainmentMarginLowerBoundMm": 0.1499999999999999,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "DrillUndershootMm": 0.25,
+        "TransverseAxisErrorBoundMm": 0,
+        "EndCapMarginMm": 0.015244017984337166,
+        "ContainmentMarginLowerBoundMm": 0.1499999999999999,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "DrillUndershootMm": 0.3,
+        "TransverseAxisErrorBoundMm": 0,
+        "EndCapMarginMm": -0.03475598201566282,
+        "ContainmentMarginLowerBoundMm": 0.1499999999999999,
+        "FullDiskStrictlyContained": false
+      }
+    ],
+    "TransverseSensitivity": [
+      {
+        "DrillUndershootMm": 0,
+        "TransverseAxisErrorBoundMm": 0.1,
+        "EndCapMarginMm": 0.26524401798433717,
+        "ContainmentMarginLowerBoundMm": 0.049999999999999906,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "DrillUndershootMm": 0,
+        "TransverseAxisErrorBoundMm": 0.15,
+        "EndCapMarginMm": 0.26524401798433717,
+        "ContainmentMarginLowerBoundMm": -8.326672684688674E-17,
+        "FullDiskStrictlyContained": false
+      },
+      {
+        "DrillUndershootMm": 0,
+        "TransverseAxisErrorBoundMm": 0.2,
+        "EndCapMarginMm": 0.26524401798433717,
+        "ContainmentMarginLowerBoundMm": -0.0500000000000001,
+        "FullDiskStrictlyContained": false
+      }
+    ],
+    "AngularSensitivity": [
+      {
+        "AngleErrorDegrees": -0.5,
+        "AxisDisplacementAtDiskCentreMm": 1.373411634960041,
+        "MaximumDiskDistanceToAxisMm": 3.300502350149312,
+        "RadialContainmentMarginMm": -0.15050235014931213,
+        "BlindCapMarginMm": 0.26952445028277694,
+        "EntryCapMarginMm": 154.38298092669385,
+        "FullDiskStrictlyContained": false
+      },
+      {
+        "AngleErrorDegrees": -0.25,
+        "AxisDisplacementAtDiskCentreMm": 0.6867123544866995,
+        "MaximumDiskDistanceToAxisMm": 3.0779213299571873,
+        "RadialContainmentMarginMm": 0.07207867004281265,
+        "BlindCapMarginMm": 0.2658575753749286,
+        "EntryCapMarginMm": 154.38830305270127,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": -0.1,
+        "AxisDisplacementAtDiskCentreMm": 0.27468567394210197,
+        "MaximumDiskDistanceToAxisMm": 3.0126073241766944,
+        "RadialContainmentMarginMm": 0.1373926758233055,
+        "BlindCapMarginMm": 0.26512304078875504,
+        "EntryCapMarginMm": 154.39008545370544,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": -0.05,
+        "AxisDisplacementAtDiskCentreMm": 0.13734288926734273,
+        "MaximumDiskDistanceToAxisMm": 3.0031571730986677,
+        "RadialContainmentMarginMm": 0.1468428269013322,
+        "BlindCapMarginMm": 0.265122462663292,
+        "EntryCapMarginMm": 154.3904444383548,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": 0,
+        "AxisDisplacementAtDiskCentreMm": 1.7763568394002505E-15,
+        "MaximumDiskDistanceToAxisMm": 3,
+        "RadialContainmentMarginMm": 0.1499999999999999,
+        "BlindCapMarginMm": 0.2652440179843474,
+        "EntryCapMarginMm": 154.39068584796453,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": 0.05,
+        "AxisDisplacementAtDiskCentreMm": 0.1373428892673445,
+        "MaximumDiskDistanceToAxisMm": 3.0031579434240387,
+        "RadialContainmentMarginMm": 0.14684205657596117,
+        "BlindCapMarginMm": 0.26548770665935884,
+        "EntryCapMarginMm": 154.39080968235086,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": 0.1,
+        "AxisDisplacementAtDiskCentreMm": 0.2746856739421055,
+        "MaximumDiskDistanceToAxisMm": 3.0126134674570877,
+        "RadialContainmentMarginMm": 0.13738653254291222,
+        "BlindCapMarginMm": 0.26585352850273924,
+        "EntryCapMarginMm": 154.39081594141942,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": 0.25,
+        "AxisDisplacementAtDiskCentreMm": 0.6867123544866995,
+        "MaximumDiskDistanceToAxisMm": 3.078015281994961,
+        "RadialContainmentMarginMm": 0.07198471800503903,
+        "BlindCapMarginMm": 0.26768378979225327,
+        "EntryCapMarginMm": 154.39012926711865,
+        "FullDiskStrictlyContained": true
+      },
+      {
+        "AngleErrorDegrees": 0.5,
+        "AxisDisplacementAtDiskCentreMm": 1.3734116349600445,
+        "MaximumDiskDistanceToAxisMm": 3.3012032552572634,
+        "RadialContainmentMarginMm": -0.15120325525726352,
+        "BlindCapMarginMm": 0.27317684434899414,
+        "EntryCapMarginMm": 154.38663332076007,
+        "FullDiskStrictlyContained": false
+      }
+    ],
+    "AngularScope": "Main axis rotated in its nominal radial plane about fixed X265/R51; length fixed, radial terminal disk fixed. Exact ideal-cylinder full-disk containment, no diameter/position/length errors combined and no tool wander. Failure is not proof of complete disconnection.",
+    "MainD63ToBore": {
+      "X": 254,
+      "ToolRadiusMm": 3.15,
+      "BoreRadiusMm": 45,
+      "RadialGapLowerBoundMm": 2.0731130896656964
+    },
+    "M8MajorEnvelopeToBore": {
+      "X": 254,
+      "ToolRadiusMm": 4,
+      "BoreRadiusMm": 45,
+      "RadialGapLowerBoundMm": 1.2210374762967007
+    },
+    "Scope": "Nominal terminal-disk containment and axisymmetric bore radial-gap bounds before X260 only. Sensitivity inputs are NOT accepted tolerances. No strength, sealing, flow rate or minimum wall including all intersecting cuts established. A failed full-disk bound does not prove channels are disconnected. Rear cavity X260..265 excluded.",
+    "IsManufacturingReady": false
+  },
+  "Recommended": {
+    "Id": "A_KEEP_RADIAL_DATUM",
+    "RearConstructionPlaneX": 265,
+    "ShoulderX": 215,
+    "RadialHoleX": 108,
+    "BlindEndCentreX": 104.75,
+    "AngleDegrees": 4,
+    "OriginalInterpretedLengthMm": 110,
+    "ProposedConstructionCutLengthMm": 160.64131416750783,
+    "LengthIncreaseMm": 50.64131416750783,
+    "AxialAllowanceBeyondRadialCylinderMm": 0.25,
+    "NominalEndCapClearanceMm": 0.030267107706005297,
+    "OtherConstructionDatums": [
+      {
+        "ConstructionPlaneX": 254,
+        "LengthToSameEndCentreMm": 149.61445328861495
+      },
+      {
+        "ConstructionPlaneX": 260,
+        "LengthToSameEndCentreMm": 155.629104677102
+      },
+      {
+        "ConstructionPlaneX": 265,
+        "LengthToSameEndCentreMm": 160.64131416750783
+      }
+    ],
+    "MatchesExistingTrialParameters": true,
+    "Scope": "Dimension the existing experimental construction explicitly. X265 is a construction datum, not an established physical drill-entry surface; these lengths are not shop drilling depths. No new CAD geometry needed for this nominal proposal."
+  },
+  "AlternativeKeep110": {
+    "Id": "B_MOVE_RADIAL_HOLE",
+    "RadialHoleX": 158.51795447141933,
+    "ProposedHoleToShoulderMm": 56.48204552858067,
+    "HoleDisplacementMm": 50.51795447141933,
+    "Scope": "Algebraic alternative only, not CAD-tested or recommended. Changes 107 and the radial port position; connection to other features and function unverified."
+  },
+  "AlternativeMoveEntry": {
+    "Id": "C_MOVE_ENTRY",
+    "EntryConstructionX": 214.48204552858067,
+    "Scope": "Algebraic alternative only. Abandons rear entry and needs a new access/connection layout; not a drop-in correction."
+  },
+  "OpenDecisions": [
+    "Confirm physical entry datum and whether 110 denotes full drill depth, working length or another segment.",
+    "Select blind-end tool geometry, depth tolerance and required intersection allowance; 0.25 is a nominal modelling assumption only.",
+    "Check walls, thread seats, sealing, manufacturing access and flow; CAD connectivity alone is insufficient.",
+    "Retain original PDF unmodified; release any revised drawing only as a separately approved design revision."
+  ]
+}

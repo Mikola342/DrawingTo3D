@@ -1,0 +1,50 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\Tsapfa_TIFF_II_CHANNEL_WIP.SLDPRT",
+  "SourceSha256": "4F592E305EA5AA290E8AF6FED3FFEE154EA04B0BFF8DC74364EA5665DFF4ED75",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-revision\\1751736db163482782bb2b44904205d8\\m8-revision\\5119a1083c334ab4b593d01f8ab3ff43\\Tsapfa_TIFF_II_M8_NOMINAL_WIP.SLDPRT",
+  "Result": {
+    "BeforeMm3": 2036555.0972679686,
+    "AfterPilotMm3": 2036533.854640853,
+    "FinalMm3": 2036496.7555022186,
+    "Geometry": {
+      "Samples": 1122,
+      "MinAlongAxisMm": -1.0264011862659572E-13,
+      "MaxAlongAxisMm": 6.0925596713146435,
+      "MinRadiusMm": 0.0898517555945033,
+      "MaxRadiusMm": 3.9999999970434255,
+      "MinNonPlanarRadiusMm": 3.32341765329337,
+      "PlanarInteriorValidatedByBodyDifference": true,
+      "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+      "Size": "M8x1.25",
+      "Pitch": 0.00125,
+      "BlindDepth": 0.00609255967131447,
+      "ReverseDirection": false
+    },
+    "IsolatedRemoval": {
+      "RemovedMm3": 37.09522732838828,
+      "WholePartDeltaMm3": 37.09913863427937,
+      "RemovedBodies": 2,
+      "EdgeSamples": 2145,
+      "MinimumRadiusMm": 3.32341765329337,
+      "MaximumRadiusMm": 3.9999999970434303,
+      "MinimumAxialMm": -1.0264011862659572E-13,
+      "MaximumAxialMm": 6.0925596713146435,
+      "Scope": "Sampled edges of isolated removed solid bodies; not exact surface-extrema or tolerance certification."
+    },
+    "Channel": {
+      "Cylinders": 1,
+      "SharedEdgesWithD62Bore": 1,
+      "SharedEdgesWithD68Feed": 2,
+      "AxisChecked": true,
+      "ToolLengthVerifiedFromSavedParameters": false
+    },
+    "RightM8Rebuilt": true,
+    "TiffThreadLengthAccepted": false,
+    "Tolerance6HAccepted": false,
+    "IsManufacturingReady": false,
+    "Scope": "Nominal M8 restored on the 10-degree axis. Temporary X254..260 axial span retained from previous experiment, not read from TIFF; full profile length/runout/6H/sealing unaccepted. Inherited TIFF body conversion incomplete."
+  },
+  "GeometryChanged": true,
+  "IsManufacturingReady": false,
+  "TiffConformancePercent": null
+}

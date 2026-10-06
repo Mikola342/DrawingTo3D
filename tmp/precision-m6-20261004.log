@@ -1,0 +1,15 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\WORK_4a09e519bc1e4460b686d6685b63f9e3.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\WORK_4a09e519bc1e4460b686d6685b63f9e3.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\WORK_4a09e519bc1e4460b686d6685b63f9e3.SLDPRT.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.016,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":false,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0,"Offset":true,"OffsetDistance":0.001,"ReverseOffset":true,"MaintainThreadLength":true}
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\UNVERIFIED_PRECISION_M6.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\UNVERIFIED_PRECISION_M6.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\UNVERIFIED_PRECISION_M6.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\UNVERIFIED_PRECISION_M6.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6\4a09e519bc1e4460b686d6685b63f9e3\UNVERIFIED_PRECISION_M6.SLDPRT.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.

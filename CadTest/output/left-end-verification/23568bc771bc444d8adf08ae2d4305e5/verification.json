@@ -1,0 +1,86 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.SLDPRT",
+  "SourceSha256": "3DAE51B34AFF03B950D7F3D671050C2827A5CD9A5E9C0B97514840DA8019AA56",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-end-verification\\23568bc771bc444d8adf08ae2d4305e5\\LEFT_23568bc771bc444d8adf08ae2d4305e5.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "GeometryChanged": false,
+  "Result": {
+    "Measurements": [
+      {
+        "Name": "D82",
+        "Faces": 2,
+        "EdgeSamples": 520,
+        "MinimumXmm": 0,
+        "MaximumXmm": 3,
+        "MinimumRadiusMm": 40.99999999999999,
+        "MaximumRadiusMm": 41.00000000000001,
+        "MaximumEquationResidualMm": 7.105427357601002E-15
+      },
+      {
+        "Name": "Bottom20",
+        "Faces": 2,
+        "EdgeSamples": 520,
+        "MinimumXmm": 0,
+        "MaximumXmm": 3.0000000000000036,
+        "MinimumRadiusMm": 30.999999999999996,
+        "MaximumRadiusMm": 41.000000000000014,
+        "MaximumEquationResidualMm": 0
+      },
+      {
+        "Name": "SlotFloor",
+        "Faces": 1,
+        "EdgeSamples": 260,
+        "MinimumXmm": 0,
+        "MaximumXmm": 25,
+        "MinimumRadiusMm": 39.5,
+        "MaximumRadiusMm": 40.30198506277327,
+        "MaximumEquationResidualMm": 0
+      },
+      {
+        "Name": "Outer45",
+        "Faces": 1,
+        "EdgeSamples": 325,
+        "MinimumXmm": 2.9999999999999987,
+        "MaximumXmm": 5,
+        "MinimumRadiusMm": 42.99999999999999,
+        "MaximumRadiusMm": 45.00000000000001,
+        "MaximumEquationResidualMm": 1.4210854715202004E-14
+      },
+      {
+        "Name": "Bore30",
+        "Faces": 1,
+        "EdgeSamples": 260,
+        "MinimumXmm": 0,
+        "MaximumXmm": 3.0000000000000036,
+        "MinimumRadiusMm": 30.999999999999996,
+        "MaximumRadiusMm": 32.732050807568875,
+        "MaximumEquationResidualMm": 1.4210854715202004E-14
+      }
+    ],
+    "Slot": {
+      "WidthMm": 16.00000000000078,
+      "MinimumZMm": -8.00000000000039,
+      "MaximumZMm": 8.000000000000393,
+      "FloorFaces": 1,
+      "NegativeSideFaces": 1,
+      "PositiveSideFaces": 1,
+      "RunoutR35Faces": 1,
+      "EdgeSamples": 5742,
+      "FullLeftEndAccepted": false
+    },
+    "Bottom20ReferenceRadiusMm": 45,
+    "Slot845ReferenceRadiusMm": 45,
+    "BoreEntryAxialLengthSourceAccepted": false,
+    "RestoredShoulderIndependentVolumeVerified": false,
+    "FullLeftEndAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 425,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998688.6536454218
+  }
+}

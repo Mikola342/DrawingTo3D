@@ -1,0 +1,15 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\thread-sections\e0f1bea178bf4fb6a9e5bc5193929412\SECTIONS_e0f1bea178bf4fb6a9e5bc5193929412.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\e0f1bea178bf4fb6a9e5bc5193929412\SECTIONS_e0f1bea178bf4fb6a9e5bc5193929412.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\e0f1bea178bf4fb6a9e5bc5193929412\SECTIONS_e0f1bea178bf4fb6a9e5bc5193929412.SLDPRT.
+[THREAD PROFILE POINTS] M6_1: samples=912,slot=0,maxDistance=0,0007743019751473334,failed=570.
+[THREAD PROFILE POINTS] M6_2: samples=912,slot=0,maxDistance=0,0007743019752163785,failed=570.
+[THREAD PROFILE POINTS] M6_3: samples=912,slot=0,maxDistance=0,00077430197515999,failed=570.
+[THREAD PROFILE POINTS] M6_4: samples=912,slot=0,maxDistance=0,0007743019751414548,failed=570.
+[THREAD PROFILE POINTS] M12_1: samples=544,slot=0,maxDistance=0,0005023102666214601,failed=293.
+[THREAD PROFILE POINTS] M12_2: samples=544,slot=0,maxDistance=0,0005023102666825598,failed=293.
+[THREAD PROFILE POINTS] M90: samples=945,slot=63,maxDistance=0,2130360659013091,failed=693.
+[THREAD PROFILE POINTS] M8_II: samples=208,slot=0,maxDistance=0,0003582553843308884,failed=130.
+[THREAD PROFILE POINTS] M8_AA: samples=208,slot=0,maxDistance=0,001297625548526497,failed=66.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[THREAD SECTIONS REPORT] F:\Project\DrawingTo3D\CadTest\output\thread-sections\e0f1bea178bf4fb6a9e5bc5193929412

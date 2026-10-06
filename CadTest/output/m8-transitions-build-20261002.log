@@ -1,0 +1,13 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\L_EXPERIMENT_WORK.SLDPRT.
+[TEST OK] M8 experimental120deg pilot transition:h=0,10012272881118206,removed each=0,17497819614939802; no thread-length change.
+[TRIAL] EXPERIMENT_II_M8_TO_D63_120: D=6,646835306586815, finite length=0,200245.
+[TRIAL] EXPERIMENT_AA_M8_TO_D63_120: D=6,646835306586815, finite length=0,200245.
+[M8 TRANSITIONS OK] both pilot/D6.3 cones; temporary thread length unchanged.
+[TIFF HEALTH OK] active=425, suppressed=34, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-m8-transitions\e604b197e4904c94ab46937646d655af\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT

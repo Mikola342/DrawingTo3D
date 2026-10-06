@@ -1,0 +1,26 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\bca583b84ab74b039b91dc6c6f2bd2f3\VERIFY_bca583b84ab74b039b91dc6c6f2bd2f3.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\bca583b84ab74b039b91dc6c6f2bd2f3\VERIFY_bca583b84ab74b039b91dc6c6f2bd2f3.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\bca583b84ab74b039b91dc6c6f2bd2f3\VERIFY_bca583b84ab74b039b91dc6c6f2bd2f3.SLDPRT.
+[KG HELICAL PITCH] 60:span=4,0000132426719635,signedPitch=0,9407403513797071,fitResidual=6,113340379566312E-06.
+[KG HELICAL PITCH] 60:span=3,9999963000184238,signedPitch=0,940742880035097,fitResidual=1,4162778635330942E-05.
+[KG HELICAL PITCH] 60:span=4,0000132426719635,signedPitch=0,9407403513797071,fitResidual=6,113340379566312E-06.
+[KG HELICAL PITCH] 60:span=3,999997262721198,signedPitch=0,9407387991851345,fitResidual=1,374779930013414E-05.
+[KG HELICAL BOUNDS] 60:N=3598,t=1,7618103512474126..6,246938798005841,r=4,204783162562262..4,7575.
+[KG HELICAL PITCH] 120:span=4,000013242670635,signedPitch=0,9407403513797223,fitResidual=6,113337906382774E-06.
+[KG HELICAL PITCH] 120:span=3,999996300019074,signedPitch=0,9407428800352491,fitResidual=1,4162773363413905E-05.
+[KG HELICAL PITCH] 120:span=4,000013242670635,signedPitch=0,9407403513797223,fitResidual=6,113337906382774E-06.
+[KG HELICAL PITCH] 120:span=3,999997262721992,signedPitch=0,9407387991854188,fitResidual=1,3747797990807943E-05.
+[KG HELICAL BOUNDS] 120:N=3598,t=1,7618103512474137..6,246938798006508,r=4,204783162562228..4,757499999999994.
+[OK] APPROX KG pilot 60: 198 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 198 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 60: 198 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 198 samples, residual=0,000000000, end=7,000000.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_POINT_CYLINDER: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] EXPERIMENT_AA_RADIAL_CYLINDER: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] EXPERIMENT_AA_FEED_CYLINDER: cylinders=1, radial edges=0, feed edges=0.
+[OK] Drawing D19: 12 cylinders, 72 samples, X247..265; PCD226/phase15.
+[LEFT SLOT CHECK] floor39.5,R35 center25/74.5,width16,00000000000078;samples5742.
+[TIFF HEALTH OK] active=439, suppressed=34, one solid body.
+[KG HELICAL FRESH DIAGNOSTIC; NOT ACCEPTED] F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\bca583b84ab74b039b91dc6c6f2bd2f3\verification.json

@@ -1,0 +1,18 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[DIAGNOSTIC] M8 isolated removal: V=36,938600450, bodies=1, samples=975, R=3,323417653..3,999999997, S=0,000000000..6,364413083; whole-part delta=36,943162904.
+[AUDIT] M8 face plane=True, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,323417653..3,999999997.
+[AUDIT] M8 face plane=False, R=3,999999997..3,999999997.
+[AUDIT] M8 60: 594 samples; S=0,000000000..6,364413083, R=3,323417653..3,999999997.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TRIAL] TIFF_REAR_AA_M8_PILOT_PENDING_LENGTH: D=6,646835306586815, finite length=8,019535.
+[DIAGNOSTIC] M8 isolated removal: V=37,548535494, bodies=1, samples=780, R=3,323417653..3,999999997, S=-0,000000000..6,259652606; whole-part delta=37,561689521.

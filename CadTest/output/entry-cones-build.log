@@ -1,0 +1,94 @@
+[OK] Этап 16: отдельное отверстие Р-Р O22 при смещении 111,5, сквозь фланец 18 мм.
+[ASSUMPTION] X=245 согласован пользователем ВРЕМЕННО; это не подтверждённый размер чертежа.
+[DRAFT] Слева - заготовки под резьбу и шлицы; Д/К ещё отсутствует.
+[DRAFT] R0,5 построены; торец воротника X=265 выбран с нулевым отступом в пределах 1,6 max. Д/К ещё отсутствуют.
+[DRAFT] Малые фаски, канавки, шлицы и боковые каналы ещё не построены.
+[INFO] Автоматическое создание M90 приостановлено: длина 3 мм не подтверждена.
+[TEST OK] Rejected: old blind bore
+[TEST OK] Rejected: outer O105 used as bore
+[TEST OK] Rejected: 26 mm flange
+[TEST OK] Rejected: duplicate hole
+[TEST OK] Rejected: NaN
+[TEST OK] Rejected: unverified M90
+[TEST OK] Rejected: old O131 middle cylinder
+[TEST OK] Rejected: wrong O110 shoulder station
+[TEST OK] Rejected: old O188 middle cylinder
+[TEST OK] Rejected: wrong cone slope
+[TEST OK] Rejected: missing boss extent
+[TEST OK] Rejected: solid boss instead of annular
+[TEST OK] Rejected: missing boss chamfer
+[TEST OK] Rejected: wrong boss chamfer length
+[TEST OK] Rejected: missing external collar recess
+[TEST OK] Rejected: groove 3 mm instead of 3-2
+[TEST OK] Rejected: inverted groove radii
+[TEST OK] Rejected: groove cut through O90 collar
+[TEST OK] Rejected: missing R0.5
+[TEST OK] Rejected: overlapping root fillets
+[TEST OK] Rejected: negative root fillet
+[TEST OK] Rejected: missing O12
+[TEST OK] Rejected: missing separate P-P hole
+[TEST OK] Rejected: P-P mistaken for D15 pattern
+[TEST OK] Rejected: P-P placed on D226
+[TEST OK] Rejected: P-P on wrong side
+[TEST OK] Rejected: blind P-P
+[TEST OK] Rejected: P-P wrong thickness
+[TEST OK] Rejected: O12 on wrong side
+[TEST OK] Rejected: O12 on flange bolt circle
+[TEST OK] Rejected: blind O12
+[TEST OK] Rejected: wrong shoulder R2
+[TEST OK] Rejected: wrong shoulder arc direction
+[TEST OK] Rejected: wrong shoulder 30 degrees
+[TEST OK] Rejected: cone root below R2 min
+[TEST OK] Rejected: non-tangent cone root
+[TEST OK] Rejected: non-finite arc center
+[TEST OK] Rejected: reversed cone root
+[TEST OK] Rejected: wrong spline shoulder R3
+[TEST OK] Rejected: non-tangent spline shoulder
+[TEST OK] Rejected: reversed spline shoulder arc
+[TEST OK] Rejected: wrong spline shoulder cone
+[TEST OK] Rejected: lead-in angle measured from axis
+[TEST OK] Rejected: lead-in replaced by radial step
+[TEST OK] Rejected: wrong lead-in start station
+[TEST OK] Rejected: lead-in stops at root diameter
+[TEST OK] Rejected: missing left cuts
+[TEST OK] Rejected: 84.5 treated as diameter
+[TEST OK] Rejected: wrong flat length
+[TEST OK] Rejected: wrong R35 runout
+[TEST OK] Rejected: wrong bottom cut
+[TEST OK] Rejected: bottom cut extends into thread blank
+[TEST OK] Rejected: wrong O82 end
+[TEST OK] Rejected: missing external chamfer
+[TEST OK] Rejected: wrong right root
+[TEST OK] Rejected: wrong O131 start
+[TEST OK] Rejected: wrong 2 mm right step
+[TEST OK] Rejected: wrong right-step R2
+[TEST OK] Rejected: stale O12 intersection length
+[TEST OK] Rejected: missing bore entry chamfer
+[TEST OK] Rejected: wrong bore entry axial length
+[TEST OK] Rejected: entry 30 degrees to face instead of axis
+[TEST OK] Rejected: changed approved temporary station
+[TEST OK] Rejected: wrong O164 theoretical corner
+[TEST OK] Rejected: wrong flange-root R2
+[TEST OK] Rejected: historical O19 flange holes
+[TEST OK] Rejected: historical 90-degree flange phase
+[TEST OK] Valid stage16 draft + 67 regression cases passed without SolidWorks.
+[TEST OK] Analytical volume: 2104444,229236 mm?.
+[TEST OK] Spline: m2.5/z38, D95 pitch, rack shift, thickness, 1001 flank samples and tolerance.
+[TEST OK] Spline axial study: 1001 circle samples, endpoints, R35 overlap, R3 separation, 8 invalid inputs.
+[TEST OK] Spline root study: 1000 candidate tangencies, mirror clearance, 5 invalid joins.
+[TEST OK] Д/К: conditional sphere/cap checks, full depth tolerance interval, invalid inputs.
+[TEST OK] DK compound hypothesis: 1001 depth cases, join/opening/floor equations, projected containment, 5 invalid inputs.
+[TEST OK] Right transition candidates: continuity, arcs, circle overlap, convergence and station bounds.
+[TEST OK] M12 basic diameter, chamfer integral, clearances and signed edge intervals.
+[TEST OK] Channel trial: L=160,641314 instead of 110; 1000 connection samples; bore-wall lower bound 2,073113 mm.
+[TEST OK] Conditional M8 seat BEFORE floor: 2 datums, 2000 stations, 64000 ellipse samples, 5 invalid inputs. Not a thread or seal acceptance.
+[TEST OK] Channel mouth: 1000 rear stations and 5 invalid inputs; full M8 support absent only in tested X260..265 interval.
+[TEST OK] Rear port: 12 conditional candidates, 17280 tangency samples, 7 invalid inputs; minimum envelope interval 6,987363 mm (NOT thread length).
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_TRIAL_EntryCones_20260925_083004_869.WIP.SLDPRT; warnings=0.
+[LIMITATION] Channel 60: 1 edges at rear cavity floor X260; no sealed M8 seat claimed.
+[OK] Channel 60: correct D6.3/4deg and D6 axes; 1 shared intersection edges.
+[LIMITATION] Channel 120: 1 edges at rear cavity floor X260; no sealed M8 seat claimed.
+[OK] Channel 120: correct D6.3/4deg and D6 axes; 1 shared intersection edges.
+[TRIAL] TRIAL_D6_entry_cone_60: D=8, finite length=4,000000.

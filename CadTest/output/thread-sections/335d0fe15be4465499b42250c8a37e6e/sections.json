@@ -1,0 +1,33 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6\\c612c63bb33847a18126516ee44ecf97\\UNVERIFIED_PRECISION_M6.SLDPRT",
+  "SourceSha256": "F7074A1E185B79700294CD823C834BAC74A910B3CC3E6562819B8FAA25BA3D4F",
+  "Sections": {
+    "Threads": [
+      {
+        "Name": "M6_1",
+        "Start": 250,
+        "End": 264,
+        "Phase": 0,
+        "Sign": -1,
+        "SampleCount": 912,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 2.1366867782310465E-05,
+        "FailedPoints": [],
+        "SampledProfilePassed": true
+      }
+    ],
+    "DiagnosticBudgetMm": 0.0001,
+    "GeometryChanged": false,
+    "ContinuousProfileCertified": false,
+    "Method": "Closest point on trimmed final faces at 16 angular phases and \u003C=P/4 axial spacing; prescribed construction phase 0, signed helix phase -1, no phase fitting"
+  },
+  "Health": {
+    "ActiveFeatures": 443,
+    "SuppressedFeatures": 35,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998496.385860617
+  },
+  "SavedBytesUnchanged": true
+}

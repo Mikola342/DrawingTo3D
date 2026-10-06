@@ -1,0 +1,397 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_Splines_RootApprox_R50Disk_20260924_183038_883.SLDPRT",
+  "CheckedAtUtc": "2026-09-24T15:47:03.2647863Z",
+  "IsManufacturingReady": false,
+  "Mode": "read-only-in-memory-CAD-sketch-check",
+  "Accuracy": {
+    "Curves": 76,
+    "Samples": 9804,
+    "SamplesPerCurve": 129,
+    "MaximumSampledChordErrorMm": 1.1682921119533903E-09,
+    "InternalThresholdMm": 0.0001,
+    "MaximumPlaneErrorMm": 0,
+    "Scope": "Underlying CAD sketch curves driving the straight cut, in sketch coordinates. Same-radius chord comparison to analytic involute. Discrete samples, NOT a continuous supremum bound or finished-surface metrology. R50 sketches and trimmed B-rep surfaces not sampled here.",
+    "PerCurve": [
+      {
+        "Space": 0,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682505651515127E-09
+      },
+      {
+        "Space": 0,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682515543610813E-09
+      },
+      {
+        "Space": 1,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682433109480108E-09
+      },
+      {
+        "Space": 1,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682499056784673E-09
+      },
+      {
+        "Space": 2,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682525435706495E-09
+      },
+      {
+        "Space": 2,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682419920019194E-09
+      },
+      {
+        "Space": 3,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 3,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168244629894102E-09
+      },
+      {
+        "Space": 4,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168239354109737E-09
+      },
+      {
+        "Space": 4,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682551814628326E-09
+      },
+      {
+        "Space": 5,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 5,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682393541097367E-09
+      },
+      {
+        "Space": 6,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682499056784673E-09
+      },
+      {
+        "Space": 6,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682551814628324E-09
+      },
+      {
+        "Space": 7,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168244629894102E-09
+      },
+      {
+        "Space": 7,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168239354109737E-09
+      },
+      {
+        "Space": 8,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168239354109737E-09
+      },
+      {
+        "Space": 8,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682551814628324E-09
+      },
+      {
+        "Space": 9,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 9,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168244629894102E-09
+      },
+      {
+        "Space": 10,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168239354109737E-09
+      },
+      {
+        "Space": 10,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682393541097365E-09
+      },
+      {
+        "Space": 11,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 11,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682499056784668E-09
+      },
+      {
+        "Space": 12,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682340783253714E-09
+      },
+      {
+        "Space": 12,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 13,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168218250972275E-09
+      },
+      {
+        "Space": 13,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 14,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682446298941017E-09
+      },
+      {
+        "Space": 14,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 15,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 15,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682446298941017E-09
+      },
+      {
+        "Space": 16,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 16,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682393541097365E-09
+      },
+      {
+        "Space": 17,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168218250972275E-09
+      },
+      {
+        "Space": 17,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682657330315633E-09
+      },
+      {
+        "Space": 18,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682710088159285E-09
+      },
+      {
+        "Space": 18,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682551814628328E-09
+      },
+      {
+        "Space": 19,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682446298941017E-09
+      },
+      {
+        "Space": 19,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682446298941017E-09
+      },
+      {
+        "Space": 20,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682551814628328E-09
+      },
+      {
+        "Space": 20,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 21,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 21,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682340783253714E-09
+      },
+      {
+        "Space": 22,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682815603846596E-09
+      },
+      {
+        "Space": 22,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168218250972275E-09
+      },
+      {
+        "Space": 23,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682762846002945E-09
+      },
+      {
+        "Space": 23,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682076994035446E-09
+      },
+      {
+        "Space": 24,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682815603846596E-09
+      },
+      {
+        "Space": 24,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682340783253714E-09
+      },
+      {
+        "Space": 25,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 25,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682446298941017E-09
+      },
+      {
+        "Space": 26,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 26,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682499056784677E-09
+      },
+      {
+        "Space": 27,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682499056784673E-09
+      },
+      {
+        "Space": 27,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682551814628324E-09
+      },
+      {
+        "Space": 28,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682551814628328E-09
+      },
+      {
+        "Space": 28,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168234078325371E-09
+      },
+      {
+        "Space": 29,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682499056784673E-09
+      },
+      {
+        "Space": 29,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168228802541006E-09
+      },
+      {
+        "Space": 30,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168276284600294E-09
+      },
+      {
+        "Space": 30,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682499056784668E-09
+      },
+      {
+        "Space": 31,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682921119533903E-09
+      },
+      {
+        "Space": 31,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1681971478348135E-09
+      },
+      {
+        "Space": 32,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 32,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682235267566405E-09
+      },
+      {
+        "Space": 33,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682340783253714E-09
+      },
+      {
+        "Space": 33,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.168239354109737E-09
+      },
+      {
+        "Space": 34,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168218250972275E-09
+      },
+      {
+        "Space": 34,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682604572471982E-09
+      },
+      {
+        "Space": 35,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682868361690248E-09
+      },
+      {
+        "Space": 35,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682076994035444E-09
+      },
+      {
+        "Space": 36,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.168260457247198E-09
+      },
+      {
+        "Space": 36,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682340783253714E-09
+      },
+      {
+        "Space": 37,
+        "Side": -1,
+        "MaximumSampledChordErrorMm": 1.1682353972714625E-09
+      },
+      {
+        "Space": 37,
+        "Side": 1,
+        "MaximumSampledChordErrorMm": 1.1682512246245588E-09
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m12-entry-completion\\76689a7a312a46b9a128204b2acd01d5\\Tsapfa_M6_M12_ENDINGS.SLDPRT",
+  "SourceSha256": "9A19E8EC04A6F8E15A8570459AAF63A508F2435D35AE588F1B9E859B467D11E7",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6-pattern\\d7503ee7235642abb70af10eb348e18d\\Tsapfa_PRECISION_M6_M12.SLDPRT",
+  "ModelSha256": "BEC09682C1ECDAF1109F9000734AA0AD4FBC5244B4E74C23632CB84FD7698F5A",
+  "Changes": [
+    {
+      "Hole": 1,
+      "Build": {
+        "BeforeMm3": 1998478.2241134597,
+        "PilotMm3": 1998537.0630875442,
+        "AfterMm3": 1998478.1443942979,
+        "Health": {
+          "ActiveFeatures": 443,
+          "SuppressedFeatures": 35,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.1443942979
+        },
+        "Segments": 2048,
+        "Accepted": false,
+        "Scope": "One M6 replacement trial, native library feature retained suppressed; sampled final profile must pass before any propagation"
+      },
+      "Align": {
+        "Health": {
+          "ActiveFeatures": 443,
+          "SuppressedFeatures": 35,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.1445017175
+        },
+        "Scope": "Direction-constrained precision sweep trial; not accepted until profile verification"
+      }
+    },
+    {
+      "Hole": 2,
+      "Build": {
+        "BeforeMm3": 1998478.1445017175,
+        "PilotMm3": 1998536.9833627644,
+        "AfterMm3": 1998478.233430597,
+        "Health": {
+          "ActiveFeatures": 445,
+          "SuppressedFeatures": 36,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.233430597
+        },
+        "Segments": 2048,
+        "Accepted": false,
+        "Scope": "One M6 replacement trial, native library feature retained suppressed; sampled final profile must pass before any propagation"
+      },
+      "Align": {
+        "Health": {
+          "ActiveFeatures": 445,
+          "SuppressedFeatures": 36,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.233430597
+        },
+        "Scope": "Direction-constrained precision sweep trial; not accepted until profile verification"
+      }
+    },
+    {
+      "Hole": 3,
+      "Build": {
+        "BeforeMm3": 1998478.233430597,
+        "PilotMm3": 1998537.0723130603,
+        "AfterMm3": 1998478.2384412426,
+        "Health": {
+          "ActiveFeatures": 447,
+          "SuppressedFeatures": 37,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.2384412426
+        },
+        "Segments": 2048,
+        "Accepted": false,
+        "Scope": "One M6 replacement trial, native library feature retained suppressed; sampled final profile must pass before any propagation"
+      },
+      "Align": {
+        "Health": {
+          "ActiveFeatures": 447,
+          "SuppressedFeatures": 37,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.2385486567
+        },
+        "Scope": "Direction-constrained precision sweep trial; not accepted until profile verification"
+      }
+    },
+    {
+      "Hole": 4,
+      "Build": {
+        "BeforeMm3": 1998478.2385486567,
+        "PilotMm3": 1998537.0774166447,
+        "AfterMm3": 1998478.2440068265,
+        "Health": {
+          "ActiveFeatures": 449,
+          "SuppressedFeatures": 38,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.2440068265
+        },
+        "Segments": 2048,
+        "Accepted": false,
+        "Scope": "One M6 replacement trial, native library feature retained suppressed; sampled final profile must pass before any propagation"
+      },
+      "Align": {
+        "Health": {
+          "ActiveFeatures": 449,
+          "SuppressedFeatures": 38,
+          "ActiveErrors": 0,
+          "ActiveWarnings": 0,
+          "SolidBodies": 1,
+          "VolumeMm3": 1998478.2438994113
+        },
+        "Scope": "Direction-constrained precision sweep trial; not accepted until profile verification"
+      }
+    }
+  ],
+  "Native": {
+    "BeforeHealth": {
+      "ActiveFeatures": 449,
+      "SuppressedFeatures": 38,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998478.2440068265
+    },
+    "AfterHealth": {
+      "ActiveFeatures": 449,
+      "SuppressedFeatures": 38,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998478.2440068265
+    },
+    "BeforeSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "AfterSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "BeforeVolumeMm3": 1998478.2440068265,
+    "AfterVolumeMm3": 1998478.2440068265,
+    "FreshSavedFileOpened": true,
+    "FullDrawingConformanceAccepted": false,
+    "UnresolvedValidationRetained": true
+  },
+  "Accepted": false
+}

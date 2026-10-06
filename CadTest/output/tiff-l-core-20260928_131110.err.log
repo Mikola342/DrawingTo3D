@@ -1,0 +1,6 @@
+System.Runtime.InteropServices.COMException (0x80010108): Вызванный объект был отключен от клиентов. (0x80010108 (RPC_E_DISCONNECTED))
+   at SolidWorks.Interop.sldworks.IEdge.Evaluate2(Double Parameter, Int32 NumberOfDerivatives)
+   at CadTest.Cad.SolidWorksService.InspectTiffBoreCylinder(Double radius, Double expectedStart, Double expectedEnd, List`1 candidates) in F:\Project\DrawingTo3D\CadTest\Cad\TiffBoreRebuild.cs:line 92
+   at CadTest.Cad.SolidWorksService.InspectTiffDetailLCore() in F:\Project\DrawingTo3D\CadTest\Cad\TiffDetailL.cs:line 19
+   at CadTest.Cad.SolidWorksService.BuildTiffDetailLCore() in F:\Project\DrawingTo3D\CadTest\Cad\TiffDetailL.cs:line 43
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 29

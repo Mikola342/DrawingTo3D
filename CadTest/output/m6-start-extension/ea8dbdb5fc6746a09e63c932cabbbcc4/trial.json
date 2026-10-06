@@ -1,0 +1,692 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\native-delivery\\f900181eb2a042feb8c9e12f4c07d3fd\\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT",
+  "SourceSha256": "8FC8AF8C31B77A13C6E9E30C0AD5E741F247B7EB4A504A36DF9CAB2F036308E2",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m6-start-extension\\ea8dbdb5fc6746a09e63c932cabbbcc4\\Tsapfa_M6_START_TRIAL.SLDPRT",
+  "ModelSha256": "9D321AFA4AF759FBCE75D0B06F630625EE327DA35424B706CEDECF9100D39DD9",
+  "Result": {
+    "BeforeMm3": 1998512.3259902995,
+    "FinalMm3": 1998496.4656871918,
+    "RemovedMm3": 15.860303107649088,
+    "Threads": [
+      {
+        "Feature": "TIFF_M6_1_THREAD",
+        "Offset": true,
+        "OffsetDistance": 0.001,
+        "ReverseOffset": true,
+        "MaintainThreadLength": true,
+        "BlindDepth": 0.016,
+        "TrimStartFace": false,
+        "TrimEndFace": true
+      },
+      {
+        "Feature": "TIFF_M6_2_THREAD",
+        "Offset": true,
+        "OffsetDistance": 0.001,
+        "ReverseOffset": true,
+        "MaintainThreadLength": true,
+        "BlindDepth": 0.016,
+        "TrimStartFace": false,
+        "TrimEndFace": true
+      },
+      {
+        "Feature": "TIFF_M6_3_THREAD",
+        "Offset": true,
+        "OffsetDistance": 0.001,
+        "ReverseOffset": true,
+        "MaintainThreadLength": true,
+        "BlindDepth": 0.016,
+        "TrimStartFace": false,
+        "TrimEndFace": true
+      },
+      {
+        "Feature": "TIFF_M6_4_THREAD",
+        "Offset": true,
+        "OffsetDistance": 0.001,
+        "ReverseOffset": true,
+        "MaintainThreadLength": true,
+        "BlindDepth": 0.016,
+        "TrimStartFace": false,
+        "TrimEndFace": true
+      }
+    ],
+    "SourceConformanceAccepted": false,
+    "RunoutChoice": "One-pitch start extension into existing drill reserve; full profile requires measurement"
+  },
+  "Native": {
+    "BeforeHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.4655797763
+    },
+    "AfterHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998496.4655797763
+    },
+    "BeforeSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "AfterSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "BeforeVolumeMm3": 1998496.4655797763,
+    "AfterVolumeMm3": 1998496.4655797763,
+    "FreshSavedFileOpened": true,
+    "FullDrawingConformanceAccepted": false,
+    "UnresolvedValidationRetained": true
+  },
+  "Edges": {
+    "Threads": [
+      {
+        "Name": "TIFF_M6_1_THREAD",
+        "ExpectedPitchMm": 1,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635677,
+            "MinRadiusMm": 2.9999999976347094,
+            "MaxRadiusMm": 2.9999999976347413,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908457,
+              "MaximumAxialFitResidualMm": 0.0006320620030460058
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.5412658749999,
+            "MinRadiusMm": 2.999999997634714,
+            "MaxRadiusMm": 2.999999997634743,
+            "Fit": {
+              "SignedPitchMm": 1.00000063034992,
+              "MaximumAxialFitResidualMm": 0.0006325165485434221
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249,
+            "MaxXmm": 263.99999999999835,
+            "MinRadiusMm": 2.45873412263471,
+            "MaxRadiusMm": 2.458734122634739,
+            "Fit": {
+              "SignedPitchMm": 1.0000005207908602,
+              "MaximumAxialFitResidualMm": 0.000630966562748176
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635677,
+            "MinRadiusMm": 2.9999999976347094,
+            "MaxRadiusMm": 2.9999999976347413,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908457,
+              "MaximumAxialFitResidualMm": 0.0006320620030460058
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.5412658749999,
+            "MinRadiusMm": 2.999999997634714,
+            "MaxRadiusMm": 2.999999997634743,
+            "Fit": {
+              "SignedPitchMm": 1.00000063034992,
+              "MaximumAxialFitResidualMm": 0.0006325165485434221
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.74999999726882,
+            "MaxXmm": 264.00000000000085,
+            "MinRadiusMm": 2.4587341226347053,
+            "MaxRadiusMm": 2.458734122634739,
+            "Fit": {
+              "SignedPitchMm": 1.000000678665167,
+              "MaximumAxialFitResidualMm": 0.0006324951503142063
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TIFF_M6_2_THREAD",
+        "ExpectedPitchMm": 1,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635694,
+            "MinRadiusMm": 2.999999997634705,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.0000006129084569,
+              "MaximumAxialFitResidualMm": 0.000632062003168139
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.541265875,
+            "MinRadiusMm": 2.999999997634698,
+            "MaxRadiusMm": 2.9999999976347382,
+            "Fit": {
+              "SignedPitchMm": 1.000000630349921,
+              "MaximumAxialFitResidualMm": 0.0006325165484823558
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249,
+            "MaxXmm": 263.9999999999997,
+            "MinRadiusMm": 2.458734122634708,
+            "MaxRadiusMm": 2.4587341226347403,
+            "Fit": {
+              "SignedPitchMm": 1.0000005207908593,
+              "MaximumAxialFitResidualMm": 0.0006309665627674
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635694,
+            "MinRadiusMm": 2.999999997634705,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.0000006129084569,
+              "MaximumAxialFitResidualMm": 0.000632062003168139
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.541265875,
+            "MinRadiusMm": 2.999999997634698,
+            "MaxRadiusMm": 2.9999999976347382,
+            "Fit": {
+              "SignedPitchMm": 1.000000630349921,
+              "MaximumAxialFitResidualMm": 0.0006325165484823558
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.74999999726882,
+            "MaxXmm": 263.99999999999955,
+            "MinRadiusMm": 2.458734122634706,
+            "MaxRadiusMm": 2.458734122634739,
+            "Fit": {
+              "SignedPitchMm": 1.0000006786651636,
+              "MaximumAxialFitResidualMm": 0.0006324951502893253
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TIFF_M6_3_THREAD",
+        "ExpectedPitchMm": 1,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635694,
+            "MinRadiusMm": 2.9999999976347076,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908457,
+              "MaximumAxialFitResidualMm": 0.0006320620031093342
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.5412658750001,
+            "MinRadiusMm": 2.9999999976347036,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.0000006303499198,
+              "MaximumAxialFitResidualMm": 0.0006325165485694318
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249,
+            "MaxXmm": 264.0000000000004,
+            "MinRadiusMm": 2.4587341226347075,
+            "MaxRadiusMm": 2.458734122634741,
+            "Fit": {
+              "SignedPitchMm": 1.0000005207908562,
+              "MaximumAxialFitResidualMm": 0.0006309665627809685
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.54126588635694,
+            "MinRadiusMm": 2.9999999976347076,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908457,
+              "MaximumAxialFitResidualMm": 0.0006320620031093342
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.5412658750001,
+            "MinRadiusMm": 2.9999999976347036,
+            "MaxRadiusMm": 2.999999997634738,
+            "Fit": {
+              "SignedPitchMm": 1.0000006303499198,
+              "MaximumAxialFitResidualMm": 0.0006325165485694318
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.74999999726882,
+            "MaxXmm": 264.00000000000153,
+            "MinRadiusMm": 2.458734122634707,
+            "MaxRadiusMm": 2.458734122634738,
+            "Fit": {
+              "SignedPitchMm": 1.000000678665166,
+              "MaximumAxialFitResidualMm": 0.0006324951503402157
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TIFF_M6_4_THREAD",
+        "ExpectedPitchMm": 1,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.5412658863567,
+            "MinRadiusMm": 2.9999999976347094,
+            "MaxRadiusMm": 2.9999999976347422,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908458,
+              "MaximumAxialFitResidualMm": 0.0006320620030573149
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.54126587499985,
+            "MinRadiusMm": 2.999999997634711,
+            "MaxRadiusMm": 2.9999999976347396,
+            "Fit": {
+              "SignedPitchMm": 1.0000006303499196,
+              "MaximumAxialFitResidualMm": 0.0006325165486010959
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249,
+            "MaxXmm": 264,
+            "MinRadiusMm": 2.458734122634712,
+            "MaxRadiusMm": 2.458734122634738,
+            "Fit": {
+              "SignedPitchMm": 1.000000520790857,
+              "MaximumAxialFitResidualMm": 0.0006309665626599665
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 249.31249999863442,
+            "MaxXmm": 264.5412658863567,
+            "MinRadiusMm": 2.9999999976347094,
+            "MaxRadiusMm": 2.9999999976347422,
+            "Fit": {
+              "SignedPitchMm": 1.000000612908458,
+              "MaximumAxialFitResidualMm": 0.0006320620030573149
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.4374999986344,
+            "MaxXmm": 264.54126587499985,
+            "MinRadiusMm": 2.999999997634711,
+            "MaxRadiusMm": 2.9999999976347396,
+            "Fit": {
+              "SignedPitchMm": 1.0000006303499196,
+              "MaximumAxialFitResidualMm": 0.0006325165486010959
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 249.74999999726882,
+            "MaxXmm": 264.00000000000006,
+            "MinRadiusMm": 2.4587341226347044,
+            "MaxRadiusMm": 2.458734122634738,
+            "Fit": {
+              "SignedPitchMm": 1.0000006786651643,
+              "MaximumAxialFitResidualMm": 0.0006324951503877109
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_1",
+        "ExpectedPitchMm": 1.75,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 247.54687499761022,
+            "MaxXmm": 263.9472192533935,
+            "MinRadiusMm": 5.999999995860732,
+            "MaxRadiusMm": 5.999999995860798,
+            "Fit": {
+              "SignedPitchMm": 1.750000753509058,
+              "MaximumAxialFitResidualMm": 0.0005629569110581283
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 247.76562499761022,
+            "MaxXmm": 263.9472186228136,
+            "MinRadiusMm": 5.999999995860722,
+            "MaxRadiusMm": 5.999999995860798,
+            "Fit": {
+              "SignedPitchMm": 1.7499999944702984,
+              "MaximumAxialFitResidualMm": 0.0005612796558064475
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 247,
+            "MaxXmm": 263.00000930181056,
+            "MinRadiusMm": 5.052784714610713,
+            "MaxRadiusMm": 5.052784714610812,
+            "Fit": {
+              "SignedPitchMm": 1.7499999537001796,
+              "MaximumAxialFitResidualMm": 0.0005615755174238377
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 247.54687499761022,
+            "MaxXmm": 263.9472192533935,
+            "MinRadiusMm": 5.999999995860732,
+            "MaxRadiusMm": 5.999999995860798,
+            "Fit": {
+              "SignedPitchMm": 1.750000753509058,
+              "MaximumAxialFitResidualMm": 0.0005629569110581283
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 247.76562499761022,
+            "MaxXmm": 263.9472186228136,
+            "MinRadiusMm": 5.999999995860722,
+            "MaxRadiusMm": 5.999999995860798,
+            "Fit": {
+              "SignedPitchMm": 1.7499999944702984,
+              "MaximumAxialFitResidualMm": 0.0005612796558064475
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 248.31249999522043,
+            "MaxXmm": 263.0000094108761,
+            "MinRadiusMm": 5.052784714610736,
+            "MaxRadiusMm": 5.052784714610806,
+            "Fit": {
+              "SignedPitchMm": 1.7500016020565863,
+              "MaximumAxialFitResidualMm": 0.0005654826979732088
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TRIAL_M12x1_75_7H_nominal_2",
+        "ExpectedPitchMm": 1.75,
+        "Edges": [
+          {
+            "Face": 0,
+            "MinXmm": 247.54687499761022,
+            "MaxXmm": 263.94721925339496,
+            "MinRadiusMm": 5.999999995860723,
+            "MaxRadiusMm": 5.9999999958607955,
+            "Fit": {
+              "SignedPitchMm": 1.7500007535090583,
+              "MaximumAxialFitResidualMm": 0.0005629569111234358
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 0,
+            "MinXmm": 247.76562499761022,
+            "MaxXmm": 263.9472186228145,
+            "MinRadiusMm": 5.999999995860731,
+            "MaxRadiusMm": 5.999999995860797,
+            "Fit": {
+              "SignedPitchMm": 1.749999994470298,
+              "MaximumAxialFitResidualMm": 0.0005612796557282764
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 247,
+            "MaxXmm": 263.000009301811,
+            "MinRadiusMm": 5.052784714610716,
+            "MaxRadiusMm": 5.052784714610815,
+            "Fit": {
+              "SignedPitchMm": 1.749999953700176,
+              "MaximumAxialFitResidualMm": 0.0005615755175168502
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 1,
+            "MinXmm": 247.54687499761022,
+            "MaxXmm": 263.94721925339496,
+            "MinRadiusMm": 5.999999995860723,
+            "MaxRadiusMm": 5.9999999958607955,
+            "Fit": {
+              "SignedPitchMm": 1.7500007535090583,
+              "MaximumAxialFitResidualMm": 0.0005629569111234358
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 247.76562499761022,
+            "MaxXmm": 263.9472186228145,
+            "MinRadiusMm": 5.999999995860731,
+            "MaxRadiusMm": 5.999999995860797,
+            "Fit": {
+              "SignedPitchMm": 1.749999994470298,
+              "MaximumAxialFitResidualMm": 0.0005612796557282764
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          },
+          {
+            "Face": 2,
+            "MinXmm": 248.31249999522043,
+            "MaxXmm": 263.00000941087575,
+            "MinRadiusMm": 5.05278471461073,
+            "MaxRadiusMm": 5.052784714610806,
+            "Fit": {
+              "SignedPitchMm": 1.7500016020565863,
+              "MaximumAxialFitResidualMm": 0.0005654826980691908
+            },
+            "MeanPitchMatches": true,
+            "LocalResidualWithinBudget": false,
+            "NormalChecks": []
+          }
+        ],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      },
+      {
+        "Name": "TRIAL_M90x2_X5_to_X38",
+        "ExpectedPitchMm": 2,
+        "Edges": [],
+        "DuplicateSharedEdgesIncluded": true,
+        "FullProfileAccepted": false
+      }
+    ],
+    "SamplesPerEdge": 513,
+    "ShortM90": false,
+    "DiagnosticBudgetMm": 0.0001,
+    "BudgetIsDrawingTolerance": false,
+    "GeometryChanged": false,
+    "Accepted": false
+  },
+  "Points": {
+    "Points": [
+      {
+        "Hole": 1,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 2,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 3,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 4,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      }
+    ],
+    "IncludedAngleDegrees": 120,
+    "TotalDepthMm": 22,
+    "CylinderDepthMm": 20.580449192431132,
+    "ExperimentalPointsBuilt": true,
+    "DrawingPointAngleAccepted": false,
+    "FullProfileRunoutAccepted": false
+  },
+  "Accepted": false
+}

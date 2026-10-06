@@ -1,0 +1,113 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m8-transitions\\e604b197e4904c94ab46937646d655af\\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT",
+  "SourceSha256": "30BFB8F43B63D575850F3DA3F446B4E085EEC2ACBC1DE2609F58A10DC150F277",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.SLDPRT",
+  "ModelSha256": "3DAE51B34AFF03B950D7F3D671050C2827A5CD9A5E9C0B97514840DA8019AA56",
+  "GeometryChanged": true,
+  "Result": {
+    "BeforeMm3": 1996679.4302463902,
+    "FinalMm3": 1998688.6536454218,
+    "Steps": [
+      {
+        "Channel": "II",
+        "RemovedMm3": 0.17494306177832186,
+        "ExpectedMm3": 0.17497819614939802,
+        "VolumeBudgetMm3": 0.003
+      },
+      {
+        "Channel": "AA",
+        "RemovedMm3": 0.17497819662094116,
+        "ExpectedMm3": 0.17497819614939802,
+        "VolumeBudgetMm3": 0.003
+      }
+    ],
+    "Transitions": {
+      "Transitions": [
+        {
+          "Channel": "II",
+          "Base": [
+            259,
+            43.25107372500953,
+            -24.971019057874614
+          ],
+          "HeightMm": 0.10012272881118206,
+          "MinimumStationMm": -3.002736947976814E-13,
+          "MaximumStationMm": 0.10012272881110426,
+          "EdgeSamples": 130
+        },
+        {
+          "Channel": "AA",
+          "Base": [
+            259,
+            43.80394521971395,
+            25.29021956416946
+          ],
+          "HeightMm": 0.10012272881118206,
+          "MinimumStationMm": -2.8744367996935694E-13,
+          "MaximumStationMm": 0.1001227288110239,
+          "EdgeSamples": 130
+        }
+      ],
+      "IncludedAngleDegrees": 120,
+      "ThreadLengthChanged": false,
+      "ThreadRunoutAccepted": false,
+      "DrawingAngleAccepted": false
+    },
+    "Health": {
+      "ActiveFeatures": 425,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1996679.0803251318
+    },
+    "ExperimentalM8TransitionsBuilt": true,
+    "ExperimentalRadialPointBuilt": true,
+    "ExperimentalFeedPointsBuilt": true,
+    "ExperimentalChannelPointsBuilt": true,
+    "ExperimentalM6PointsBuilt": true,
+    "ExperimentalLProfileCompleted": true,
+    "ExperimentalLExitBuilt": true,
+    "PpChamferBuilt": true,
+    "M6PatternBuilt": true,
+    "RearCollarRebuilt": true,
+    "OuterProfileRebuilt": true,
+    "AaChannelRebuilt": true,
+    "RightM8Rebuilt": true,
+    "LeftM8Rebuilt": true,
+    "Bore68StartRebuilt": true,
+    "Bore80PartialRebuilt": true,
+    "Bore80Restored": true,
+    "DetailLCoreBuilt": true,
+    "IsManufacturingReady": false,
+    "DrawingInterpretationAccepted": false,
+    "LeftSlotWidthCorrected": true,
+    "LeftSlotCorrection": {
+      "BeforeMm3": 1996679.0803251318,
+      "FinalMm3": 1998688.6536454218,
+      "RestoredShouldersMm3": 2009.5733202900738,
+      "LeftSlotWidthCorrected": true,
+      "Geometry": {
+        "WidthMm": 16.00000000000078,
+        "MinimumZMm": -8.00000000000039,
+        "MaximumZMm": 8.000000000000393,
+        "FloorFaces": 1,
+        "NegativeSideFaces": 1,
+        "PositiveSideFaces": 1,
+        "RunoutR35Faces": 1,
+        "EdgeSamples": 5742,
+        "FullLeftEndAccepted": false
+      },
+      "Health": {
+        "ActiveFeatures": 425,
+        "SuppressedFeatures": 34,
+        "ActiveErrors": 0,
+        "ActiveWarnings": 0,
+        "SolidBodies": 1,
+        "VolumeMm3": 1998688.6536454218
+      },
+      "FullLeftEndAccepted": false
+    }
+  },
+  "FullTiffConformanceChecked": false
+}

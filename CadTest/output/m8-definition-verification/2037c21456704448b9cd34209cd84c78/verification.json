@@ -1,0 +1,45 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m8-transitions\\e604b197e4904c94ab46937646d655af\\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT",
+  "SourceSha256": "30BFB8F43B63D575850F3DA3F446B4E085EEC2ACBC1DE2609F58A10DC150F277",
+  "VerifiedCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-definition-verification\\2037c21456704448b9cd34209cd84c78\\M8_VERIFY.SLDPRT",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "GeometryChanged": false,
+  "Result": {
+    "Definitions": [
+      {
+        "Feature": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.00609255967131447,
+        "DiameterOverride": false,
+        "PitchOverride": true,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true
+      },
+      {
+        "Feature": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M8x1.25",
+        "Pitch": 0.00125,
+        "BlindDepth": 0.0060146513884870335,
+        "DiameterOverride": false,
+        "PitchOverride": true,
+        "RightHanded": true,
+        "MultipleStart": false,
+        "ReverseDirection": false,
+        "TrimStartFace": true,
+        "TrimEndFace": true
+      }
+    ],
+    "NominalLibraryContractChecked": true,
+    "FullProfileLengthVerified": false,
+    "RunoutVerified": false,
+    "Tolerance6HVerified": false,
+    "GeometryChanged": false
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "IsManufacturingReady": false,
+  "IsConditional": true,
+  "Basis": "A-A: D6.8, 7 degrees, 7.5 \u002B/-0.45. Candidate entry at X265-offset and R127..127.5; coplanar with trial main axis. Entry surface and angular registration are NOT accepted drawing datums.",
+  "Candidates": [
+    {
+      "Offset": 7.05,
+      "EntryRadius": 127,
+      "MainAnchorX": 260,
+      "IntersectionX": 248.51980518905557,
+      "IntersectionRadius": 50.197226576380224,
+      "DistanceFromFloorAlongMainAxis": 11.508228276624754,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.267070277226153,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 6.987363029452111
+    },
+    {
+      "Offset": 7.5,
+      "EntryRadius": 127,
+      "MainAnchorX": 260,
+      "IntersectionX": 248.06590805875135,
+      "IntersectionRadius": 50.16548699710774,
+      "DistanceFromFloorAlongMainAxis": 11.96323377746052,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.722075778061918,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.442368530287877
+    },
+    {
+      "Offset": 7.95,
+      "EntryRadius": 127,
+      "MainAnchorX": 260,
+      "IntersectionX": 247.61201092844715,
+      "IntersectionRadius": 50.13374741783526,
+      "DistanceFromFloorAlongMainAxis": 12.418239278296259,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 8.177081278897656,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.897374031123615
+    },
+    {
+      "Offset": 7.05,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 260,
+      "IntersectionX": 248.45788123367834,
+      "IntersectionRadius": 50.19289643159776,
+      "DistanceFromFloorAlongMainAxis": 11.570303443989806,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.329145444591204,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.049438196817163
+    },
+    {
+      "Offset": 7.5,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 260,
+      "IntersectionX": 248.00398410337414,
+      "IntersectionRadius": 50.161156852325284,
+      "DistanceFromFloorAlongMainAxis": 12.025308944825545,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.784150945426943,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.504443697652902
+    },
+    {
+      "Offset": 7.95,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 260,
+      "IntersectionX": 247.55008697306994,
+      "IntersectionRadius": 50.1294172730528,
+      "DistanceFromFloorAlongMainAxis": 12.480314445661284,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 8.239156446262683,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.959449198488642
+    },
+    {
+      "Offset": 7.05,
+      "EntryRadius": 127,
+      "MainAnchorX": 265,
+      "IntersectionX": 248.47650374123094,
+      "IntersectionRadius": 49.84456458446376,
+      "DistanceFromFloorAlongMainAxis": 11.55163546217174,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.310477462773139,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.030770214999097
+    },
+    {
+      "Offset": 7.5,
+      "EntryRadius": 127,
+      "MainAnchorX": 265,
+      "IntersectionX": 248.02260661092674,
+      "IntersectionRadius": 49.81282500519128,
+      "DistanceFromFloorAlongMainAxis": 12.006640963007479,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.765482963608878,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.485775715834836
+    },
+    {
+      "Offset": 7.95,
+      "EntryRadius": 127,
+      "MainAnchorX": 265,
+      "IntersectionX": 247.56870948062254,
+      "IntersectionRadius": 49.781085425918796,
+      "DistanceFromFloorAlongMainAxis": 12.461646463843216,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 8.220488464444614,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.9407812166705725
+    },
+    {
+      "Offset": 7.05,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 265,
+      "IntersectionX": 248.41457978585373,
+      "IntersectionRadius": 49.840234439681296,
+      "DistanceFromFloorAlongMainAxis": 11.613710629536765,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.372552630138164,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.092845382364122
+    },
+    {
+      "Offset": 7.5,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 265,
+      "IntersectionX": 247.96068265554953,
+      "IntersectionRadius": 49.808494860408814,
+      "DistanceFromFloorAlongMainAxis": 12.068716130372504,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 7.827558130973903,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 7.547850883199861
+    },
+    {
+      "Offset": 7.95,
+      "EntryRadius": 127.5,
+      "MainAnchorX": 265,
+      "IntersectionX": 247.50678552524533,
+      "IntersectionRadius": 49.77675528113634,
+      "DistanceFromFloorAlongMainAxis": 12.523721631208241,
+      "CrossPortEnvelopeReachAlongMainAxis": 4.2411579993986015,
+      "ClearEnvelopeLengthBeforeCrossPort": 8.28256363180964,
+      "FullSectionEntrySetback": 0.27970724777404166,
+      "UsableEnvelopeInterval": 8.0028563840356
+    }
+  ],
+  "MinimumUsableEnvelopeInterval": 6.987363029452111,
+  "Limitations": "Infinite-cylinder exclusion bound, not a finite drill or thread model. No thread length selected; no KG1/8, drill tip, chamfer, runout, strength, tolerance-stack or seal acceptance. CAD unchanged."
+}

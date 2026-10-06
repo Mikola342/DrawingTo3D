@@ -1,0 +1,7 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-exterior\\b57a3cbe66c141bcb3abdc9d9f9a29ea\\Tsapfa_TIFF_EXTERIOR_WIP.SLDPRT",
+  "SourceSha256": "1ED892113E235B69D4174482E3073DA2449C28D1056F643571CA9EA09BB3922F",
+  "Checkpoint": "F:\\Project\\DrawingTo3D\\CadTest\\output\\tiff-m6\\5c672aac0b974092b83b3480c85f71b6\\UNVERIFIED_FAILED_BUILD.SLDPRT",
+  "Accepted": false,
+  "Error": "System.InvalidOperationException: M6 isolated-removal envelope mismatch: V=219,37186904571962, delta=219,49531149980612, R=2,4587341226346955..2,9999999976355083, X=249,99999999999997..264,54127680848205\r\n   at CadTest.Cad.SolidWorksService.InspectTiffM6Pattern() in F:\\Project\\DrawingTo3D\\CadTest\\Cad\\TiffM6Pattern.cs:line 168\r\n   at CadTest.Cad.SolidWorksService.BuildTiffM6Pattern() in F:\\Project\\DrawingTo3D\\CadTest\\Cad\\TiffM6Pattern.cs:line 113\r\n   at Program.\u003CMain\u003E$(String[] args) in F:\\Project\\DrawingTo3D\\CadTest\\Program.cs:line 62"
+}

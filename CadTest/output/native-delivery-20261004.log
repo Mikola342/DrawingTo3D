@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\WORK_f900181eb2a042feb8c9e12f4c07d3fd.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\WORK_f900181eb2a042feb8c9e12f4c07d3fd.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\WORK_f900181eb2a042feb8c9e12f4c07d3fd.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd\Tsapfa_5309-2304083_AGREED_VARIANT.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[PREPARED SLDPRT REPORT] F:\Project\DrawingTo3D\CadTest\output\native-delivery\f900181eb2a042feb8c9e12f4c07d3fd

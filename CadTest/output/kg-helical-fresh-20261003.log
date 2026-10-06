@@ -1,0 +1,8 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\7c6e8951616c455eaf8b0da98cf3a50c\VERIFY_7c6e8951616c455eaf8b0da98cf3a50c.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\7c6e8951616c455eaf8b0da98cf3a50c\VERIFY_7c6e8951616c455eaf8b0da98cf3a50c.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\7c6e8951616c455eaf8b0da98cf3a50c\VERIFY_7c6e8951616c455eaf8b0da98cf3a50c.SLDPRT.
+[KG HELICAL BOUNDS] 60:N=910,t=1,7618103512474126..6,246938798005841,r=4,204783162562262..4,7575.
+[KG HELICAL BOUNDS] 120:N=910,t=1,7618103512474137..6,246938798006508,r=4,204783162562228..4,757499999999994.
+[TIFF HEALTH OK] active=439, suppressed=34, one solid body.
+[KG HELICAL FRESH DIAGNOSTIC; NOT ACCEPTED] F:\Project\DrawingTo3D\CadTest\output\kg-helical-verification\7c6e8951616c455eaf8b0da98cf3a50c\verification.json

@@ -1,0 +1,2017 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_5309-2304083_WORKING_20261005.SLDPRT",
+  "SourceSha256": "02ED62B779B538188EA67F4F24E9FCBF703D8571184A5E035B27A393560AA8B8",
+  "Mode": "--inspect-m12-end-profiles",
+  "Ends": {
+    "Threads": [
+      {
+        "Name": "M12_1",
+        "Start": 247.001,
+        "End": 264.999,
+        "SampleStationsMm": [
+          247.001,
+          247.1103125,
+          247.219625,
+          247.3289375,
+          247.43825,
+          247.5475625,
+          247.656875,
+          247.7661875,
+          247.87550000000002,
+          247.9848125,
+          248.094125,
+          248.2034375,
+          248.31275,
+          248.4220625,
+          248.531375,
+          248.6406875,
+          248.75,
+          263,
+          263.1249375,
+          263.249875,
+          263.3748125,
+          263.49975,
+          263.6246875,
+          263.749625,
+          263.8745625,
+          263.9995,
+          264.1244375,
+          264.249375,
+          264.3743125,
+          264.49925,
+          264.6241875,
+          264.749125,
+          264.8740625,
+          264.999
+        ],
+        "FiniteEnds": false,
+        "M8InnerEnd": false,
+        "Phase": 0.6071714937030563,
+        "Sign": -1,
+        "SampleCount": 544,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 0.0005026155239890335,
+        "FailedPoints": [
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030292195539149074
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043677476234991195
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.000481657475296391
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363914272621549
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378840728997814
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030300530489342834
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043682115487461465
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048165095685779794
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004367400030902964
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816238363739065
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363724689558873
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025932385735147
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030302222590405427
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043684743757372874
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048168231735121636
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033631592807250666
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048158637798216954
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033635150919317507
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025637728805437
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028522115864604004
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004368712631947871
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171065173289746
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363400065639706
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024863257468174
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363282561222969
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025311968561918
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002852042079621244
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378009210282673
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048173633695363326
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033636168452956224
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025237624722535
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851531631721119
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033630236268225366
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502495057014539
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.000285185468022688
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237733393236894
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030300693627753156
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033638127066253353
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025574669145693
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028517469662991767
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012375876603854468
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029429221489654
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502454814258669
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028516467802308475
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012376587368801095
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030298887192286786
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.000436859674012457
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363990254967668
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025879190156727
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028519408339068765
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012376734715554207
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030296588001071023
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.000436759599250106
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028514152778564466
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012375759124923626
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030296890087724024
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043683423594202025
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171534198533016
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005026155239890335
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002852115994497869
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237750726248414
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029865490410584
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.000436791925393243
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048161595542878303
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012374836830601754
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030294674524653436
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004368061126879519
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816879283530113
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002852274779159952
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237820524935525
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003030052235851578
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368210285281485
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048165080571659964
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030292207452172794
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043677491278659963
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816576211514368
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033639150984076765
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378837970525763
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003030221520972096
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043684732323964997
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816821810620325
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033631581187435963
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004367401709532826
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816239984681355
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033637256009165414
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025933667571058
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043687115937770794
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.000481710528384711
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363399021579082
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005024861450634549
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004815865588778766
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363516100564602
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025639144303613
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002852212324659292
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004817362249981503
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033636159033390765
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025236001584495
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028515305919230114
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033632836818949544
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025313536087162
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002852042894854924
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378012147003757
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030300701491982194
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363811853757176
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025573205165111
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.000285174603236033
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237587246413574
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033630248781761423
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024952311825503
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028518555828481625
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012377337175728125
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029889587269682
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368597847441628
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363989480883939
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025877864861644
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002851939991411217
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012376730987734318
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003029428113646399
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024550085659747
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028516477821125105
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012376590960989307
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030296899703495105
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.000436834358089898
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004817154613152533
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005026154036805444
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002852115232236782
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012377503908314952
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003029657804687908
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043675944320210983
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851416395461712
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237576311600337
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030294685210351455
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368062479415649
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816880600885291
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002852274086668462
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378202214965604
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.000302986459321827
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004367917851267235
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816157872848424
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012374841286534382
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030292219365700884
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043677506319836904
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816577670378217
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363915922532105
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378835216055837
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003030051423021369
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004368209021011101
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816506546459169
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033634529158975586
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025550509380584
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002852166146955567
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237845752802113
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171804005967895
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033634625700729805
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024971338366405
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851360953583202
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033631770388620744
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025164519797089
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028519655413813657
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237773313387367
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003030166208582637
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033637016558956014
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025383709744743
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028516250612071954
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.000285174018429143
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237692245038292
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003029969722042982
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043687001626288303
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363914901093086
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025750067198148
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851858711354653
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012376371603373967
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003029749716642601
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043684195964419184
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004817228870713097
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.00050260770095701
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028520664121685834
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012377288843304655
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029835751180452
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048169222596823396
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028522518677689485
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378104669430082
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003030050914828474
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363916437288631
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378833492173745
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003030243236530753
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368506901018904
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025895433785222
+          },
+          {
+            "StationMm": 263.8745625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237845993264012
+          }
+        ],
+        "SampledProfilePassed": false
+      },
+      {
+        "Name": "M12_2",
+        "Start": 247.001,
+        "End": 264.999,
+        "SampleStationsMm": [
+          247.001,
+          247.1103125,
+          247.219625,
+          247.3289375,
+          247.43825,
+          247.5475625,
+          247.656875,
+          247.7661875,
+          247.87550000000002,
+          247.9848125,
+          248.094125,
+          248.2034375,
+          248.31275,
+          248.4220625,
+          248.531375,
+          248.6406875,
+          248.75,
+          263,
+          263.1249375,
+          263.249875,
+          263.3748125,
+          263.49975,
+          263.6246875,
+          263.749625,
+          263.8745625,
+          263.9995,
+          264.1244375,
+          264.249375,
+          264.3743125,
+          264.49925,
+          264.6241875,
+          264.749125,
+          264.8740625,
+          264.999
+        ],
+        "FiniteEnds": false,
+        "M8InnerEnd": false,
+        "Phase": 0.6071714937030563,
+        "Sign": -1,
+        "SampleCount": 544,
+        "KnownSlotSamplesExcluded": 0,
+        "MaximumDistanceMm": 0.0005026155239967868,
+        "FailedPoints": [
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030292195534347224
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043677476231438476
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048165747529870797
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363914272380915
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378840731569387
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003030053048865515
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043682115493412466
+          },
+          {
+            "StationMm": 247.001,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816509568230718
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004367400031167967
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048162383639791895
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033637246898680375
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502593238597531
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003030222259122967
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043684743756480023
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048168231735271847
+          },
+          {
+            "StationMm": 247.1103125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363159280719558
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048158637800113185
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033635150913818916
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502563772877995
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028522115865103507
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043687126321387905
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171065173289746
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033634000657315513
+          },
+          {
+            "StationMm": 247.219625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024863257700724
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033632825607083413
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502531196873722
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028520420798546663
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237800920915963
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048173633694452493
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363616845398244
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.000502523762488514
+          },
+          {
+            "StationMm": 247.3289375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851531631606435
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363023626753825
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005024950570450432
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028518546803514507
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012377333933261237
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030300693626003226
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033638127071212683
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025574669703508
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851746966201974
+          },
+          {
+            "StationMm": 247.43825,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237587660643198
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029429221627452
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005024548142664158
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028516467799836055
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012376587366969984
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030298887192286786
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004368596740040887
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033639902555321555
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025879190678544
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851940834147018
+          },
+          {
+            "StationMm": 247.5475625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012376734712988495
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030296588001071023
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043675959921020955
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028514152774268455
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012375759122801777
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.000302968900866952
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043683423590250753
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171534198495757
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005026155239967868
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028521159945390346
+          },
+          {
+            "StationMm": 247.656875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012377507259916343
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030298654905029486
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004367919252925403
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048161595543082215
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237483683240299
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030294674524653436
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043680611265998787
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048168792840821875
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002852274779159952
+          },
+          {
+            "StationMm": 247.7661875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378205248680254
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003030052235919812
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.00043682102853303894
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048165080572884353
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030292207459414554
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004367749127851319
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816576211441049
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033639150982356727
+          },
+          {
+            "StationMm": 247.87550000000002,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378837967993251
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030302215214284196
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368473232426774
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048168218106970154
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033631581189204985
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004367401709765322
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.0004816239984633257
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033637256007459476
+          },
+          {
+            "StationMm": 247.9848125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.000502593366820637
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368711593614704
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004817105284368701
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363399021755871
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005024861450838065
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048158655884881796
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.000336351610018334
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025639144294941
+          },
+          {
+            "StationMm": 248.094125,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028522123247334537
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004817362250016695
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033636159040436464
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025236001747101
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002851530592163118
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033632836823775035
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025313535769547
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028520428946648697
+          },
+          {
+            "StationMm": 248.2034375,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378012146684072
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030300701488167623
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363811854179128
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025573204924966
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002851746032416683
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012375872461219806
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363024878175261
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024952311902977
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851855583112371
+          },
+          {
+            "StationMm": 248.31275,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237733717396522
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030298895872323363
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368597847059102
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.0003363989480736121
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.000502587786515585
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.0002851939991549459
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012376730991105607
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030294281138409495
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024550086152385
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851647782427036
+          },
+          {
+            "StationMm": 248.4220625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012376590960989307
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.000302968997007459
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368343581145994
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.00048171546131774623
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005026154036738273
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028521152323471554
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012377503908143358
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.0003029657804504097
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043675944320210983
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851416395701806
+          },
+          {
+            "StationMm": 248.531375,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237576311472868
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030294685210003496
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368062479215018
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816880601008531
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028522740869512807
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378202214965604
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030298645927164664
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.0004367917851218526
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048161578728327944
+          },
+          {
+            "StationMm": 248.6406875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012374841289890397
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.0003029221936676439
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004367750631909099
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 0.8533351045313275,
+            "DistanceMm": 0.0004816577670328069
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033639159223934574
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.0001237883521690217
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030300514234678287
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043682090209749114
+          },
+          {
+            "StationMm": 248.75,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048165065463619494
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033634529164426
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025550508952343
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.000285216614670882
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012378457527108656
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048171804005967895
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363462569656079
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005024971338416284
+          },
+          {
+            "StationMm": 263,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851360954031251
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 1.6387332679287758,
+            "DistanceMm": 0.00033631770388620744
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.0314323496275,
+            "DistanceMm": 0.0005025164519838571
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028519655412530964
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012377733134238183
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.000303016620847634
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363701655616348
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025383709667219
+          },
+          {
+            "StationMm": 263.1249375,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851625060437957
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 2.424131431326224,
+            "DistanceMm": 0.00028517401844882495
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 2.8168305130249482,
+            "DistanceMm": 0.00012376922456505308
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030299697221137443
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043687001625473547
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.00033639149010827895
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.00050257500672162
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.0002851858711490289
+          },
+          {
+            "StationMm": 263.249875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237637160026233
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.2095295947236724,
+            "DistanceMm": 0.00030297497166049595
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.6022286764223965,
+            "DistanceMm": 0.00043684195957299603
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048172288707143705
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005026077009197507
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028520664122097056
+          },
+          {
+            "StationMm": 263.3748125,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.0001237728884810777
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030298357512491996
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 3.9949277581211207,
+            "DistanceMm": 0.00048169222600440164
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 5.565724084916018,
+            "DistanceMm": 0.00028522518672060405
+          },
+          {
+            "StationMm": 263.49975,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378104669092543
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030300509149871395
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 4.780325921518569,
+            "DistanceMm": 0.0003363916437288631
+          },
+          {
+            "StationMm": 263.6246875,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378833490487583
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 0.06793694113387927,
+            "DistanceMm": 0.00030302432364963595
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 0.4606360228326034,
+            "DistanceMm": 0.0004368506901042447
+          },
+          {
+            "StationMm": 263.749625,
+            "AngleRadians": 5.173025003217293,
+            "DistanceMm": 0.0005025895433694911
+          },
+          {
+            "StationMm": 263.8745625,
+            "AngleRadians": 5.958423166614741,
+            "DistanceMm": 0.00012378459932960018
+          }
+        ],
+        "SampledProfilePassed": false
+      }
+    ],
+    "M12EndInspection": true,
+    "M12EndMethod": "Periodic profile phase fitted only at middle section; max with nominal rear 2x45 chamfer from X263; 17 stations per end and 16 angles; no finite-profile assumption at blind ends",
+    "DiagnosticBudgetMm": 0.0001,
+    "GeometryChanged": false,
+    "ContinuousProfileCertified": false,
+    "Method": "Closest point on trimmed final faces at 16 angular phases and \u003C=P/4 axial spacing; phase reference on one edge, chosen by eight middle-station samples"
+  },
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2438218466
+  },
+  "SavedBytesUnchanged": true,
+  "Accepted": false
+}

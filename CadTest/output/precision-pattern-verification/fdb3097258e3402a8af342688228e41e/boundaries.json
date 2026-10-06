@@ -1,0 +1,71 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-m6-pattern\\d7503ee7235642abb70af10eb348e18d\\Tsapfa_PRECISION_M6_M12.SLDPRT",
+  "SourceSha256": "BEC09682C1ECDAF1109F9000734AA0AD4FBC5244B4E74C23632CB84FD7698F5A",
+  "Boundaries": {
+    "Threads": [
+      {
+        "Hole": 1,
+        "MinimumXmm": 248.9942264973081,
+        "MaximumXmm": 264.5412660824127,
+        "MinimumRadiusMm": 2.4487341226347255,
+        "MaximumRadiusMm": 3.0000003853670365,
+        "Samples": 2064,
+        "Alignment": 0,
+        "Twist": 0,
+        "Thin": false,
+        "DirectionConstrained": false,
+        "Passed": false
+      },
+      {
+        "Hole": 2,
+        "MinimumXmm": 248.9942264973081,
+        "MaximumXmm": 264.54126608241427,
+        "MinimumRadiusMm": 2.4487341226347255,
+        "MaximumRadiusMm": 3.000000385369522,
+        "Samples": 2064,
+        "Alignment": 0,
+        "Twist": 0,
+        "Thin": false,
+        "DirectionConstrained": false,
+        "Passed": false
+      },
+      {
+        "Hole": 3,
+        "MinimumXmm": 248.99999999999997,
+        "MaximumXmm": 264.54126607122066,
+        "MinimumRadiusMm": 2.4587341226346715,
+        "MaximumRadiusMm": 3.000000385367118,
+        "Samples": 2064,
+        "Alignment": 0,
+        "Twist": 0,
+        "Thin": false,
+        "DirectionConstrained": false,
+        "Passed": false
+      },
+      {
+        "Hole": 4,
+        "MinimumXmm": 249,
+        "MaximumXmm": 264.5412660712203,
+        "MinimumRadiusMm": 2.458734122634676,
+        "MaximumRadiusMm": 3.000000385369945,
+        "Samples": 2064,
+        "Alignment": 0,
+        "Twist": 0,
+        "Thin": false,
+        "DirectionConstrained": false,
+        "Passed": false
+      }
+    ],
+    "BoundaryEnvelopePassed": false,
+    "Scope": "Sampled boundaries, native suppression and sweep orientation; not continuous endpoint certification"
+  },
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2440068265
+  },
+  "SavedBytesUnchanged": true
+}

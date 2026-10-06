@@ -1,0 +1,580 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-helical-trial\\b10371e2c39e481ab431675ebd8aeb40\\UNVERIFIED_KG_HELICAL.SLDPRT",
+  "SourceSha256": "0A8FE538FF34FFD515E7C0C4EF615237E9AE96BF7EB7D87BFF712664EE74D140",
+  "SavedBytesUnchanged": true,
+  "Result": {
+    "Branches": [
+      {
+        "Branch": "II",
+        "Edges": [
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.5456846730213325,
+            "MaximumOutwardSmm": -0.018730815902285924,
+            "AxialSpanMm": 5.526953857119047,
+            "MinimumRadiusMm": 3.999999997043392,
+            "MaximumRadiusMm": 3.999999997043456,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500004357724375,
+              "MaximumAxialFitResidualMm": 0.0007918167632054777
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.5456846730213325,
+            "MaximumOutwardSmm": -5.155059674728304,
+            "AxialSpanMm": 0.39062499829302855,
+            "MinimumRadiusMm": 3.323417653293407,
+            "MaximumRadiusMm": 3.9999999970434064,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.155059674728304,
+            "MaximumOutwardSmm": -0.7948087570040736,
+            "AxialSpanMm": 4.360250917724231,
+            "MinimumRadiusMm": 3.323417653293387,
+            "MaximumRadiusMm": 3.323417653293442,
+            "PitchFit": {
+              "SignedPitchMm": 1.250016100272217,
+              "MaximumAxialFitResidualMm": 0.0008042161684300611
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.7948159857847354,
+            "MaximumOutwardSmm": -0.14549444811043505,
+            "AxialSpanMm": 0.6493215376743005,
+            "MinimumRadiusMm": 3.3234176532934443,
+            "MaximumRadiusMm": 3.633046371647617,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 4,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.14554125296957443,
+            "MaximumOutwardSmm": 0.12524803328735806,
+            "AxialSpanMm": 0.2707892862569325,
+            "MinimumRadiusMm": 3.3234176532933932,
+            "MaximumRadiusMm": 3.3234176532934354,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 5,
+            "Samples": 257,
+            "MinimumOutwardSmm": 0.1252480317674319,
+            "MaximumOutwardSmm": 0.12642377815481667,
+            "AxialSpanMm": 0.0011757463873847684,
+            "MinimumRadiusMm": 3.3234176532959103,
+            "MaximumRadiusMm": 3.3234239338517058,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 6,
+            "Samples": 257,
+            "MinimumOutwardSmm": 0.06400177880294478,
+            "MaximumOutwardSmm": 0.18693683218478468,
+            "AxialSpanMm": 0.12293505338183991,
+            "MinimumRadiusMm": 3.323423946452287,
+            "MaximumRadiusMm": 3.814178113452809,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 7,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.018730815902277764,
+            "MaximumOutwardSmm": 0.06400177880305324,
+            "AxialSpanMm": 0.08273259470533101,
+            "MinimumRadiusMm": 3.8141781134527695,
+            "MaximumRadiusMm": 3.9999999970434237,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.5563225248684884,
+            "MaximumOutwardSmm": -0.20523067127453182,
+            "AxialSpanMm": 0.3510918535939566,
+            "MinimumRadiusMm": 3.323417653293428,
+            "MaximumRadiusMm": 3.848778622542668,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.092559671314368,
+            "MaximumOutwardSmm": -0.5563185691420522,
+            "AxialSpanMm": 5.5362411021723155,
+            "MinimumRadiusMm": 3.323417653293395,
+            "MaximumRadiusMm": 3.323417653293453,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500001034965535,
+              "MaximumAxialFitResidualMm": 0.0007918876107784788
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.09255967131437,
+            "MaximumOutwardSmm": -5.701934673021323,
+            "AxialSpanMm": 0.3906249982930472,
+            "MinimumRadiusMm": 3.323417653293396,
+            "MaximumRadiusMm": 3.9999999970433917,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.701934673021321,
+            "MaximumOutwardSmm": -0.13973403722430947,
+            "AxialSpanMm": 5.562200635797011,
+            "MinimumRadiusMm": 3.999999997043389,
+            "MaximumRadiusMm": 3.999999997043446,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500021719447394,
+              "MaximumAxialFitResidualMm": 0.0007940730977794385
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 4,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.20523067127491465,
+            "MaximumOutwardSmm": -0.13973403722436578,
+            "AxialSpanMm": 0.06549663405054887,
+            "MinimumRadiusMm": 3.8487786225423126,
+            "MaximumRadiusMm": 3.9999999970434277,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.701934673021321,
+            "MaximumOutwardSmm": -0.13973403722430947,
+            "AxialSpanMm": 5.562200635797011,
+            "MinimumRadiusMm": 3.999999997043389,
+            "MaximumRadiusMm": 3.999999997043446,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500021719447394,
+              "MaximumAxialFitResidualMm": 0.0007940730977794385
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.701934673021321,
+            "MaximumOutwardSmm": -5.5456846730213325,
+            "AxialSpanMm": 0.15624999999998845,
+            "MinimumRadiusMm": 3.9999999970434046,
+            "MaximumRadiusMm": 3.9999999970434166,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.5456846730213325,
+            "MaximumOutwardSmm": -0.018730815902285924,
+            "AxialSpanMm": 5.526953857119047,
+            "MinimumRadiusMm": 3.999999997043392,
+            "MaximumRadiusMm": 3.999999997043456,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500004357724375,
+              "MaximumAxialFitResidualMm": 0.0007918167632054777
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.1397340372243073,
+            "MaximumOutwardSmm": -0.01873081590235154,
+            "AxialSpanMm": 0.12100322132195576,
+            "MinimumRadiusMm": 3.999999997043421,
+            "MaximumRadiusMm": 3.999999997043437,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.701934673021321,
+            "MaximumOutwardSmm": -5.5456846730213325,
+            "AxialSpanMm": 0.15624999999998845,
+            "MinimumRadiusMm": 3.9999999970434046,
+            "MaximumRadiusMm": 3.9999999970434166,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.09255967131437,
+            "MaximumOutwardSmm": -5.701934673021323,
+            "AxialSpanMm": 0.3906249982930472,
+            "MinimumRadiusMm": 3.323417653293396,
+            "MaximumRadiusMm": 3.9999999970433917,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.092559671314369,
+            "MaximumOutwardSmm": -5.155059674728306,
+            "AxialSpanMm": 0.9374999965860633,
+            "MinimumRadiusMm": 3.3234176532933986,
+            "MaximumRadiusMm": 3.3234176532934137,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.5456846730213325,
+            "MaximumOutwardSmm": -5.155059674728304,
+            "AxialSpanMm": 0.39062499829302855,
+            "MinimumRadiusMm": 3.323417653293407,
+            "MaximumRadiusMm": 3.9999999970434064,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          }
+        ],
+        "HelicalEdgeOccurrences": 0,
+        "DuplicateSharedEdgesIncluded": true,
+        "LongHelicalEdgesVerified": false,
+        "OperationAxialLengthMm": 6.09255967131447,
+        "FullProfileLengthVerified": false
+      },
+      {
+        "Branch": "AA",
+        "Edges": [
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.46777639019409,
+            "MaximumOutwardSmm": 0.14942186156134596,
+            "AxialSpanMm": 5.617198251755436,
+            "MinimumRadiusMm": 3.999999997043389,
+            "MaximumRadiusMm": 3.999999997043425,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500098752493796,
+              "MaximumAxialFitResidualMm": 0.0008014146588085753
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.46777639019409,
+            "MaximumOutwardSmm": -5.077151391901118,
+            "AxialSpanMm": 0.3906249982929717,
+            "MinimumRadiusMm": 3.3234176532934026,
+            "MaximumRadiusMm": 3.9999999970434046,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.077151391901118,
+            "MaximumOutwardSmm": -0.5569713310357205,
+            "AxialSpanMm": 4.520180060865398,
+            "MinimumRadiusMm": 3.3234176532933892,
+            "MaximumRadiusMm": 3.323417653293419,
+            "PitchFit": {
+              "SignedPitchMm": 1.250015443268883,
+              "MaximumAxialFitResidualMm": 0.0008106495523925382
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.556390302232227,
+            "MaximumOutwardSmm": 0.2200431901389922,
+            "AxialSpanMm": 0.7764334923712192,
+            "MinimumRadiusMm": 3.323417653293399,
+            "MaximumRadiusMm": 3.7965210131878906,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 0,
+            "EdgeIndex": 4,
+            "Samples": 257,
+            "MinimumOutwardSmm": 0.1494218615615017,
+            "MaximumOutwardSmm": 0.20423175482135245,
+            "AxialSpanMm": 0.05480989325985075,
+            "MinimumRadiusMm": 3.7965210131878213,
+            "MaximumRadiusMm": 3.9999999970434104,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -0.3798611100529585,
+            "MaximumOutwardSmm": 0.0019042074970828937,
+            "AxialSpanMm": 0.3817653175500414,
+            "MinimumRadiusMm": 3.3234176532934185,
+            "MaximumRadiusMm": 3.8230101348500054,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.014651388487088,
+            "MaximumOutwardSmm": -0.38009623216519534,
+            "AxialSpanMm": 5.634555156321892,
+            "MinimumRadiusMm": 3.323417653293389,
+            "MaximumRadiusMm": 3.323417653293421,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500076369999404,
+              "MaximumAxialFitResidualMm": 0.0007999994755892169
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.014651388487088,
+            "MaximumOutwardSmm": -5.624026390194089,
+            "AxialSpanMm": 0.39062499829299835,
+            "MinimumRadiusMm": 3.3234176532934017,
+            "MaximumRadiusMm": 3.9999999970433997,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.624026390194089,
+            "MaximumOutwardSmm": 0.060855740499201325,
+            "AxialSpanMm": 5.684882130693291,
+            "MinimumRadiusMm": 3.9999999970433806,
+            "MaximumRadiusMm": 3.9999999970434335,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500001076049927,
+              "MaximumAxialFitResidualMm": 0.000791257348798288
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 1,
+            "EdgeIndex": 4,
+            "Samples": 257,
+            "MinimumOutwardSmm": 0.00190420749696954,
+            "MaximumOutwardSmm": 0.060855740499199784,
+            "AxialSpanMm": 0.058951533002230244,
+            "MinimumRadiusMm": 3.8230101348499925,
+            "MaximumRadiusMm": 3.999999997043402,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.624026390194089,
+            "MaximumOutwardSmm": 0.060855740499201325,
+            "AxialSpanMm": 5.684882130693291,
+            "MinimumRadiusMm": 3.9999999970433806,
+            "MaximumRadiusMm": 3.9999999970434335,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500001076049927,
+              "MaximumAxialFitResidualMm": 0.000791257348798288
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.624026390194089,
+            "MaximumOutwardSmm": -5.46777639019409,
+            "AxialSpanMm": 0.1562499999999991,
+            "MinimumRadiusMm": 3.9999999970434006,
+            "MaximumRadiusMm": 3.99999999704341,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.46777639019409,
+            "MaximumOutwardSmm": 0.14942186156134596,
+            "AxialSpanMm": 5.617198251755436,
+            "MinimumRadiusMm": 3.999999997043389,
+            "MaximumRadiusMm": 3.999999997043425,
+            "PitchFit": {
+              "SignedPitchMm": 1.2500098752493796,
+              "MaximumAxialFitResidualMm": 0.0008014146588085753
+            },
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 2,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": 0.060855740499197244,
+            "MaximumOutwardSmm": 0.14942186156153014,
+            "AxialSpanMm": 0.0885661210623329,
+            "MinimumRadiusMm": 3.9999999970433953,
+            "MaximumRadiusMm": 3.9999999970434166,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 0,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.624026390194089,
+            "MaximumOutwardSmm": -5.46777639019409,
+            "AxialSpanMm": 0.1562499999999991,
+            "MinimumRadiusMm": 3.9999999970434006,
+            "MaximumRadiusMm": 3.99999999704341,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 1,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.014651388487088,
+            "MaximumOutwardSmm": -5.624026390194089,
+            "AxialSpanMm": 0.39062499829299835,
+            "MinimumRadiusMm": 3.3234176532934017,
+            "MaximumRadiusMm": 3.9999999970433997,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 2,
+            "Samples": 257,
+            "MinimumOutwardSmm": -6.014651388487088,
+            "MaximumOutwardSmm": -5.077151391901118,
+            "AxialSpanMm": 0.9374999965859692,
+            "MinimumRadiusMm": 3.323417653293399,
+            "MaximumRadiusMm": 3.323417653293407,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          },
+          {
+            "FaceIndex": 3,
+            "EdgeIndex": 3,
+            "Samples": 257,
+            "MinimumOutwardSmm": -5.46777639019409,
+            "MaximumOutwardSmm": -5.077151391901118,
+            "AxialSpanMm": 0.3906249982929717,
+            "MinimumRadiusMm": 3.3234176532934026,
+            "MaximumRadiusMm": 3.9999999970434046,
+            "PitchFit": null,
+            "MatchesExperimentalPitch": false
+          }
+        ],
+        "HelicalEdgeOccurrences": 0,
+        "DuplicateSharedEdgesIncluded": true,
+        "LongHelicalEdgesVerified": false,
+        "OperationAxialLengthMm": 6.014651388487033,
+        "FullProfileLengthVerified": false
+      }
+    ],
+    "Definitions": {
+      "Definitions": [
+        {
+          "Feature": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.00609255967131447,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        },
+        {
+          "Feature": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.0060146513884870335,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        }
+      ],
+      "NominalLibraryContractChecked": true,
+      "FullProfileLengthVerified": false,
+      "RunoutVerified": false,
+      "Tolerance6HVerified": false,
+      "GeometryChanged": false
+    },
+    "Accepted": false,
+    "FullProfileLengthVerified": false
+  },
+  "Health": {
+    "ActiveFeatures": 441,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998522.3941064628
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Branch": "II",
+  "EdgeCount": 6,
+  "Edges": [
+    {
+      "MinimumAxisRadiusMm": 3.3234176532934354,
+      "MaximumAxisRadiusMm": 3.9999999970433238,
+      "Samples": 65
+    },
+    {
+      "MinimumAxisRadiusMm": 3.3234176532933923,
+      "MaximumAxisRadiusMm": 3.3234176532934288,
+      "Samples": 65
+    },
+    {
+      "MinimumAxisRadiusMm": 3.3234176532934216,
+      "MaximumAxisRadiusMm": 3.446198904791436,
+      "Samples": 65
+    },
+    {
+      "MinimumAxisRadiusMm": 3.323417653293405,
+      "MaximumAxisRadiusMm": 3.3234176532934185,
+      "Samples": 65
+    },
+    {
+      "MinimumAxisRadiusMm": 3.323417653293445,
+      "MaximumAxisRadiusMm": 3.9999999970434286,
+      "Samples": 65
+    },
+    {
+      "MinimumAxisRadiusMm": 3.99999999704342,
+      "MaximumAxisRadiusMm": 3.9999999970434366,
+      "Samples": 65
+    }
+  ],
+  "RequestedRadiusMm": 0.5,
+  "SourceInterpretationAccepted": false
+}

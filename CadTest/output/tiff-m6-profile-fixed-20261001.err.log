@@ -1,0 +1,4 @@
+System.InvalidOperationException: M6 isolated-removal envelope mismatch: V=219,37186904571962, delta=219,49531149980612, R=2,4587341226346955..2,9999999976355083, X=249,99999999999997..264,54127680848205
+   at CadTest.Cad.SolidWorksService.InspectTiffM6Pattern() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 168
+   at CadTest.Cad.SolidWorksService.BuildTiffM6Pattern() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM6Pattern.cs:line 113
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 62

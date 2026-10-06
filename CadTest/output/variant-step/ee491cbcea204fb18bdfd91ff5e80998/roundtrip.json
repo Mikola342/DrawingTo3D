@@ -1,0 +1,145 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "SourceSha256": "F23826717061925D94F2E85A8DBB4F97A269B50CB697FA3126FCD089BC0D077E",
+  "StepFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\variant-step\\ee491cbcea204fb18bdfd91ff5e80998\\DESIGN_VARIANT_NOT_FOR_MANUFACTURE.step",
+  "StepSha256": "738E61AF02CD16E0F3BF1F4E3929089A85EDCED31FAA97CC2FFB0CA865B597A2",
+  "SavedBytesUnchanged": true,
+  "Result": {
+    "SourceVolumeMm3": 1998512.325990297,
+    "ImportedVolumeMm3": 1998508.3807082856,
+    "VolumeDifferenceMm3": -3.945282011292875,
+    "SourceBoxMetres": [
+      0,
+      -0.1275,
+      -0.1275,
+      0.273,
+      0.1275,
+      0.1275
+    ],
+    "ImportedBoxMetres": [
+      -2.4999999999999998E-06,
+      -0.1275,
+      -0.1275,
+      0.273,
+      0.1275,
+      0.1275
+    ],
+    "BoundingBoxIsApproximate": true,
+    "SolidBodies": 1,
+    "SheetBodies": 0,
+    "Missing": {
+      "Code": 0,
+      "RemainingBodies": 2,
+      "Empty": false,
+      "Regions": [
+        {
+          "ApproximateBoxMetres": [
+            0.26476050306604093,
+            0.04614778318186832,
+            -0.027409517529693367,
+            0.2651106920074578,
+            0.04798920101643253,
+            -0.022285409705905257
+          ],
+          "VolumeMm3": 0.00015848462712702647,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.26443120498853395,
+            0.0468762946362093,
+            -0.02724782597905883,
+            0.26499016207402126,
+            0.04770371367574757,
+            -0.02415050065766791
+          ],
+          "VolumeMm3": 7.910385327367E-05,
+          "Faces": 2
+        }
+      ]
+    },
+    "Added": {
+      "Code": 0,
+      "RemainingBodies": 6,
+      "Empty": false,
+      "Regions": [
+        {
+          "ApproximateBoxMetres": [
+            0.2647514408429906,
+            0.047437500693448306,
+            -0.026051702551536136,
+            0.265,
+            0.047774849761534156,
+            -0.024743349916381906
+          ],
+          "VolumeMm3": 5.071400351255601E-06,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.26478375889017863,
+            0.04081378090537931,
+            0.022435601180307647,
+            0.2650028312635624,
+            0.042023165733944164,
+            0.02374873788739201
+          ],
+          "VolumeMm3": 1.5167722988613531E-05,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.2644088425538604,
+            0.03918052152736418,
+            0.023550865429126773,
+            0.26509277094791495,
+            0.044059740290708874,
+            0.030218880147366504
+          ],
+          "VolumeMm3": 0.0010196904506634835,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.2643963129640956,
+            0.04017852713577779,
+            -0.029338022130010764,
+            0.26501239925811654,
+            0.04746361982451944,
+            -0.023505403173527336
+          ],
+          "VolumeMm3": 0.0012910212784809426,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.2643778631164349,
+            0.04042557629563698,
+            -0.02378543743745134,
+            0.2650304862857582,
+            0.045792775913449185,
+            -0.02101735133593275
+          ],
+          "VolumeMm3": 0.0003894339200889836,
+          "Faces": 2
+        },
+        {
+          "ApproximateBoxMetres": [
+            0.26475723664839296,
+            0.047060159760259075,
+            -0.027262707537517764,
+            0.26500002500000003,
+            0.04770618698157377,
+            -0.026019789115271388
+          ],
+          "VolumeMm3": 5.1336741749116745E-06,
+          "Faces": 2
+        }
+      ]
+    },
+    "SameKernelComparison": true,
+    "DrawingConformanceAccepted": false,
+    "ManufacturingAccepted": false
+  },
+  "Accepted": false
+}

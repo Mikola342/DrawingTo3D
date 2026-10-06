@@ -1,0 +1,20 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\WORK_76689a7a312a46b9a128204b2acd01d5.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\WORK_76689a7a312a46b9a128204b2acd01d5.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\WORK_76689a7a312a46b9a128204b2acd01d5.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\Tsapfa_M6_M12_ENDINGS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\Tsapfa_M6_M12_ENDINGS.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\Tsapfa_M6_M12_ENDINGS.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\Tsapfa_M6_M12_ENDINGS.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5\Tsapfa_M6_M12_ENDINGS.SLDPRT.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[OK] TRIAL_M12x1_75_7H_nominal_1: 396 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[OK] TRIAL_M12x1_75_7H_nominal_2: 396 edge samples, X=247,000000..263,947219, R=5,052785..6,000002.
+[EXPERIMENT M6 POINTS OK] four120deg tips;total depth22;angle is assumption.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M12 COMPLETION REPORT] F:\Project\DrawingTo3D\CadTest\output\m12-entry-completion\76689a7a312a46b9a128204b2acd01d5

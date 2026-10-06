@@ -1,0 +1,16 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d9c0ee9c24b54a20b14f806fa32fd957\AFTER_d9c0ee9c24b54a20b14f806fa32fd957.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d9c0ee9c24b54a20b14f806fa32fd957\AFTER_d9c0ee9c24b54a20b14f806fa32fd957.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d9c0ee9c24b54a20b14f806fa32fd957\AFTER_d9c0ee9c24b54a20b14f806fa32fd957.SLDPRT.
+[BOUNDARY WITNESS] 1: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4587341226347235,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 1: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 1: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 2: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4587341226347235,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 2: X249,7557735026919,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[BOUNDARY WITNESS] 2: X248,9942264973081,R2,4487341226347255,edgeDistance=0,faceDistance=0
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d9c0ee9c24b54a20b14f806fa32fd957

@@ -1,0 +1,17 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\TIFF_WORK_c98a6609121d4cb288fab9cd5a346817.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\TIFF_WORK_c98a6609121d4cb288fab9cd5a346817.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\TIFF_WORK_c98a6609121d4cb288fab9cd5a346817.SLDPRT.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=99.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[OK] TIFF_L_CORE_D71_PENDING_TRANSITIONS: X=232..233,9, R=34..35,5.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\Tsapfa_TIFF_L_CORE_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\Tsapfa_TIFF_L_CORE_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-l-core\c98a6609121d4cb288fab9cd5a346817\Tsapfa_TIFF_L_CORE_WIP.SLDPRT

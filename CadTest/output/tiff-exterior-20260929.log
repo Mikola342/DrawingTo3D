@@ -1,0 +1,28 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\TIFF_WORK_b57a3cbe66c141bcb3abdc9d9f9a29ea.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\TIFF_WORK_b57a3cbe66c141bcb3abdc9d9f9a29ea.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\TIFF_WORK_b57a3cbe66c141bcb3abdc9d9f9a29ea.SLDPRT.
+[TEST OK] TIFF exterior R5/R6/D135/D184/R3: start=175,990381057, upper tangency=183, straight D105 span=80,990381057, net delta includingD12=-46305,048696841, refinement=0,000207259. Finish extent82min not certified.
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF OUTER] TIFF_OUTER_FILL moved before bore/cut operations.
+[TIFF OUTER] TIFF_OUTER_TRIM moved before bore/cut operations.
+[TIFF BORE OK] D110: X=183,000000000..233,000000000, samples=66.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_REAR_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_REAR_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF BORE OK] D71: X=232,000000000..233,900000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..237,000000000, samples=165.
+[TIFF BORE OK] D80: X=237,000000000..265,000000000, samples=66.
+[TIFF BORE OK] D68: X=181,000000000..232,000000000, samples=99.
+[TIFF BORE OK] D68: X=233,900000000..237,000000000, samples=66.
+[TIFF BORE OK] D115: X=260,000000000..265,000000000, samples=66.
+[TIFF HEALTH OK] active=308, suppressed=24, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\Tsapfa_TIFF_EXTERIOR_WIP.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\Tsapfa_TIFF_EXTERIOR_WIP.SLDPRT
+[TIFF WIP SAVED] F:\Project\DrawingTo3D\CadTest\output\tiff-exterior\b57a3cbe66c141bcb3abdc9d9f9a29ea\Tsapfa_TIFF_EXTERIOR_WIP.SLDPRT

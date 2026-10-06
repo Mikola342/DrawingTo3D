@@ -1,0 +1,41 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-alignment-repair\\ed1b799c691649daa121b595ba2d7e6d\\ALIGNMENT_TRIAL.SLDPRT",
+  "SourceSha256": "02ED62B779B538188EA67F4F24E9FCBF703D8571184A5E035B27A393560AA8B8",
+  "Mode": "--verify-m6-integration",
+  "PredecessorFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m12-entry-completion\\76689a7a312a46b9a128204b2acd01d5\\Tsapfa_M6_M12_ENDINGS.SLDPRT",
+  "PredecessorSha256": "9A19E8EC04A6F8E15A8570459AAF63A508F2435D35AE588F1B9E859B467D11E7",
+  "Locality": {
+    "RemovedOutside": {
+      "Components": 0,
+      "Error": 0,
+      "Passed": true
+    },
+    "AddedOutside": {
+      "Components": 0,
+      "Error": 0,
+      "Passed": true
+    },
+    "MaskHoles": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "MaskRadiusMm": 3.001,
+    "MaskStartXmm": 248.9,
+    "MaskEndXmm": 265.001,
+    "KernelFaults": 0,
+    "Scope": "Exact bidirectional differences outside explicit local cylinders; not an assertion about inside-mask geometry"
+  },
+  "Ends": null,
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2438218466
+  },
+  "SavedBytesUnchanged": true,
+  "Accepted": false
+}

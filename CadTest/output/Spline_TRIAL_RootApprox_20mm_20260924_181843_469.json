@@ -1,0 +1,13 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Spline_TRIAL_RootApprox_20mm_20260924_181843_469.SLDPRT",
+  "IsManufacturingReady": false,
+  "IsFullPart": false,
+  "UserApprovedCircularRootApproximation": true,
+  "RootRadius": 1.0161290322580643,
+  "Teeth": 38,
+  "LengthMm": 20,
+  "BoreDiameterMm": 62,
+  "ActualVolumeMm3": 88043.05454562341,
+  "ExpectedVolumeMm3": 88043.05325894295,
+  "Limitations": "Standalone constant-section coupon along Z, not the tsapfa. R50, R35, lead-in, axial placement and angular phase absent. Involutes interpolated with 33 points per flank. Nominal diameters and midpoint tooth thickness. Stage15 unchanged."
+}

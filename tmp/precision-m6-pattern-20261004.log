@@ -1,0 +1,31 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.016,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":false,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0,"Offset":true,"OffsetDistance":0.001,"ReverseOffset":true,"MaintainThreadLength":true}
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[TIFF HEALTH OK] active=443, suppressed=35, one solid body.
+[PRECISION M6 PATTERN] built 1
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.016,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":false,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0,"Offset":true,"OffsetDistance":0.001,"ReverseOffset":true,"MaintainThreadLength":true}
+[TIFF HEALTH OK] active=445, suppressed=36, one solid body.
+[TIFF HEALTH OK] active=445, suppressed=36, one solid body.
+[PRECISION M6 PATTERN] built 2
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.016,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":false,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0,"Offset":true,"OffsetDistance":0.001,"ReverseOffset":true,"MaintainThreadLength":true}
+[TIFF HEALTH OK] active=447, suppressed=37, one solid body.
+[TIFF HEALTH OK] active=447, suppressed=37, one solid body.
+[PRECISION M6 PATTERN] built 3
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.016,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":false,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0,"Offset":true,"OffsetDistance":0.001,"ReverseOffset":true,"MaintainThreadLength":true}
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION M6 PATTERN] built 4
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\Tsapfa_PRECISION_M6_M12.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\Tsapfa_PRECISION_M6_M12.SLDPRT
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\Tsapfa_PRECISION_M6_M12.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\Tsapfa_PRECISION_M6_M12.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\Tsapfa_PRECISION_M6_M12.SLDPRT.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[NATIVE BODY CHECK] faults=0;codes=.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-m6-pattern\d7503ee7235642abb70af10eb348e18d\WORK_d7503ee7235642abb70af10eb348e18d.SLDPRT.

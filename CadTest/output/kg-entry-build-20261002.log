@@ -1,0 +1,17 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\WORK_415b978d62db4a83bee4572d4ce80b29.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\WORK_415b978d62db4a83bee4572d4ce80b29.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\WORK_415b978d62db4a83bee4572d4ce80b29.SLDPRT.
+[OK] APPROX KG pilot 60: 66 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 66 samples, residual=0,000000000, end=7,000000.
+[TRIAL] EXPERIMENT_KG_ENTRY_16X45_60: D=15,9, finite length=7,200000.
+[KG ENTRY BUILT] 60:removed=70,55338911153376,integral=70,54970934511726.
+[TRIAL] EXPERIMENT_KG_ENTRY_16X45_120: D=15,9, finite length=7,200000.
+[KG ENTRY BUILT] 120:removed=70,55327274743468,integral=70,54970934511726.
+[OK] APPROX KG pilot 60: 66 samples, residual=0,000000000, end=7,000000.
+[OK] APPROX KG pilot 120: 66 samples, residual=0,000000000, end=7,000000.
+[TIFF HEALTH OK] active=433, suppressed=34, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT
+[LEFT SLOT SAVED; FRESH CHECK REQUIRED] F:\Project\DrawingTo3D\CadTest\output\kg-entries\415b978d62db4a83bee4572d4ce80b29\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT

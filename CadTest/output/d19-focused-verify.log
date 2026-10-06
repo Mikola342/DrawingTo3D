@@ -1,0 +1,6 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\verification\08637a3d68f545f0ac9842d200f07a0b\D19_FOCUSED_VERIFY_ONLY.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\verification\08637a3d68f545f0ac9842d200f07a0b\D19_FOCUSED_VERIFY_ONLY.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\verification\08637a3d68f545f0ac9842d200f07a0b\D19_FOCUSED_VERIFY_ONLY.SLDPRT.
+[OK] Drawing D19: 12 cylinders, 72 samples, X247..265; PCD226/phase15.
+[SUCCESS] Focused D19 saved-file check: F:\Project\DrawingTo3D\CadTest\output\verification\08637a3d68f545f0ac9842d200f07a0b\focused-verification.json

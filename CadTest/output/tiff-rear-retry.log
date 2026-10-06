@@ -1,0 +1,23 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\tiff-rear\ea38871590bb4890b9c3ac41a5ec0a97\TIFF_WORK_ea38871590bb4890b9c3ac41a5ec0a97.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\tiff-rear\ea38871590bb4890b9c3ac41a5ec0a97\TIFF_WORK_ea38871590bb4890b9c3ac41a5ec0a97.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\tiff-rear\ea38871590bb4890b9c3ac41a5ec0a97\TIFF_WORK_ea38871590bb4890b9c3ac41a5ec0a97.SLDPRT.
+[TEST OK] Rear 4deg atX265: feed crossing X=248,022606611/R=49,812825005.
+[TEST OK] Rear 10deg atX265: feed crossing X=247,795900648/R=47,966453105.
+[TEST OK] Rear D115/PCD95: nominal M6 walls=4,5/7, M8 wall=2,5; recessV=85553,421938884.
+[TIFF AA OK] TIFF_AA_D63_4deg: cylinders=1, radial edges=1, feed edges=2.
+[TIFF AA OK] TIFF_AA_D6_X132: cylinders=1, radial edges=0, feed edges=0.
+[TIFF AA OK] TIFF_AA_D68_7deg: cylinders=1, radial edges=0, feed edges=0.
+[TIFF OK] 10deg/D6.3 cylinder; bore edges=1; feed edges=2.
+[TIFF REAR] suppressed TIFF_AA_M8_NOMINAL_PENDING_LENGTH
+[TIFF REAR] suppressed TIFF_AA_M8_PILOT_PENDING_LENGTH
+[TIFF REAR] suppressed TIFF_AA_D68_7deg
+[TIFF REAR] suppressed TIFF_AA_D6_X132
+[TIFF REAR] suppressed TIFF_AA_D63_4deg
+[TIFF REAR] suppressed TIFF_II_M8_NOMINAL_PENDING_LENGTH
+[TIFF REAR] suppressed TIFF_II_M8_PILOT_PENDING_LENGTH
+[TIFF REAR] suppressed TIFF_II_D68_feed_7deg
+[TIFF REAR] suppressed TIFF_II_D63_10deg
+[TIFF REAR] suppressed Rear_recess_lip
+[TIFF REAR] suppressed Collar_groove_nominal
+[TIFF REAR] suppressed Rear_recess_left

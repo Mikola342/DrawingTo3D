@@ -1,0 +1,105 @@
+[OK] Геометрические проверки этапа 1 пройдены.
+[DRAFT] Наружная левая/средняя часть остаётся контрольной.
+[DRAFT] Модель заканчивается на торце фланца X=265; выступ до X=273 ещё не построен.
+[DRAFT] Малые фаски, канавки, шлицы и боковые каналы ещё не построены.
+[INFO] Автоматическое создание M90 приостановлено: длина 3 мм не подтверждена.
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Создание новой детали...
+[OK] Новая деталь создана.
+[INFO] Создание Sketch из RevolveProfile...
+[INFO] Profile: Line, X=0..3, R=45..45
+[INFO] Profile: Line, X=3..3, R=45..41
+[INFO] Profile: Line, X=3..25, R=41..41
+[INFO] Profile: Cone, X=25..70, R=41..65,5
+[INFO] Profile: Line, X=70..144, R=65,5..65,5
+[INFO] Profile: Cone, X=144..200, R=65,5..94
+[INFO] Profile: Line, X=200..220, R=94..94
+[INFO] Profile: Line, X=220..220, R=94..95
+[INFO] Profile: Line, X=220..239, R=95..95
+[INFO] Profile: Line, X=239..239, R=95..100
+[INFO] Profile: Line, X=239..247, R=100..100
+[INFO] Profile: Line, X=247..247, R=100..127,5
+[INFO] Profile: Line, X=247..265, R=127,5..127,5
+[OK] Замкнутый Sketch из RevolveProfile создан.
+[INFO] Построение Revolve из PartDescription...
+[OK] Revolve из PartDescription создан.
+[INFO] Построение сложной внутренней расточки: 7 элементов.
+[INFO] Bore: Line, Ø62; entry chamfer pending, X=0..203,5, R=31..31
+[INFO] Bore: Line, Shoulder; detail Л pending, X=203,5..203,5, R=31..34
+[INFO] Bore: Line, Ø68 nominal, X=203,5..240, R=34..34
+[INFO] Bore: Line, Shoulder; local fillet pending, X=240..240, R=34..39
+[INFO] Bore: Line, Ø78; end chamfer pending, X=240..254, R=39..39
+[INFO] Bore: Line, Shoulder; detail Ц pending, X=254..254, R=39..45
+[INFO] Bore: Line, Ø90; groove/exit detail pending, X=254..265, R=45..45
+[OK] Sketch сложного внутреннего профиля создан.
+[OK] Найден Sketch: Эскиз2
+[OK] Ось расточки выбрана: Line1@Эскиз2
+[OK] Revolve Cut сложной внутренней расточки создан.
+[INFO] Построение отверстий: 12
+[OK] Найдена базовая плоскость «Справа».
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=6,919254415182545E-15 мм, Y=113 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз3
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-56,49999999999997 мм, Y=97,86087062764157 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз4
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-97,86087062764157 мм, Y=56,49999999999999 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз5
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-113 мм, Y=1,383850883036509E-14 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз6
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-97,86087062764156 мм, Y=-56,500000000000014 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз7
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-56,50000000000005 мм, Y=-97,86087062764155 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз8
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=-2,0757763245547636E-14 мм, Y=-113 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз9
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=56,500000000000014 мм, Y=-97,86087062764156 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз10
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=97,86087062764153 мм, Y=-56,50000000000005 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз11
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=113 мм, Y=-2,767701766073018E-14 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз12
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=97,86087062764162 мм, Y=56,49999999999992 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз13
+[OK] Отверстие Through All создано.
+
+[INFO] Отверстие: Type=Simple, Ø19 мм, X=56,49999999999997 мм, Y=97,86087062764159 мм, Depth=10 мм
+[OK] Окружность Ø19 мм создана.
+[OK] Найден Sketch: Эскиз14
+[OK] Отверстие Through All создано.
+[OK] Одно твёрдое тело; объём 3988907,681 мм³.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage1_20260923_233549_008.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage1_20260923_233549_008.SLDPRT
+[SUCCESS] Сохранена промежуточная модель: F:\Project\DrawingTo3D\CadTest\output\Tsapfa_stage1_20260923_233549_008.SLDPRT

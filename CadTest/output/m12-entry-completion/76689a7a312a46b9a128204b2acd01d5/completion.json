@@ -1,0 +1,130 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m12-entry-completion\\4440832824704371944dcfe039a63506\\Tsapfa_M6_M12_ENDINGS.SLDPRT",
+  "SourceSha256": "61B15D4625C0DA99571BB80F6517630067776CC98E66F1FC60D4ECADD52DABF4",
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m12-entry-completion\\76689a7a312a46b9a128204b2acd01d5\\Tsapfa_M6_M12_ENDINGS.SLDPRT",
+  "ModelSha256": "9A19E8EC04A6F8E15A8570459AAF63A508F2435D35AE588F1B9E859B467D11E7",
+  "Result": {
+    "BeforeMm3": 1998478.352053633,
+    "AfterMm3": 1998478.2241134606,
+    "Scope": "Restore start-face trimming with helix still extended outside flange; nominal dimensions unchanged"
+  },
+  "Native": {
+    "BeforeHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998478.2241134597
+    },
+    "AfterHealth": {
+      "ActiveFeatures": 441,
+      "SuppressedFeatures": 34,
+      "ActiveErrors": 0,
+      "ActiveWarnings": 0,
+      "SolidBodies": 1,
+      "VolumeMm3": 1998478.2241134597
+    },
+    "BeforeSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "AfterSolid": {
+      "FaultCount": 0,
+      "FaultCodes": [],
+      "Passed": true
+    },
+    "BeforeVolumeMm3": 1998478.2241134597,
+    "AfterVolumeMm3": 1998478.2241134597,
+    "FreshSavedFileOpened": true,
+    "FullDrawingConformanceAccepted": false,
+    "UnresolvedValidationRetained": true
+  },
+  "M12": {
+    "Threads": [
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+        "Samples": 396,
+        "MinX": 246.99999999999983,
+        "MaxX": 263.94721925339326,
+        "MinRadius": 5.052784714610737,
+        "MaxRadius": 6.000001981936695,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false,
+        "Offset": true,
+        "OffsetDistance": 0.00175,
+        "BlindDepth": 0.01975,
+        "TrimStartFace": true,
+        "TrimEndFace": true
+      },
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+        "Samples": 396,
+        "MinX": 246.99999999999991,
+        "MaxX": 263.9472192533948,
+        "MinRadius": 5.052784714610735,
+        "MaxRadius": 6.000001981937505,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false,
+        "Offset": true,
+        "OffsetDistance": 0.00175,
+        "BlindDepth": 0.01975,
+        "TrimStartFace": true,
+        "TrimEndFace": true
+      }
+    ],
+    "ActualVolumeMm3": 1998478.2241134597,
+    "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+  },
+  "M12EnvelopePassed": true,
+  "M6Points": {
+    "Points": [
+      {
+        "Hole": 1,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 2,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 3,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      },
+      {
+        "Hole": 4,
+        "TipX": 243,
+        "BaseX": 244.41955080756887,
+        "EdgeSamples": 33
+      }
+    ],
+    "IncludedAngleDegrees": 120,
+    "TotalDepthMm": 22,
+    "CylinderDepthMm": 20.580449192431132,
+    "ExperimentalPointsBuilt": true,
+    "DrawingPointAngleAccepted": false,
+    "FullProfileRunoutAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 441,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2241134597
+  },
+  "Accepted": false
+}

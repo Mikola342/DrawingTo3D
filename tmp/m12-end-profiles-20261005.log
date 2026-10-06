@@ -1,0 +1,8 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\b671a845afc34508ace74c819b10b854\M8_ENDS_b671a845afc34508ace74c819b10b854.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\b671a845afc34508ace74c819b10b854\M8_ENDS_b671a845afc34508ace74c819b10b854.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\b671a845afc34508ace74c819b10b854\M8_ENDS_b671a845afc34508ace74c819b10b854.SLDPRT.
+[THREAD PROFILE POINTS] M12_1: samples=544,slot=0,maxDistance=0,0005026155239890335,failed=189.
+[THREAD PROFILE POINTS] M12_2: samples=544,slot=0,maxDistance=0,0005026155239967868,failed=189.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[M8 INNER END REPORT] F:\Project\DrawingTo3D\CadTest\output\m8-inner-ends\b671a845afc34508ace74c819b10b854

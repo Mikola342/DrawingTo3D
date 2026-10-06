@@ -1,0 +1,9 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\other-geometry-verification\f55989156ed145f0b83915736f2cde4f\VERIFY_f55989156ed145f0b83915736f2cde4f.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\other-geometry-verification\f55989156ed145f0b83915736f2cde4f\VERIFY_f55989156ed145f0b83915736f2cde4f.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\other-geometry-verification\f55989156ed145f0b83915736f2cde4f\VERIFY_f55989156ed145f0b83915736f2cde4f.SLDPRT.
+[OK] APPROX DK: 195 samples, residual=0,000000000, D12 connections=1.
+[OK] Trial spline surfaces: 38 root faces, 76 fillet faces, 38 R50 runouts at X70.
+[LEFT SLOT CHECK] floor39.5,R35 center25/74.5,width16,00000000000078;samples5742.
+[TIFF HEALTH OK] active=425, suppressed=34, one solid body.
+[OTHER GEOMETRY VERIFIED] F:\Project\DrawingTo3D\CadTest\output\other-geometry-verification\f55989156ed145f0b83915736f2cde4f\verification.json

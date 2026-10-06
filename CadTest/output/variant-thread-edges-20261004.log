@@ -1,0 +1,13 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\variant-thread-edges\a4068bf93c2840a08f222744de185505\M6_a4068bf93c2840a08f222744de185505.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\variant-thread-edges\a4068bf93c2840a08f222744de185505\M6_a4068bf93c2840a08f222744de185505.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\variant-thread-edges\a4068bf93c2840a08f222744de185505\M6_a4068bf93c2840a08f222744de185505.SLDPRT.
+[AXIAL THREAD EDGES] TIFF_M6_1_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_2_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_3_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TIFF_M6_4_THREAD:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M12x1_75_7H_nominal_1:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M12x1_75_7H_nominal_2:faces=4,longEdges=6,pitchMatches=6.
+[AXIAL THREAD EDGES] TRIAL_M90x2_X5_to_X38:faces=56,longEdges=0,pitchMatches=0.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 MASS AUDIT REPORT] F:\Project\DrawingTo3D\CadTest\output\variant-thread-edges\a4068bf93c2840a08f222744de185505

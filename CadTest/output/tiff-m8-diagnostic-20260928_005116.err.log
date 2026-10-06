@@ -1,0 +1,5 @@
+System.InvalidOperationException: M8 thread lies outside the intended envelope.
+   at CadTest.Cad.SolidWorksService.InspectM8ThreadFeature(Feature feature, Double degrees, Nullable`1 inclination, Double anchorX, Double anchorRadius) in F:\Project\DrawingTo3D\CadTest\Cad\M8ThreadTrial.cs:line 127
+   at CadTest.Cad.SolidWorksService.InspectTiffM8() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM8Rebuild.cs:line 9
+   at CadTest.Cad.SolidWorksService.RebuildTiffM8() in F:\Project\DrawingTo3D\CadTest\Cad\TiffM8Rebuild.cs:line 80
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 19

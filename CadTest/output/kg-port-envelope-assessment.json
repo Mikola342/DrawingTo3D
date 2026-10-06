@@ -1,0 +1,732 @@
+{
+  "IsManufacturingReady": false,
+  "CadChanged": false,
+  "ThreadProfileSelected": false,
+  "DrawingCallout": "2 holes KG1/8, OST 37.001.311-83",
+  "EnvelopeOnly": "Conditional 1:16 taper, 7-degree axis. Diameters 9.5..11 and lengths 5/7/9 are sensitivity inputs, NOT accepted OST or drawing dimensions.",
+  "Candidates": [
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.78114439887193,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 121.477431945526,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.78114439887193,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 121.977431945526,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.331144398871942,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 121.477431945526,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.331144398871942,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 121.977431945526,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.881144398871953,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 121.477431945526,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.881144398871953,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 121.977431945526,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.599439846539241,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 119.49995647620617,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.599439846539241,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 119.99995647620617,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.149439846539252,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 119.49995647620617,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.149439846539252,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 119.99995647620617,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.6994398465392635,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 119.49995647620617,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.6994398465392635,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 119.99995647620617,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.417735294206466,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 117.52248100688635,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.417735294206466,
+      "RearClearanceMm": 2.3354057797037058,
+      "MinimumRadiusMm": 118.02248100688635,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.967735294206477,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 117.52248100688635,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.967735294206477,
+      "RearClearanceMm": 2.7854057797036944,
+      "MinimumRadiusMm": 118.02248100688635,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.517735294206545,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 117.52248100688635,
+      "MaximumRadiusMm": 127.57887938117445
+    },
+    {
+      "EntryDiameterMm": 9.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.517735294206545,
+      "RearClearanceMm": 3.235405779703683,
+      "MinimumRadiusMm": 118.02248100688635,
+      "MaximumRadiusMm": 128.07887938117446
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.53300786096159,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 121.44696460967471,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.53300786096159,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 121.94696460967471,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.083007860961601,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 121.44696460967471,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.083007860961601,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 121.94696460967471,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.633007860961612,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 121.44696460967471,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.633007860961612,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 121.94696460967471,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.3513033086289,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 119.46948914035488,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.3513033086289,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 119.96948914035488,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.901303308628911,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 119.46948914035488,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.901303308628911,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 119.96948914035488,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.451303308628923,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 119.46948914035488,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.451303308628923,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 119.96948914035488,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.169598756296153,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 117.49201367103505,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.169598756296153,
+      "RearClearanceMm": 2.0872692417934218,
+      "MinimumRadiusMm": 117.99201367103505,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.719598756296165,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 117.49201367103505,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.719598756296165,
+      "RearClearanceMm": 2.5372692417934104,
+      "MinimumRadiusMm": 117.99201367103505,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.2695987562962046,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 117.49201367103505,
+      "MaximumRadiusMm": 127.60934671702574
+    },
+    {
+      "EntryDiameterMm": 10,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.2695987562962046,
+      "RearClearanceMm": 2.987269241793399,
+      "MinimumRadiusMm": 117.99201367103505,
+      "MaximumRadiusMm": 128.10934671702574
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.284871323051249,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 121.41649727382342,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.284871323051249,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 121.91649727382342,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.83487132305126,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 121.41649727382342,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.83487132305126,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 121.91649727382342,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.3848713230512715,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 121.41649727382342,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.3848713230512715,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 121.91649727382342,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.103166770718559,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 119.4390218045036,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.103166770718559,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 119.9390218045036,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.65316677071857,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 119.4390218045036,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.65316677071857,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 119.9390218045036,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.203166770718582,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 119.4390218045036,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.203166770718582,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 119.9390218045036,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.9214622183858125,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 117.46154633518377,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.9214622183858125,
+      "RearClearanceMm": 1.839132703883081,
+      "MinimumRadiusMm": 117.96154633518377,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.471462218385824,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 117.46154633518377,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.471462218385824,
+      "RearClearanceMm": 2.2891327038830696,
+      "MinimumRadiusMm": 117.96154633518377,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.021462218385864,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 117.46154633518377,
+      "MaximumRadiusMm": 127.63981405287703
+    },
+    {
+      "EntryDiameterMm": 10.5,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.021462218385864,
+      "RearClearanceMm": 2.739132703883058,
+      "MinimumRadiusMm": 117.96154633518377,
+      "MaximumRadiusMm": 128.13981405287703
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 5.036734785140936,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 121.38602993797214,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 5.036734785140936,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 121.88602993797214,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.586734785140948,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 121.38602993797214,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.586734785140948,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 121.88602993797214,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.136734785140959,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 121.38602993797214,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 5,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.136734785140959,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 121.88602993797214,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.855030232808247,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 119.40855446865231,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.855030232808247,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 119.90855446865231,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.405030232808258,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 119.40855446865231,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.405030232808258,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 119.90855446865231,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 3.9550302328082694,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 119.40855446865231,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 7,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 3.9550302328082694,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 119.90855446865231,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.6733256804755,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 117.43107899933248,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.05,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.6733256804755,
+      "RearClearanceMm": 1.59099616597274,
+      "MinimumRadiusMm": 117.93107899933248,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 4.2233256804755115,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 117.43107899933248,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.5,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 4.2233256804755115,
+      "RearClearanceMm": 2.0409961659727287,
+      "MinimumRadiusMm": 117.93107899933248,
+      "MaximumRadiusMm": 128.1702813887283
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127,
+      "FrontClearanceMm": 3.7733256804755513,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 117.43107899933248,
+      "MaximumRadiusMm": 127.67028138872831
+    },
+    {
+      "EntryDiameterMm": 11,
+      "LengthMm": 9,
+      "OffsetMm": 7.95,
+      "EntryRadiusMm": 127.5,
+      "FrontClearanceMm": 3.7733256804755513,
+      "RearClearanceMm": 2.4909961659727173,
+      "MinimumRadiusMm": 117.93107899933248,
+      "MaximumRadiusMm": 128.1702813887283
+    }
+  ],
+  "MinimumFrontClearanceMm": 3.7733256804755513,
+  "MinimumRearClearanceMm": 1.59099616597274,
+  "Limitations": "Clearance to flange planes X247/265 only. No bolt-hole clearance, complete thread profile, datum acceptance, drill tip, chamfer, pressure/seal or tolerance acceptance. Original OST profile and depth/datum remain unresolved."
+}

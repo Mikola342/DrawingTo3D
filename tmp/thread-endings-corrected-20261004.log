@@ -1,0 +1,9 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\thread-sections\bc30dafb151f4c68b3601f6d8b4df298\SECTIONS_bc30dafb151f4c68b3601f6d8b4df298.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\bc30dafb151f4c68b3601f6d8b4df298\SECTIONS_bc30dafb151f4c68b3601f6d8b4df298.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\thread-sections\bc30dafb151f4c68b3601f6d8b4df298\SECTIONS_bc30dafb151f4c68b3601f6d8b4df298.SLDPRT.
+[THREAD PROFILE POINTS] M90: samples=945,slot=63,maxDistance=0,0005746506990292931,failed=520.
+[THREAD PROFILE POINTS] M8_II: samples=208,slot=0,maxDistance=0,0003582553843308884,failed=130.
+[THREAD PROFILE POINTS] M8_AA: samples=208,slot=0,maxDistance=0,001297625548526497,failed=66.
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[THREAD SECTIONS REPORT] F:\Project\DrawingTo3D\CadTest\output\thread-sections\bc30dafb151f4c68b3601f6d8b4df298

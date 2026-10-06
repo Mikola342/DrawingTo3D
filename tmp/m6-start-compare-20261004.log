@@ -1,0 +1,9 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\BEFORE_e04b0d80a3e541a08bda925572b42035.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\BEFORE_e04b0d80a3e541a08bda925572b42035.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\BEFORE_e04b0d80a3e541a08bda925572b42035.SLDPRT.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\AFTER_e04b0d80a3e541a08bda925572b42035.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\AFTER_e04b0d80a3e541a08bda925572b42035.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035\AFTER_e04b0d80a3e541a08bda925572b42035.SLDPRT.
+[M6 START EXTENSION BOOLEAN RECONSTRUCTION OK] 4 removed bodies rejoined; both differences empty (0/0).
+[TIFF HEALTH OK] active=441, suppressed=34, one solid body.
+[M6 START COMPARISON] F:\Project\DrawingTo3D\CadTest\output\m6-start-comparison\e04b0d80a3e541a08bda925572b42035

@@ -1,0 +1,9 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\OLD_66e6df925a444424a2fc867942f8c13f.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\OLD_66e6df925a444424a2fc867942f8c13f.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\OLD_66e6df925a444424a2fc867942f8c13f.SLDPRT.
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\NEW_66e6df925a444424a2fc867942f8c13f.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\NEW_66e6df925a444424a2fc867942f8c13f.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\NEW_66e6df925a444424a2fc867942f8c13f.SLDPRT.
+[LEFT MASS BOOLEAN RECONSTRUCTION OK] 2 removed bodies rejoined; both differences empty (0/0).
+[LEFT MASS COMPARISON] previous=1996673,8056720034,current=1998681,9356265762,pieces=2009,6738201383823,scratchDelta=2008,129954572767,documentDelta=2009,5733202900738.
+[LEFT SHOULDERS AUDIT; CHECK ENVELOPE FLAG] F:\Project\DrawingTo3D\CadTest\output\left-shoulders\66e6df925a444424a2fc867942f8c13f\verification.json

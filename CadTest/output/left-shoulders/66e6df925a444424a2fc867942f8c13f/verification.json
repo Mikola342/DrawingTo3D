@@ -1,0 +1,35 @@
+{
+  "PreviousFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\experimental-m8-transitions\\e604b197e4904c94ab46937646d655af\\Tsapfa_EXPERIMENT_M8_TRANSITIONS.SLDPRT",
+  "PreviousSha256": "30BFB8F43B63D575850F3DA3F446B4E085EEC2ACBC1DE2609F58A10DC150F277",
+  "CurrentFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-slot\\40ce6ede21804c3aa9d8f49f8bfc69ef\\Tsapfa_LEFT_SLOT16.SLDPRT",
+  "CurrentSha256": "3DAE51B34AFF03B950D7F3D671050C2827A5CD9A5E9C0B97514840DA8019AA56",
+  "PreviousCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-shoulders\\66e6df925a444424a2fc867942f8c13f\\OLD_66e6df925a444424a2fc867942f8c13f.SLDPRT",
+  "CurrentCopy": "F:\\Project\\DrawingTo3D\\CadTest\\output\\left-shoulders\\66e6df925a444424a2fc867942f8c13f\\NEW_66e6df925a444424a2fc867942f8c13f.SLDPRT",
+  "FreshDiskCopiesLoaded": true,
+  "SavedBytesUnchanged": true,
+  "GeometryChanged": false,
+  "Result": {
+    "PreviousDocumentMm3": 1996679.0803251318,
+    "CurrentDocumentMm3": 1998688.6536454218,
+    "PreviousScratchMm3": 1996673.8056720034,
+    "CurrentScratchMm3": 1998681.9356265762,
+    "IsolatedPiecesMm3": 2009.6738201383823,
+    "DocumentDeltaMm3": 2009.5733202900738,
+    "ScratchDeltaMm3": 2008.129954572767,
+    "DocumentResidualMm3": 0.10049984830857284,
+    "ScratchResidualMm3": 1.543865565615306,
+    "VolumeBudgetMm3": 0.02,
+    "SameRepresentationVolumePassed": false,
+    "DocumentVolumePassed": false,
+    "Reconstruction": {
+      "RemovedBodyCount": 2,
+      "ForwardDifferenceEmpty": true,
+      "ReverseDifferenceEmpty": true,
+      "ForwardCode": 0,
+      "ReverseCode": 0
+    },
+    "NoMaterialLost": true,
+    "Scope": "Mass-only comparison; does not repeat or waive prior failed envelope check.",
+    "Accepted": false
+  }
+}

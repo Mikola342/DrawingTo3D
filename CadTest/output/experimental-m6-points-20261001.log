@@ -1,0 +1,24 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\L_EXPERIMENT_WORK.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\L_EXPERIMENT_WORK.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\L_EXPERIMENT_WORK.SLDPRT.
+[TRIAL] EXPERIMENT_M6_1_CYLINDER: D=4,917468245269452, finite length=5,580449.
+[TRIAL] EXPERIMENT_M6_1_POINT120: D=4,917468245269452, finite length=2,839102.
+[TRIAL] EXPERIMENT_M6_2_CYLINDER: D=4,917468245269452, finite length=5,580449.
+[TRIAL] EXPERIMENT_M6_2_POINT120: D=4,917468245269452, finite length=2,839102.
+[TRIAL] EXPERIMENT_M6_3_CYLINDER: D=4,917468245269452, finite length=5,580449.
+[TRIAL] EXPERIMENT_M6_3_POINT120: D=4,917468245269452, finite length=2,839102.
+[TRIAL] EXPERIMENT_M6_4_CYLINDER: D=4,917468245269452, finite length=5,580449.
+[TRIAL] EXPERIMENT_M6_4_POINT120: D=4,917468245269452, finite length=2,839102.
+[EXPERIMENT M6 POINTS OK] four120deg tips;total depth22;angle is assumption.
+[M6 PARAMETERS] {"Feature":"TIFF_M6_1_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_2_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_3_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 PARAMETERS] {"Feature":"TIFF_M6_4_THREAD","Type":"C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP","Size":"M6x1.0","PitchOverride":true,"Pitch":0.001,"BlindDepth":0.015,"RightHanded":true,"MultipleStart":false,"ReverseDirection":false,"TrimStartFace":true,"TrimEndFace":true,"ThreadMethod":0,"EndCondition":0,"DiameterOverride":false,"Diameter":0}
+[M6 BOOLEAN RECONSTRUCTION OK] 4 removed bodies rejoined; both differences empty (0/0).
+[TIFF M6 OK] four threads, samples=429,429,429,429, V=219,371869046, R=2,458734123..2,999999998.
+[TIFF HEALTH OK] active=382, suppressed=29, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\Tsapfa_EXPERIMENT_M6_POINTS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\Tsapfa_EXPERIMENT_M6_POINTS.SLDPRT
+[EXPERIMENT SAVED] F:\Project\DrawingTo3D\CadTest\output\experimental-m6-points\2cd286c668334cb0b76d8ee3d7c92f1c\Tsapfa_EXPERIMENT_M6_POINTS.SLDPRT

@@ -1,0 +1,14 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d1c998dec25b4bf9b40f4c202c7fd483\AFTER_d1c998dec25b4bf9b40f4c202c7fd483.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d1c998dec25b4bf9b40f4c202c7fd483\AFTER_d1c998dec25b4bf9b40f4c202c7fd483.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d1c998dec25b4bf9b40f4c202c7fd483\AFTER_d1c998dec25b4bf9b40f4c202c7fd483.SLDPRT.
+[PRECISION VOID] 1: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 1: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 2: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 2: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 3: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 3: R2,8,components=1,error=0,control=True,passed=True.
+[PRECISION VOID] 4: R2,458634122634726,components=0,error=0,control=False,passed=True.
+[PRECISION VOID] 4: R2,8,components=1,error=0,control=True,passed=True.
+[TIFF HEALTH OK] active=449, suppressed=38, one solid body.
+[PRECISION BOUNDARIES REPORT] F:\Project\DrawingTo3D\CadTest\output\precision-pattern-verification\d1c998dec25b4bf9b40f4c202c7fd483

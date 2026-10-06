@@ -1,0 +1,220 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\precision-alignment-repair\\ed1b799c691649daa121b595ba2d7e6d\\ALIGNMENT_TRIAL.SLDPRT",
+  "SourceSha256": "02ED62B779B538188EA67F4F24E9FCBF703D8571184A5E035B27A393560AA8B8",
+  "Mode": "--verify-precision-m6-repair",
+  "Boundaries": {
+    "Boundaries": {
+      "Threads": [
+        {
+          "Hole": 1,
+          "MinimumXmm": 249,
+          "MaximumXmm": 264.5412660824127,
+          "MinimumRadiusMm": 2.4587341226346804,
+          "MaximumRadiusMm": 3.00000038536708,
+          "Samples": 2064,
+          "Alignment": 0,
+          "Twist": 0,
+          "Thin": false,
+          "DirectionConstrained": false,
+          "Passed": false
+        },
+        {
+          "Hole": 2,
+          "MinimumXmm": 249.00000000000003,
+          "MaximumXmm": 264.54126608241404,
+          "MinimumRadiusMm": 2.4587341226347013,
+          "MaximumRadiusMm": 3.000000385369395,
+          "Samples": 2064,
+          "Alignment": 0,
+          "Twist": 0,
+          "Thin": false,
+          "DirectionConstrained": false,
+          "Passed": false
+        },
+        {
+          "Hole": 3,
+          "MinimumXmm": 248.99999999999997,
+          "MaximumXmm": 264.54126607122066,
+          "MinimumRadiusMm": 2.4587341226346715,
+          "MaximumRadiusMm": 3.000000385367118,
+          "Samples": 2064,
+          "Alignment": 0,
+          "Twist": 0,
+          "Thin": false,
+          "DirectionConstrained": false,
+          "Passed": false
+        },
+        {
+          "Hole": 4,
+          "MinimumXmm": 249,
+          "MaximumXmm": 264.5412660712203,
+          "MinimumRadiusMm": 2.458734122634676,
+          "MaximumRadiusMm": 3.000000385369945,
+          "Samples": 2064,
+          "Alignment": 0,
+          "Twist": 0,
+          "Thin": false,
+          "DirectionConstrained": false,
+          "Passed": false
+        }
+      ],
+      "BoundaryEnvelopePassed": false,
+      "Scope": "Sampled boundaries, native suppression and sweep orientation; not continuous endpoint certification"
+    },
+    "Witnesses": {
+      "Witnesses": [],
+      "Scope": "Cross-check out-of-envelope edge evaluations against trimmed edge/face closest points and vertices; not acceptance"
+    },
+    "Clearance": {
+      "Tests": [
+        {
+          "Hole": 1,
+          "RadiusMm": 2.458634122634726,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 0,
+          "Error": 0,
+          "PositiveMaterialControl": false,
+          "Passed": true
+        },
+        {
+          "Hole": 1,
+          "RadiusMm": 2.8,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 1,
+          "Error": 0,
+          "PositiveMaterialControl": true,
+          "Passed": true
+        },
+        {
+          "Hole": 2,
+          "RadiusMm": 2.458634122634726,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 0,
+          "Error": 0,
+          "PositiveMaterialControl": false,
+          "Passed": true
+        },
+        {
+          "Hole": 2,
+          "RadiusMm": 2.8,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 1,
+          "Error": 0,
+          "PositiveMaterialControl": true,
+          "Passed": true
+        },
+        {
+          "Hole": 3,
+          "RadiusMm": 2.458634122634726,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 0,
+          "Error": 0,
+          "PositiveMaterialControl": false,
+          "Passed": true
+        },
+        {
+          "Hole": 3,
+          "RadiusMm": 2.8,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 1,
+          "Error": 0,
+          "PositiveMaterialControl": true,
+          "Passed": true
+        },
+        {
+          "Hole": 4,
+          "RadiusMm": 2.458634122634726,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 0,
+          "Error": 0,
+          "PositiveMaterialControl": false,
+          "Passed": true
+        },
+        {
+          "Hole": 4,
+          "RadiusMm": 2.8,
+          "StartXmm": 249,
+          "EndXmm": 264,
+          "Components": 1,
+          "Error": 0,
+          "PositiveMaterialControl": true,
+          "Passed": true
+        }
+      ],
+      "Scope": "Temporary cylinder intersections with saved final body; 0.0001 mm clearance from nominal pilot, positive control R2.8"
+    },
+    "Profiles": {
+      "Threads": [
+        {
+          "Name": "M6_1",
+          "Start": 250,
+          "End": 264,
+          "Phase": 0,
+          "Sign": -1,
+          "SampleCount": 912,
+          "KnownSlotSamplesExcluded": 0,
+          "MaximumDistanceMm": 2.1366867782310465E-05,
+          "FailedPoints": [],
+          "SampledProfilePassed": true
+        },
+        {
+          "Name": "M6_2",
+          "Start": 250,
+          "End": 264,
+          "Phase": 0,
+          "Sign": -1,
+          "SampleCount": 912,
+          "KnownSlotSamplesExcluded": 0,
+          "MaximumDistanceMm": 2.136686698984824E-05,
+          "FailedPoints": [],
+          "SampledProfilePassed": true
+        },
+        {
+          "Name": "M6_3",
+          "Start": 250,
+          "End": 264,
+          "Phase": 0,
+          "Sign": -1,
+          "SampleCount": 912,
+          "KnownSlotSamplesExcluded": 0,
+          "MaximumDistanceMm": 2.1366870559764713E-05,
+          "FailedPoints": [],
+          "SampledProfilePassed": true
+        },
+        {
+          "Name": "M6_4",
+          "Start": 250,
+          "End": 264,
+          "Phase": 0,
+          "Sign": -1,
+          "SampleCount": 912,
+          "KnownSlotSamplesExcluded": 0,
+          "MaximumDistanceMm": 2.136686729012229E-05,
+          "FailedPoints": [],
+          "SampledProfilePassed": true
+        }
+      ],
+      "DiagnosticBudgetMm": 0.0001,
+      "GeometryChanged": false,
+      "ContinuousProfileCertified": false,
+      "Method": "Closest point on trimmed final faces at 16 angular phases and \u003C=P/4 axial spacing; prescribed construction phase 0, signed helix phase -1, no phase fitting"
+    },
+    "Accepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 449,
+    "SuppressedFeatures": 38,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998478.2438218466
+  },
+  "SavedBytesUnchanged": true
+}

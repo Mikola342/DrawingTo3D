@@ -1,0 +1,100 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-entries\\415b978d62db4a83bee4572d4ce80b29\\Tsapfa_EXPERIMENT_KG_ENTRIES.SLDPRT",
+  "SourceSha256": "DFC1E5F8DAFA092AA56BBBFB4FE785A6ABF91F10686C3E2391E9BDEA0AFA6292",
+  "BuildReport": "F:\\Project\\DrawingTo3D\\CadTest\\output\\kg-entries\\415b978d62db4a83bee4572d4ce80b29\\Tsapfa_EXPERIMENT_KG_ENTRIES.json",
+  "BuildReportSha256": "7C0D5ED30C511EE0E8C656B67548EEF600C5490CF783A3BEA75997EB60F48919",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "Entries": {
+    "Entries": [
+      {
+        "BranchDegrees": 60,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.5999999999999779,
+        "MaximumResidualMm": 9.618410068412686E-09
+      },
+      {
+        "BranchDegrees": 120,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.600000000000018,
+        "MaximumResidualMm": 1.1033688718242729E-07
+      }
+    ],
+    "Pilot": [
+      {
+        "AngleDegrees": 60,
+        "ConeFaces": 1,
+        "Samples": 66,
+        "MaxResidualMm": 1.2256862191861728E-13,
+        "MaxT": 6.9999999999999165,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999942,
+        "MaxTransition": 9.000000000000112
+      },
+      {
+        "AngleDegrees": 120,
+        "ConeFaces": 1,
+        "Samples": 66,
+        "MaxResidualMm": 1.1812772982011666E-13,
+        "MaxT": 7.000000000000009,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999888,
+        "MaxTransition": 9.000000000000071
+      }
+    ],
+    "EntryDatumAccepted": false,
+    "KgThreadBuilt": false
+  },
+  "II": {
+    "Cylinders": 1,
+    "SharedEdgesWithD62Bore": 1,
+    "SharedEdgesWithD68Feed": 2,
+    "AxisChecked": true,
+    "EntryX": 265,
+    "ToolLengthVerifiedFromSavedParameters": false
+  },
+  "AA": {
+    "MainCylinders": 1,
+    "RadialCylinders": 1,
+    "FeedCylinders": 1,
+    "RadialX": 132,
+    "InclinationDegrees": 4,
+    "EntryX": 265,
+    "AxesAndConnectionsChecked": true,
+    "DrillBottomGeometryAccepted": false
+  },
+  "Flange19": {
+    "Count": 12,
+    "DiameterMm": 19,
+    "PitchCircleMm": 226,
+    "PhaseDegrees": 15,
+    "EdgeSamples": 72,
+    "StartX": 247,
+    "EndX": 265
+  },
+  "Slot": {
+    "WidthMm": 16.00000000000078,
+    "MinimumZMm": -8.00000000000039,
+    "MaximumZMm": 8.000000000000393,
+    "FloorFaces": 1,
+    "NegativeSideFaces": 1,
+    "PositiveSideFaces": 1,
+    "RunoutR35Faces": 1,
+    "EdgeSamples": 5742,
+    "FullLeftEndAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 433,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998547.5469835629
+  },
+  "VolumeMm3": 1998547.5469835629,
+  "FullInheritedRegressionRepeated": false,
+  "DrawingInterpretationAccepted": false,
+  "KgThreadBuilt": false
+}

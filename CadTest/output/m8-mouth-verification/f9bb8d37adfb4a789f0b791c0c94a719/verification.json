@@ -1,0 +1,161 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\m8-mouth-trial\\43af27e441474ee5ab74795d8cae0bba\\UNVERIFIED_M8_MOUTHS.SLDPRT",
+  "SourceSha256": "892040FDA4C49A6E0F8CE88618BF157A12D7D45099FD3BADF5C1C30A48005EFD",
+  "BuildReportSha256": "51BBF53F27122326FB2BFF85A09F8E652648B5808B8254E506FC666922427779",
+  "FreshDiskCopyLoaded": true,
+  "SavedBytesUnchanged": true,
+  "Mouths": {
+    "Operations": [
+      {
+        "Branch": "II",
+        "RadiusDefinitionMm": 0.5,
+        "SurvivingFaces": 1,
+        "ThreadEdgeSamples": 1365,
+        "MinimumInwardSignedSmm": -6.09255967131437,
+        "MaximumOutwardSmm": 0.1869186231706323,
+        "MaximumRadiusMm": 3.9999999970434517,
+        "MaximumGlobalXmm": 265.0000000000005
+      },
+      {
+        "Branch": "AA",
+        "RadiusDefinitionMm": 0.5,
+        "SurvivingFaces": 1,
+        "ThreadEdgeSamples": 1170,
+        "MinimumInwardSignedSmm": -6.014651388487088,
+        "MaximumOutwardSmm": 0.21987919527792105,
+        "MaximumRadiusMm": 3.999999997043428,
+        "MaximumGlobalXmm": 265.0000000000002
+      }
+    ],
+    "Threads": {
+      "Definitions": [
+        {
+          "Feature": "TIFF_REAR_II_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.00609255967131447,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        },
+        {
+          "Feature": "TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH",
+          "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+          "Size": "M8x1.25",
+          "Pitch": 0.00125,
+          "BlindDepth": 0.0060146513884870335,
+          "DiameterOverride": false,
+          "PitchOverride": true,
+          "RightHanded": true,
+          "MultipleStart": false,
+          "ReverseDirection": false,
+          "TrimStartFace": true,
+          "TrimEndFace": false
+        }
+      ],
+      "NominalLibraryContractChecked": true,
+      "FullProfileLengthVerified": false,
+      "RunoutVerified": false,
+      "Tolerance6HVerified": false,
+      "GeometryChanged": false
+    },
+    "FullBlendSurfaceVerified": false,
+    "Accepted": false
+  },
+  "Entries": {
+    "Entries": [
+      {
+        "BranchDegrees": 60,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.5999999999999348,
+        "MaximumResidualMm": 9.618434049230018E-09
+      },
+      {
+        "BranchDegrees": 120,
+        "EdgeSamples": 130,
+        "MaximumTmm": 1.5999999999999797,
+        "MaximumResidualMm": 1.1033695734852245E-07
+      }
+    ],
+    "Pilot": [
+      {
+        "AngleDegrees": 60,
+        "ConeFaces": 1,
+        "Samples": 66,
+        "MaxResidualMm": 6.838973831690964E-14,
+        "MaxT": 6.9999999999999165,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999942,
+        "MaxTransition": 9.000000000000112
+      },
+      {
+        "AngleDegrees": 120,
+        "ConeFaces": 1,
+        "Samples": 66,
+        "MaxResidualMm": 1.2789769243681803E-13,
+        "MaxT": 7.000000000000009,
+        "DirectConeD8Edges": 0,
+        "TransitionSamples": 34,
+        "MinTransition": 6.999999999999888,
+        "MaxTransition": 9.000000000000071
+      }
+    ],
+    "EntryDatumAccepted": false,
+    "KgThreadBuilt": false
+  },
+  "II": {
+    "Cylinders": 1,
+    "SharedEdgesWithD62Bore": 1,
+    "SharedEdgesWithD68Feed": 2,
+    "AxisChecked": true,
+    "EntryX": 265,
+    "ToolLengthVerifiedFromSavedParameters": false
+  },
+  "AA": {
+    "MainCylinders": 1,
+    "RadialCylinders": 1,
+    "FeedCylinders": 1,
+    "RadialX": 132,
+    "InclinationDegrees": 4,
+    "EntryX": 265,
+    "AxesAndConnectionsChecked": true,
+    "DrillBottomGeometryAccepted": false
+  },
+  "Flange19": {
+    "Count": 12,
+    "DiameterMm": 19,
+    "PitchCircleMm": 226,
+    "PhaseDegrees": 15,
+    "EdgeSamples": 72,
+    "StartX": 247,
+    "EndX": 265
+  },
+  "Slot": {
+    "WidthMm": 16.00000000000078,
+    "MinimumZMm": -8.00000000000039,
+    "MaximumZMm": 8.000000000000393,
+    "FloorFaces": 1,
+    "NegativeSideFaces": 1,
+    "PositiveSideFaces": 1,
+    "RunoutR35Faces": 1,
+    "EdgeSamples": 5742,
+    "FullLeftEndAccepted": false
+  },
+  "Health": {
+    "ActiveFeatures": 435,
+    "SuppressedFeatures": 34,
+    "ActiveErrors": 0,
+    "ActiveWarnings": 0,
+    "SolidBodies": 1,
+    "VolumeMm3": 1998546.4257616932
+  },
+  "VolumeMm3": 1998546.4257616932,
+  "Accepted": false,
+  "FullInheritedRegressionRepeated": false
+}

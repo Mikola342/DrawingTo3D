@@ -1,0 +1,4 @@
+System.InvalidOperationException: Invalid solid-body volume.
+   at CadTest.Cad.SolidWorksService.CurrentTrialVolume() in F:\Project\DrawingTo3D\CadTest\Cad\M12Trial.cs:line 23
+   at CadTest.Cad.SolidWorksService.TrialM8MouthFillets(String diagnosticDirectory, Boolean beforeThread) in F:\Project\DrawingTo3D\CadTest\Cad\M8MouthTrial.cs:line 74
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 20

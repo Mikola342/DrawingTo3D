@@ -1,0 +1,4 @@
+System.InvalidOperationException: TIFF D90 extent mismatch: 5..265, expected 254..265.
+   at CadTest.Cad.SolidWorksService.InspectTiffBoreCylinder(Double radius, Double expectedStart, Double expectedEnd) in F:\Project\DrawingTo3D\CadTest\Cad\TiffBoreRebuild.cs:line 77
+   at CadTest.Cad.SolidWorksService.RestoreTiffBore80() in F:\Project\DrawingTo3D\CadTest\Cad\TiffBoreRestore.cs:line 28
+   at Program.<Main>$(String[] args) in F:\Project\DrawingTo3D\CadTest\Program.cs:line 27

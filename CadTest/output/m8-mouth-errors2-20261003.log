@@ -1,0 +1,38 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\feature-errors\5c24ae0601064ccdb3f87db0b85e02dd\ERR_5c24ae0601064ccdb3f87db0b85e02dd.SLDPRT; warnings=32.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\feature-errors\5c24ae0601064ccdb3f87db0b85e02dd\ERR_5c24ae0601064ccdb3f87db0b85e02dd.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\feature-errors\5c24ae0601064ccdb3f87db0b85e02dd\ERR_5c24ae0601064ccdb3f87db0b85e02dd.SLDPRT.
+[FEATURE ISSUE] TIFF_REAR_AA_M8_PILOT_PENDING_LENGTH: code=71,warning=False
+[FEATURE ISSUE] TIFF_REAR_AA_M8_NOMINAL_PENDING_LENGTH: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_1_PILOT: code=71,warning=False
+[FEATURE ISSUE] TIFF_M6_1_CHAMFER_1x45: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_1_THREAD: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_2_PILOT: code=71,warning=False
+[FEATURE ISSUE] TIFF_M6_2_CHAMFER_1x45: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_2_THREAD: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_3_PILOT: code=71,warning=False
+[FEATURE ISSUE] TIFF_M6_3_CHAMFER_1x45: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_3_THREAD: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_4_PILOT: code=71,warning=False
+[FEATURE ISSUE] TIFF_M6_4_CHAMFER_1x45: code=1,warning=False
+[FEATURE ISSUE] TIFF_M6_4_THREAD: code=1,warning=False
+[FEATURE ISSUE] TIFF_PP_D22_REAR_CHAMFER_2x45: code=1,warning=False
+[FEATURE ISSUE] EXPERIMENT_L_EXIT_1p2_30deg_TO_AXIS: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_L_GROOVE_RIGHT_WALL_51: code=1,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_1_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_1_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_2_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_2_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_3_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_3_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_4_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_M6_4_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_POINT_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_FEED_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_FEED_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_RADIAL_CYLINDER: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_RADIAL_POINT120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_AA_M8_TO_D63_120: code=71,warning=False
+[FEATURE ISSUE] EXPERIMENT_KG_ENTRY_16X45_120: code=71,warning=False
+[FEATURE DIAGNOSIS] F:\Project\DrawingTo3D\CadTest\output\feature-errors\5c24ae0601064ccdb3f87db0b85e02dd\diagnosis.json

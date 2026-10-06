@@ -1,0 +1,13 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[INFO] Проверка без сохранения: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\MOUTH_94e86c4e264c4077b4fd0b0b25800465.SLDPRT; warnings=0.
+[AUDIT] Opened document: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\MOUTH_94e86c4e264c4077b4fd0b0b25800465.SLDPRT; active document: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\MOUTH_94e86c4e264c4077b4fd0b0b25800465.SLDPRT.
+[M8 MOUTH SELECTED] II:edges=1;R0.5 experiment.
+[M8 TRIM EXPERIMENT] II:TrimEndFace=false; pitch/depth unchanged.
+[M8 MOUTH SELECTED] AA:edges=1;R0.5 experiment.
+[M8 TRIM EXPERIMENT] AA:TrimEndFace=false; pitch/depth unchanged.
+[TIFF HEALTH OK] active=435, suppressed=34, one solid body.
+[INFO] Сохранение детали: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\UNVERIFIED_M8_MOUTHS.SLDPRT
+[OK] Деталь сохранена.
+[INFO] Файл: F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\UNVERIFIED_M8_MOUTHS.SLDPRT
+[UNVERIFIED M8 MOUTH TRIAL] F:\Project\DrawingTo3D\CadTest\output\m8-mouth-trial\43af27e441474ee5ab74795d8cae0bba\UNVERIFIED_M8_MOUTHS.SLDPRT

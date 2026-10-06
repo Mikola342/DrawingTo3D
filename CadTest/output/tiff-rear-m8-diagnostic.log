@@ -1,0 +1,5 @@
+[OK] Подключение к SolidWorks выполнено.
+[OK] Revision: 33.5.0
+[UNVERIFIED CHECKPOINT ONLY] F:\Project\DrawingTo3D\CadTest\output\tiff-rear-diagnostic\dc4712d64f294aab982f06fdf92ae037\UNVERIFIED_REAR_CHECKPOINT.SLDPRT
+[M8 MASS] removed=37,548535494, same-body-calculator delta=39,195018458, document-high delta=37,561757226.
+[DIAGNOSTIC] M8 isolated removal: V=37,548535494, bodies=1, samples=780, R=3,323417653..3,999999997, S=-0,000000000..6,259652606; whole-part delta=37,561757226.

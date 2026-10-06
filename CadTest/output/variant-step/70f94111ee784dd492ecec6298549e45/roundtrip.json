@@ -1,0 +1,45 @@
+{
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\agreed-variant\\ffa6a0b804854dff941affab111fe55f\\DESIGN_VARIANT_PENDING_CHECK.SLDPRT",
+  "SourceSha256": "F23826717061925D94F2E85A8DBB4F97A269B50CB697FA3126FCD089BC0D077E",
+  "StepFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\variant-step\\70f94111ee784dd492ecec6298549e45\\DESIGN_VARIANT_NOT_FOR_MANUFACTURE.step",
+  "StepSha256": "1B15B5E23CF8EB622D14007D24388A0094AE57657756ECC7A5366EDEFADD8EB2",
+  "SavedBytesUnchanged": true,
+  "Result": {
+    "SourceVolumeMm3": 1998512.325990297,
+    "ImportedVolumeMm3": 1998508.380708284,
+    "VolumeDifferenceMm3": -3.9452820129226893,
+    "SourceBoxMetres": [
+      0,
+      -0.1275,
+      -0.1275,
+      0.273,
+      0.1275,
+      0.1275
+    ],
+    "ImportedBoxMetres": [
+      -2.4999999999999998E-06,
+      -0.1275,
+      -0.1275,
+      0.273,
+      0.1275,
+      0.1275
+    ],
+    "BoundingBoxIsApproximate": true,
+    "SolidBodies": 1,
+    "SheetBodies": 0,
+    "Missing": {
+      "Code": 0,
+      "RemainingBodies": 2,
+      "Empty": false
+    },
+    "Added": {
+      "Code": 0,
+      "RemainingBodies": 6,
+      "Empty": false
+    },
+    "SameKernelComparison": true,
+    "DrawingConformanceAccepted": false,
+    "ManufacturingAccepted": false
+  },
+  "Accepted": false
+}

@@ -1,0 +1,255 @@
+{
+  "Status": "Conditional candidates, NOT CAD revisions or confirmed drawing geometry",
+  "Source": "chertezh_corrected_final.pdf, section A-A; stage10 supplies the fixed left boundary",
+  "Assumptions": [
+    "\u00D8164 and \u00D8188 refer to theoretical corners at radii 82 and 94.",
+    "The two remaining oblique transitions are 45 degrees, root radii selected as R2.",
+    "Intermediate axial station is free; 244,245,246 are examples, NOT measured dimensions.",
+    "\u0414/\u041A absent. Bore and rear recess remain unchanged. Circle overlap concerns only local \u00D812."
+  ],
+  "OpenStationIntervalMm": [
+    241.5857864376269,
+    246.4142135623731
+  ],
+  "IntervalMeaning": "Geometric feasibility for this assumed topology only; NOT a drawing tolerance",
+  "Candidates": [
+    {
+      "UnconfirmedStationMm": 244,
+      "Profile": [
+        {
+          "Kind": "radial",
+          "X0": 241,
+          "R0": 68.32842712474618,
+          "X1": 241,
+          "R1": 79,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 241,
+          "R0": 79,
+          "X1": 243.4142135623731,
+          "R1": 81.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 243.4142135623731,
+          "R0": 81.41421356237309,
+          "X1": 244,
+          "R1": 82.82842712474618,
+          "CentreX": 242,
+          "CentreR": 82.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 244,
+          "R0": 82.82842712474618,
+          "X1": 244,
+          "R1": 91,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 244,
+          "R0": 91,
+          "X1": 246.4142135623731,
+          "R1": 93.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 246.4142135623731,
+          "R0": 93.41421356237309,
+          "X1": 247,
+          "R1": 94.82842712474618,
+          "CentreX": 245,
+          "CentreR": 94.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 247,
+          "R0": 94.82842712474618,
+          "X1": 247,
+          "R1": 127.5,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        }
+      ],
+      "OuterVolumeMm3": 141825.03121397708,
+      "LocalHoleIntersectionVolumeMm3": 391.75865523810086,
+      "VolumeDeltaFromStage10Mm3": -46383.70264347322,
+      "IntegrationRefinementDifferenceMm3": 1.3764831237494946E-05
+    },
+    {
+      "UnconfirmedStationMm": 245,
+      "Profile": [
+        {
+          "Kind": "radial",
+          "X0": 241,
+          "R0": 68.32842712474618,
+          "X1": 241,
+          "R1": 78,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 241,
+          "R0": 78,
+          "X1": 244.4142135623731,
+          "R1": 81.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 244.4142135623731,
+          "R0": 81.41421356237309,
+          "X1": 245,
+          "R1": 82.82842712474618,
+          "CentreX": 243,
+          "CentreR": 82.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 245,
+          "R0": 82.82842712474618,
+          "X1": 245,
+          "R1": 92,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 245,
+          "R0": 92,
+          "X1": 246.4142135623731,
+          "R1": 93.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 246.4142135623731,
+          "R0": 93.41421356237309,
+          "X1": 247,
+          "R1": 94.82842712474618,
+          "CentreX": 245,
+          "CentreR": 94.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 247,
+          "R0": 94.82842712474618,
+          "X1": 247,
+          "R1": 127.5,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        }
+      ],
+      "OuterVolumeMm3": 134882.1114495421,
+      "LocalHoleIntersectionVolumeMm3": 280.41428775172784,
+      "VolumeDeltaFromStage10Mm3": -53215.27804042182,
+      "IntegrationRefinementDifferenceMm3": 1.3764802133664489E-05
+    },
+    {
+      "UnconfirmedStationMm": 246,
+      "Profile": [
+        {
+          "Kind": "radial",
+          "X0": 241,
+          "R0": 68.32842712474618,
+          "X1": 241,
+          "R1": 77,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 241,
+          "R0": 77,
+          "X1": 245.4142135623731,
+          "R1": 81.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 245.4142135623731,
+          "R0": 81.41421356237309,
+          "X1": 246,
+          "R1": 82.82842712474618,
+          "CentreX": 244,
+          "CentreR": 82.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 246,
+          "R0": 82.82842712474618,
+          "X1": 246,
+          "R1": 93,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "line",
+          "X0": 246,
+          "R0": 93,
+          "X1": 246.4142135623731,
+          "R1": 93.41421356237309,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        },
+        {
+          "Kind": "arc",
+          "X0": 246.4142135623731,
+          "R0": 93.41421356237309,
+          "X1": 247,
+          "R1": 94.82842712474618,
+          "CentreX": 245,
+          "CentreR": 94.82842712474618,
+          "FilletRadius": 2
+        },
+        {
+          "Kind": "radial",
+          "X0": 247,
+          "R0": 94.82842712474618,
+          "X1": 247,
+          "R1": 127.5,
+          "CentreX": null,
+          "CentreR": null,
+          "FilletRadius": null
+        }
+      ],
+      "OuterVolumeMm3": 126871.0501828827,
+      "LocalHoleIntersectionVolumeMm3": 167.31695222062604,
+      "VolumeDeltaFromStage10Mm3": -61113.241971550124,
+      "IntegrationRefinementDifferenceMm3": 1.3782046153210104E-05
+    }
+  ],
+  "RequiredDecision": "Establish or explicitly approve the intermediate station before promoting a candidate to CAD."
+}

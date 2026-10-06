@@ -1,0 +1,80 @@
+{
+  "ModelFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_EntryChamfers_20260925_081939_127.SLDPRT",
+  "SourceFile": "F:\\Project\\DrawingTo3D\\CadTest\\output\\Tsapfa_TRIAL_ExtendedChannels_20260925_000906_371.SLDPRT",
+  "SourceSha256": "B06E7839BEA69B0F015FC7A1C87D1E089735633AD8032FD1E06DB8367DAB88F4",
+  "IsManufacturingReady": false,
+  "Result": {
+    "InitialVolumeMm3": 2074853.3466123636,
+    "FinalVolumeMm3": 2074835.077516568,
+    "Operations": [
+      {
+        "AngleDegrees": 60,
+        "Feature": "D6_entry_chamfer_1x45_60",
+        "DistanceMm": 1,
+        "AngleDegreesRequested": 45,
+        "RemovedMm3": 9.134547897148877,
+        "FeatureError": 0
+      },
+      {
+        "AngleDegrees": 120,
+        "Feature": "D6_entry_chamfer_1x45_120",
+        "DistanceMm": 1,
+        "AngleDegreesRequested": 45,
+        "RemovedMm3": 9.134547898545861,
+        "FeatureError": 0
+      }
+    ],
+    "Scope": "Native 1 mm/45 degree edge chamfer at curved D105/D6 intersection; volume sanity bound only, not independently verified conical countersink geometry."
+  },
+  "Connections": [
+    {
+      "AngleDegrees": 60,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    },
+    {
+      "AngleDegrees": 120,
+      "MainFaces": 2,
+      "RadialFaces": 1,
+      "SharedEdges": 1,
+      "RearRecessFloorIntersectionEdges": 1,
+      "ClosedRearM8SeatVerified": false
+    }
+  ],
+  "M12": {
+    "Threads": [
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_1",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.9472192533935,
+        "MinRadius": 5.052784714610734,
+        "MaxRadius": 6.000001981934647,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      },
+      {
+        "Feature": "TRIAL_M12x1_75_7H_nominal_2",
+        "Samples": 528,
+        "MinX": 247,
+        "MaxX": 263.94721925339496,
+        "MinRadius": 5.052784714610729,
+        "MaxRadius": 6.000001981933177,
+        "PitchMm": 1.75,
+        "RightHanded": true,
+        "Type": "C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2025\\thread profiles\\Metric Tap.SLDLFP",
+        "Size": "M12x1.75",
+        "ReverseDirection": false
+      }
+    ],
+    "ActualVolumeMm3": 2074835.0775165698,
+    "Scope": "Sampled trimmed thread edge bounds and persisted feature parameters; not a continuous surface or 7H tolerance certification."
+  },
+  "Limitations": "Inherited channel/spline/M12 trial assumptions. Native edge chamfer on curved entry; exact countersink surface not independently accepted. M8, D6.8, KG1/8, M90 and DK remain unfinished."
+}
